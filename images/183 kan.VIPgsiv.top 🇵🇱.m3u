@@ -1,0 +1,367 @@
+﻿#EXTM3U8 url-tvg="https://gps-team.pl/pltv.xml"
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp.png" group-title="📺 Ogólne",📺 TVP
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/869.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp1.png" group-title="📺 Ogólne",📺 TVP 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1026.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp2.png" group-title="📺 Ogólne",📺 TVP 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1027.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp3.png" group-title="📺 Ogólne",📺 TVP 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1028.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpabc.png" group-title="📺 Ogólne",📺 TVP ABC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1029.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/TVP_Dokument.png" group-title="📺 Ogólne",📺 TVP DOKUMENT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/83025.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvphistoria.png" group-title="📺 Ogólne",📺 TVP HISTORIA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1031.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpinfo.png" group-title="📺 Ogólne",📺 TVP INFO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1032.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpkultura.png" group-title="📺 Ogólne",📺 TVP KULTURA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1033.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvppolonia.png" group-title="📺 Ogólne",📺 TVP POLONIA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1034.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvprozrywka.png" group-title="📺 Ogólne",📺 TVP ROZRYWKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1035.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpsport.png" group-title="📺 Ogólne",📺 TVP SPORT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1030.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tlc.png" group-title="📺 Ogólne",📺 TLC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1008.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvn.png" group-title="📺 Ogólne",📺 TVN
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1019.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvn7.png" group-title="📺 Ogólne",📺 TVN 7
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1020.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvnturbo.png" group-title="📺 Ogólne",📺 TVN TURBO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1025.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/ttv.png" group-title="📺 Ogólne",📺 TTV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1012.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tv4.png" group-title="📺 Ogólne",📺 TV 4
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1013.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tv6.png" group-title="📺 Ogólne",📺 TV 6
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1014.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvplus.png" group-title="📺 Ogólne",📺 TV PULS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1016.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/2plus2.png" group-title="📺 Ogólne",📺 PULS 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/982.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvrepublika.png" group-title="📺 Ogólne",📺 TV REPUBLIKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1017.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvkujawy.png" group-title="📺 Ogólne",📺 TV KUJAWY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1015.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvtrwam.png" group-title="📺 Ogólne",📺 TV TRWAM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1018.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvs.png" group-title="📺 Ogólne",📺 TVS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1037.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsat1.png" group-title="📺 Ogólne",📺 POLSAT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/984.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsat2.png" group-title="📺 Ogólne",📺 POLSAT 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/985.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatcafe.png" group-title="📺 Ogólne",📺 POLSAT CAFE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/986.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatplay.png" group-title="📺 Ogólne",📺 POLSAT PLAY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/992.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatrodzina.png" group-title="📺 Ogólne",📺 POLSAT RODZINA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/994.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/superpolsat.png" group-title="📺 Ogólne",📺 SUPER POLSAT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1006.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/bbcbrit.png" group-title="📺 Ogólne",📺 BBC BRIT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/905.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/bbcearth.png" group-title="📺 Ogólne",📺 BBC EARTH
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/907.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/bbcfirst.png" group-title="📺 Ogólne",📺 BBC FIRST
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/908.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/bbclifestyle.png" group-title="📺 Ogólne",📺 BBC LIFESTYLE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/909.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/13ulica.png" group-title="📺 Ogólne",📺 13 ULICA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/894.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/alekinoplus.png" group-title="📺 Ogólne",📺 ALE KINO+
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/897.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/activefamily.png" group-title="📺 Ogólne",📺 ACTIVE FAMILY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/895.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/entertainment.png" group-title="📺 Ogólne",📺 E! ENTERTAINMENT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/937.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/Poland.png" group-title="📺 Ogólne",📺 CANAL+ KUCHNIA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/963.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/nutatv.png" group-title="📺 Ogólne",📺 NUTA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/979.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/metro.png" group-title="📺 Ogólne",📺 METRO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/965.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/stopklatka.png" group-title="📺 Ogólne",📺 STOPKLATKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1004.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/wp.png" group-title="📺 Ogólne",📺 WP
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1040.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/zoomtv.png" group-title="📺 Ogólne",📺 ZOOM TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1042.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/sundance.png" group-title="📺 Ogólne",📺 SUNDANCE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1005.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/romancetv.png" group-title="📺 Ogólne",📺 ROMANCE TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1001.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/kinopolskamuzyka.png" group-title="📺 Ogólne",📺 KINO POLSKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/960.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/foodnetwork.png" group-title="📺 Ogólne",📺 FOOD NETWORK
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/950.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="📺 Ogólne",📺 HGTV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/958.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/nowatv.png" group-title="📺 Ogólne",📺 NOWA TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/978.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/redcarpet.png" group-title="📺 Ogólne",📺 RED CARPET
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="⚽️ Sport",📺 CANAL+ SPORT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/876.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="⚽️ Sport",📺 CANAL+ SPORT 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/877.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="⚽️ Sport",📺 CANAL+ SPORT 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/878.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="⚽️ Sport",📺 CANAL+ SPORT 4
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/879.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="⚽️ Sport",📺 CANAL+ SPORT 5
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/889.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="⚽️ Sport",📺 ELEVEN SPORTS 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/880.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="⚽️ Sport",📺 ELEVEN SPORTS 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/881.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="⚽️ Sport",📺 ELEVEN SPORTS 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/882.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="⚽️ Sport",📺 ELEVEN SPORTS 4
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/883.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="⚽️ Sport",📺 POLSAT SPORT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/34309.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="⚽️ Sport",📺 POLSAT SPORT EXTRA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/886.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="⚽️ Sport",📺 POLSAT SPORT NEWS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/887.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="⚽️ Sport",📺 POLSAT SPORT FIGHT
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/888.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/870.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/871.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv3.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/872.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv4.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 4
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/873.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv5.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 5
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/874.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="⚽️ Sport",📺 POLSAT SPORT PREMIUM 6
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/875.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="⚽️ Sport",📺 EUROSPORT 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/884.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/eurosport2.png" group-title="⚽️ Sport",📺 EUROSPORT 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/885.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="⚽️ Sport",📺 FIGHT BOX
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/942.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="⚽️ Sport",📺 GOLF CHANNEL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/953.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/motowizja.png" group-title="⚽️ Sport",📺 MOTOWIZJA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/967.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvn24.png" group-title="",📺 TVN 24
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1022.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvn24bis.png" group-title="📰 Info",📺 TVN 24 BIS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1021.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatnews.png" group-title="📰 Info",📺 POLSAT NEWS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/990.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsat_news_2.png" group-title="📰 Info",📺 POLSAT NEWS 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/991.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvnfabula.png" group-title="📰 Info",📺 TVN FABULA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1023.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvnstyle.png" group-title="📰 Info",📺 TVN STYLE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1024.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/Wydarzenia_24.png" group-title="📰 Info",📺 Wydarzenia 24
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1041.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/cbseuropa.png" group-title="📰 Info",📺 CBS EUROPA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/920.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/cbsreality.png" group-title="📰 Info",📺 CBS REALITY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/921.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canal1.png" group-title="🎬 Kino",📺 CANAL+ 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/911.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="🎬 Kino",📺 CANAL+ DISCOVERY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/912.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canalfamily1.png" group-title="🎬 Kino",📺 CANAL+ FAMILY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/914.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canalfilm.png" group-title="🎬 Kino",📺 CANAL+ FILM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/915.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canal+now.png" group-title="🎬 Kino",📺 CANAL+ NOW
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/916.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canalpremier.png" group-title="🎬 Kino",📺 CANAL+ PREMIUM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/917.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canalseriale.png" group-title="🎬 Kino",📺 CANAL+ SERIALE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/918.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/hbo.png" group-title="🎬 Kino",📺 HBO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/955.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/hbo2.png" group-title="🎬 Kino",📺 HBO 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/956.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/hbo3.png" group-title="🎬 Kino",📺 HBO 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/957.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/fox.png" group-title="🎬 Kino",📺 FOX
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/951.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/foxcomedy.png" group-title="🎬 Kino",📺 FOX COMEDY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/952.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/comedycentral.png" group-title="🎬 Kino",📺 COMEDY CENTRAL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/924.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/paramountchannel.png" group-title="🎬 Kino",📺 PARAMOUNT CHANNEL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/980.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/Warner_TV.png" group-title="🎬 Kino",📺 WARNER TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1009.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/scifiuniversal.png" group-title="🎬 Kino",📺 SCIFI UNIVERSAL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1002.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/amc.png" group-title="🎬 Kino",📺 AMC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/898.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/axn.png" group-title="🎬 Kino",📺 AXN
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/900.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/axnblack.png" group-title="🎬 Kino",📺 AXN BLACK
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/901.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/axnspin.png" group-title="🎬 Kino",📺 AXN SPIN
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/902.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/axnwhite.png" group-title="🎬 Kino",📺 AXN WHITE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/903.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/cinemax.png" group-title="🎬 Kino",📺 CINEMAX
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/922.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/cinemax2.png" group-title="🎬 Kino",📺 CINEMAX 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/923.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpseriale.png" group-title="🎬 Kino",📺 TVP SERIALE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1036.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/filmboxaction.png" group-title="🎬 Kino",📺 FILMBOX ACTION
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/944.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/filmboxarthouse.png" group-title="🎬 Kino",📺 FILMBOX ARTHOUSE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/945.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/filmboxextra.png" group-title="🎬 Kino",📺 FILMBOX EXTRA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/946.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/filmboxfamily.png" group-title="🎬 Kino",📺 FILMBOX FAMILY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/947.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/filmboxpremium.png" group-title="🎬 Kino",📺 FILMBOX PREMIUM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/948.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/kinotv.png" group-title="🎬 Kino",📺 KINO TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/962.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/lifetime.png" group-title="🎬 Kino",📺 LIFETIME
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/964.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/epicdrama.png" group-title="🎬 Kino",📺 EPIC DRAMA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/938.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatfilm.png" group-title="🎬 Kino",📺 POLSAT FILM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/987.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/vivapolska.png" group-title="🎬 Kino",📺 VIVA POLSKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1039.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/natgeo.png" group-title="🏛�?Dokument",📺 NAT GEO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/972.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/natgeopeople.png" group-title="🏛�?Dokument",📺 NAT GEO PEOPLE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/973.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/natgeowild.png" group-title="🏛�?Dokument",📺 NAT GEO WILD
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/974.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="🏛�?Dokument",📺 DISCOVERY CHANNEL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/928.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoveryhistoria.png" group-title="🏛�?Dokument",📺 DISCOVERY HISTORIA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/929.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoveryinvestigation.png" group-title="🏛�?Dokument",📺 DISCOVERY INVESTIGATION
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/930.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoverylife.png" group-title="🏛�?Dokument",📺 DISCOVERY LIFE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/931.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoveryscience.png" group-title="🏛�?Dokument",📺 DISCOVERY SCIENCE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/932.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discoveryturboxtra.png" group-title="🏛�?Dokument",📺 DISCOVERY TURBO EXTRA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/933.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasatexplore.png" group-title="🏛�?Dokument",📺 POLSAT VIASAT EXPLORE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/996.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasathistory.png" group-title="🏛�?Dokument",📺 POLSAT VIASAT HISTORY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/997.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasatnature.png" group-title="🏛�?Dokument",📺 POLSAT VIASAT NATURE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/998.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/planete.png" group-title="🏛�?Dokument",📺 PLANETE+
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/981.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/crimeinvestigation.png" group-title="🏛�?Dokument",📺 CRIME+ INVESTIGATION
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/926.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/travelchannel.png" group-title="🏛�?Dokument",📺 TRAVEL CHANNEL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1011.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/animalplanet.png" group-title="🏛�?Dokument",📺 ANIMAL PLANET
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/899.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/adventure.png" group-title="🏛�?Dokument",📺 ADVENTURE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/896.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/h2.png" group-title="🏛�?Dokument",📺 HISTORY 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/954.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/historychannel.png" group-title="🏛�?Dokument",📺 HISTORY
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/959.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/fokustv.png" group-title="🏛�?Dokument",📺 FOKUS TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/949.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/nickjr.png" group-title="🧒 Bajki",📺 NICK JR
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/975.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" group-title="🧒 Bajki",📺 BABY TV HD
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/904.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/bbccbeebies.png" group-title="🧒 Bajki",📺 BBC CBEEBIES
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/906.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/boomerang.png" group-title="🧒 Bajki",📺 BOOMERANG
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/910.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/canaldomohd.jpg" group-title="🧒 Bajki",📺 CANAL+ DOMO
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/913.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/davincilearning.png" group-title="🧒 Bajki",📺 DAVINCI LEARNING
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/927.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/disneychannel.png" group-title="🧒 Bajki",📺 DISNEY CHANNEL
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/934.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/disneyjr.png" group-title="🧒 Bajki",📺 DISNEY JR
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/935.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/disneyxd.png" group-title="🧒 Bajki",📺 DISNEY XD
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/936.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/minimini.png" group-title="🧒 Bajki",📺 MINIMINI+
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/966.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/nickelodeon.png" group-title="🧒 Bajki",📺 NICKELODEON
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/976.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/nicktoons.png" group-title="🧒 Bajki",📺 NICKTOONS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/977.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/teletoon.png" group-title="🧒 Bajki",📺 TELETOON+
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1007.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/cartoonnetwork.png" group-title="🧒 Bajki",📺 CARTOON NETWORK
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1043.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatmusic.png" group-title="🧒 Bajki",📺 POLSAT GAMES
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/988.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatjimjam.png" group-title="🧒 Bajki",📺 POLSAT JIM JAM
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/989.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/4funtv.png" group-title="🎧 Muzyka",📺 4 FUN TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/893.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/4fundance.png" group-title="🎧 Muzyka",📺 4 FUN DANCE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/890.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/4fungoldhits.png" group-title="🎧 Muzyka",📺 4 FUN GOLD
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/891.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/4fungoldhits.png" group-title="🎧 Muzyka",📺 4 FUN GOLD HITS
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/892.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/mtv.png" group-title="🎧 Muzyka",📺 MTV 90s
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/968.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/mtvdance.png" group-title="🎧 Muzyka",📺 MTV DANCE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/969.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/mtvlive.png" group-title="🎧 Muzyka",📺 MTV LIVE
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/970.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/mtvpolska.png" group-title="🎧 Muzyka",📺 MTV POLSKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/971.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polsatmusic.png" group-title="🎧 Muzyka",📺 POLSAT MUSIC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/993.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/kinopolskamuzyka.png" group-title="🎧 Muzyka",📺 KINO POLSKA MUZYKA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/961.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/discopolomusic.png" group-title="🎧 Muzyka",📺 DISCO POLO MUSIC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1044.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/eskatvextra.png" group-title="🎧 Muzyka",📺 ESKA EXTRA
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/939.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/eskarocktv.png" group-title="🎧 Muzyka",📺 ESKA ROCK TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/940.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/eskatv.png" group-title="🎧 Muzyka",📺 ESKA TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/941.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/polotv.png" group-title="🎧 Muzyka",📺 POLO TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/983.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/powertv.png" group-title="🎧 Muzyka",📺 POWER TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/999.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/starstv.png" group-title="🎧 Muzyka",📺 STARS TV
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1003.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/traceurban.png" group-title="🎧 Muzyka",📺 TRACE URBAN
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1010.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/voxmusictv.png" group-title="🎧 Muzyka",📺 VOX MUSIC
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1045.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/vh1.png" group-title="🎧 Muzyka",📺 VH1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1038.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏛�?Dokument",📺 Polsat Doku
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/99472.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Kino",📺 Novelas+
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/115036.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📰 Info",📺 wPolsce 24
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/125460.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sport",📺 Extreme Sports
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/128952.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sport",📺 CANAL+ EXTRA 1
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/128981.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sport",📺 CANAL+ EXTRA 2
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/128982.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sport",📺 CANAL+ EXTRA 3
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/128983.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sport",📺 CANAL+ EXTRA 4
+http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/128984.m3u8
