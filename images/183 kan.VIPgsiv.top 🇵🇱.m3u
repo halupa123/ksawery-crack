@@ -1,13 +1,13 @@
 ﻿#EXTM3U8 url-tvg="https://gps-team.pl/pltv.xml"
-#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp.png" group-title="📺 Ogólne",📺 TVP
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp.png" group-title="📺 Ogólne",TVP
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/869.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp1.png" group-title="📺 Ogólne",📺 TVP 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp1.png" group-title="📺 Ogólne",TVP 1
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1026.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp2.png" group-title="📺 Ogólne",📺 TVP 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp2.png" group-title="📺 Ogólne",TVP 2
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1027.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp3.png" group-title="📺 Ogólne",📺 TVP 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvp3.png" group-title="📺 Ogólne",TVP 3
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1028.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpabc.png" group-title="📺 Ogólne",📺 TVP ABC
+#EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/tvpabc.png" group-title="📺 Ogólne",TVP ABC
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/1029.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://docdog.top/logo/countries/poland/TVP_Dokument.png" group-title="📺 Ogólne",📺 TVP DOKUMENT
 http://vipgsiv.top:8080/live/VIP0165170974723055/975a85a80ef7/83025.m3u8
