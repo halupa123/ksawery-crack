@@ -95,8 +95,6 @@ http://hrowee.top:8080/721706885130002/2385ab557758/10179
 http://hrowee.top:8080/721706885130002/2385ab557758/10199
 #EXTINF:-1 tvg-id="Red Carpet TV" tvg-name="PL: RED CARPET FHD" tvg-logo="https://docdog.top/logo/countries/poland/redcarpet.png" group-title="PL | OGÓLNY",PL: RED CARPET FHD
 http://hrowee.top:8080/721706885130002/2385ab557758/10219
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===Aktualności===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | AKTUALNOŚCI",PL: ===Aktualności===
-http://hrowee.top:8080/721706885130002/2385ab557758/56046
 #EXTINF:-1 tvg-id="TVN 24" tvg-name="PL: TVN 24 HD" tvg-logo="https://docdog.top/logo/countries/poland/tvn24.png" group-title="PL | AKTUALNOŚCI",PL: TVN 24 HD
 http://hrowee.top:8080/721706885130002/2385ab557758/10241
 #EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="PL: TVN 24 BIS FHD" tvg-logo="https://docdog.top/logo/countries/poland/tvn24bis.png" group-title="PL | AKTUALNOŚCI",PL: TVN 24 BIS FHD
@@ -115,8 +113,6 @@ http://hrowee.top:8080/721706885130002/2385ab557758/49575
 http://hrowee.top:8080/721706885130002/2385ab557758/10132
 #EXTINF:-1 tvg-id="CBS REALITY" tvg-name="PL: CBS REALITY" tvg-logo="https://docdog.top/logo/countries/poland/cbsreality.png" group-title="PL | AKTUALNOŚCI",PL: CBS REALITY
 http://hrowee.top:8080/721706885130002/2385ab557758/10133
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===FILM===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | FILM",PL: ===FILM===
-http://hrowee.top:8080/721706885130002/2385ab557758/56042
 #EXTINF:-1 tvg-id="Canal+ 1" tvg-name="PL: CANAL+ 1" tvg-logo="https://docdog.top/logo/countries/poland/canal1.png" group-title="PL | FILM",PL: CANAL+ 1
 http://hrowee.top:8080/721706885130002/2385ab557758/10121
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ DISCOVERY" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="PL | FILM",PL: CANAL+ DISCOVERY
@@ -185,8 +181,6 @@ http://hrowee.top:8080/721706885130002/2385ab557758/10155
 http://hrowee.top:8080/721706885130002/2385ab557758/10208
 #EXTINF:-1 tvg-id="VIVA Polska" tvg-name="PL: VIVA POLSKA" tvg-logo="https://docdog.top/logo/countries/poland/vivapolska.png" group-title="PL | FILM",PL: VIVA POLSKA
 http://hrowee.top:8080/721706885130002/2385ab557758/10259
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===SPORTY===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | SPORT",PL: ===SPORTY===
-http://hrowee.top:8080/721706885130002/2385ab557758/56041
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT",PL: CANAL+ SPORT
 http://hrowee.top:8080/721706885130002/2385ab557758/10129
 #EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
@@ -237,16 +231,14 @@ http://hrowee.top:8080/721706885130002/2385ab557758/10174
 http://hrowee.top:8080/721706885130002/2385ab557758/10188
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: Extreme Sports" tvg-logo="" group-title="PL | SPORT",PL: Extreme Sports
 http://hrowee.top:8080/721706885130002/2385ab557758/57482
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="" group-title="PL | SPORT",PL: CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra1.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 1
 http://hrowee.top:8080/721706885130002/2385ab557758/57555
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="" group-title="PL | SPORT",PL: CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra2.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 2
 http://hrowee.top:8080/721706885130002/2385ab557758/57556
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="" group-title="PL | SPORT",PL: CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra3.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 3
 http://hrowee.top:8080/721706885130002/2385ab557758/57557
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="PL: CANAL+ EXTRA 4" tvg-logo="" group-title="PL | SPORT",PL: CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="PL: CANAL+ EXTRA 4" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra4.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 4
 http://hrowee.top:8080/721706885130002/2385ab557758/57558
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===FILMY DOKUMENTALNE===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | DOKUMENTALNE",PL: ===FILMY DOKUMENTALNE===
-http://hrowee.top:8080/721706885130002/2385ab557758/56043
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/poland/natgeo.png" group-title="PL | DOKUMENTALNE",PL: NAT GEO
 http://hrowee.top:8080/721706885130002/2385ab557758/10193
 #EXTINF:-1 tvg-id="Nat Geo People" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/poland/natgeopeople.png" group-title="PL | DOKUMENTALNE",PL: NAT GEO PEOPLE
@@ -291,8 +283,6 @@ http://hrowee.top:8080/721706885130002/2385ab557758/10170
 http://hrowee.top:8080/721706885130002/2385ab557758/57368
 #EXTINF:-1 tvg-id="Polsat Play" tvg-name="PL: POLSAT PLAY" tvg-logo="https://docdog.top/logo/countries/poland/polsatplay.png" group-title="PL | MUZYKA",PL: POLSAT PLAY
 http://hrowee.top:8080/721706885130002/2385ab557758/10212
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===MUZYKA===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | MUZYKA",PL: ===MUZYKA===
-http://hrowee.top:8080/721706885130002/2385ab557758/56044
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV 90s" tvg-logo="https://docdog.top/logo/countries/poland/mtv.png" group-title="PL | MUZYKA",PL: MTV 90s
 http://hrowee.top:8080/721706885130002/2385ab557758/10189
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV DANCE" tvg-logo="https://docdog.top/logo/countries/poland/mtvdance.png" group-title="PL | MUZYKA",PL: MTV DANCE
@@ -333,8 +323,6 @@ http://hrowee.top:8080/721706885130002/2385ab557758/10229
 http://hrowee.top:8080/721706885130002/2385ab557758/23843
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: VH1" tvg-logo="https://docdog.top/logo/countries/poland/vh1.png" group-title="PL | MUZYKA",PL: VH1
 http://hrowee.top:8080/721706885130002/2385ab557758/10258
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===DZIECI===" tvg-logo="https://docdog.top/logo/countries/poland/countrypic.png" group-title="PL | DZIECI",PL: ===DZIECI===
-http://hrowee.top:8080/721706885130002/2385ab557758/56045
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="PL: NICK JR" tvg-logo="https://docdog.top/logo/countries/poland/nickjr.png" group-title="PL | DZIECI",PL: NICK JR
 http://hrowee.top:8080/721706885130002/2385ab557758/10196
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="PL: BABY TV HD" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" group-title="PL | DZIECI",PL: BABY TV HD
