@@ -9,20 +9,14 @@ http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/869
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1028
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP ABC" tvg-logo="https://epg.ovh/logo/TVP+ABC.png" group-title="PL | DZIECI",PL: TVP ABC
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1029
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP DOKUMENT" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" group-title="",PL: TVP DOKUMENT
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP DOKUMENT" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" group-title="PL | OGOLNE",PL: TVP DOKUMENT
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/83025
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP HISTORIA" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="",PL: TVP HISTORIA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1031
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP INFO" tvg-logo="https://epg.ovh/logo/TVP+Info.png" group-title="",PL: TVP INFO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1032
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP KULTURA" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="",PL: TVP KULTURA
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP KULTURA" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="PL | OGOLNE",PL: TVP KULTURA
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1033
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP POLONIA" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="",PL: TVP POLONIA
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP POLONIA" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="PL | OGOLNE",PL: TVP POLONIA
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1034
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP ROZRYWKA" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" group-title="",PL: TVP ROZRYWKA
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP ROZRYWKA" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" group-title="PL | OGOLNE",PL: TVP ROZRYWKA
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1035
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP SPORT" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="",PL: TVP SPORT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1030
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: TLC" tvg-logo="" group-title="PL | OGOLNE",PL: TLC
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1008
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN" tvg-logo="https://epg.ovh/logo/TVN+HD.png" group-title="PL | OGOLNE",PL: TVN
@@ -121,6 +115,8 @@ http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/881
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/882
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 4
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/883
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP SPORT" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="PL | SPORT",PL: TVP SPORT
+http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1030
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: Extreme Sports" tvg-logo="https://epg.ovh/logo/Extreme+Sports+Channel.png" group-title="PL | SPORT",PL: Extreme Sports
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128952
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT" tvg-logo="https://epg.ovh/logo/Polsat+Sport+1.png" group-title="PL | SPORT",PL: POLSAT SPORT
@@ -161,6 +157,8 @@ http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1021
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/990
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT NEWS 2" tvg-logo="" group-title="PL | WIADOMOSCI",PL: POLSAT NEWS 2
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/991
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP INFO" tvg-logo="https://epg.ovh/logo/TVP+Info.png" group-title="PL | WIADOMOSCI",PL: TVP INFO
+http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1032
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: Wydarzenia 24" tvg-logo="" group-title="PL | WIADOMOSCI",PL: Wydarzenia 24
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1041
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN FABULA" tvg-logo="" group-title="PL | FILM",PL: TVN FABULA
@@ -239,8 +237,8 @@ http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/938
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/987
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: VIVA POLSKA" tvg-logo="" group-title="PL | FILM",PL: VIVA POLSKA
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1039
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ===FILMY DOKUMENTALNE===" tvg-logo="" group-title="",PL: ===FILMY DOKUMENTALNE===
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/39707
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP HISTORIA" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="PL | NAUKA",PL: TVP HISTORIA
+http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1031
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: NAT GEO" tvg-logo="" group-title="PL | NAUKA",PL: NAT GEO
 http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/972
 #EXTINF:-1 tvg-id="ext" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="" group-title="PL | NAUKA",PL: NAT GEO PEOPLE
