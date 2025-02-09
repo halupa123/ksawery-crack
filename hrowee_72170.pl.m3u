@@ -1,405 +1,333 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP 1" tvg-logo="https://epg.ovh/logo/TVP+1.png" group-title="PL | OGOLNE",PL: TVP 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1026
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP 2" tvg-logo="https://epg.ovh/logo/TVP+2.png" group-title="PL | OGOLNE",PL: TVP 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1027
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP" tvg-logo="https://epg.ovh/logo/TVP+HD.png" group-title="PL | OGOLNE",PL: TVP
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/869
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP 3" tvg-logo="https://epg.ovh/logo/TVP+3.png" group-title="PL | OGOLNE",PL: TVP 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1028
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP ABC" tvg-logo="https://epg.ovh/logo/TVP+ABC.png" group-title="PL | DZIECI",PL: TVP ABC
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1029
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP DOKUMENT" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" group-title="PL | OGOLNE",PL: TVP DOKUMENT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/83025
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP KULTURA" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="PL | OGOLNE",PL: TVP KULTURA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1033
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP POLONIA" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="PL | OGOLNE",PL: TVP POLONIA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1034
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP ROZRYWKA" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" group-title="PL | OGOLNE",PL: TVP ROZRYWKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1035
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TLC" tvg-logo="" group-title="PL | OGOLNE",PL: TLC
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1008
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN" tvg-logo="https://epg.ovh/logo/TVN+HD.png" group-title="PL | OGOLNE",PL: TVN
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1019
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN 7" tvg-logo="https://epg.ovh/logo/TVN+7.png" group-title="PL | OGOLNE",PL: TVN 7
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1020
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN TURBO" tvg-logo="https://epg.ovh/logo/TVN+Turbo.png" group-title="PL | OGOLNE",PL: TVN TURBO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1025
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TTV" tvg-logo="https://epg.ovh/logo/TTV.png" group-title="PL | OGOLNE",PL: TTV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1012
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TV 4" tvg-logo="https://epg.ovh/logo/TV+4.png" group-title="PL | OGOLNE",PL: TV 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1013
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TV 6" tvg-logo="https://epg.ovh/logo/TV+6.png" group-title="PL | OGOLNE",PL: TV 6
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1014
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TV PULS" tvg-logo="https://epg.ovh/logo/TV+Puls.png" group-title="PL | OGOLNE",PL: TV PULS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1016
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: PULS 2" tvg-logo="" group-title="PL | OGOLNE",PL: PULS 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/982
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVS" tvg-logo="https://epg.ovh/logo/TVS.png" group-title="PL | OGOLNE",PL: TVS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1037
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT" tvg-logo="https://epg.ovh/logo/Polsat.png" group-title="PL | OGOLNE",PL: POLSAT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/984
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT 2" tvg-logo="https://epg.ovh/logo/Polsat+2.png" group-title="PL | OGOLNE",PL: POLSAT 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/985
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT CAFE" tvg-logo="https://epg.ovh/logo/Polsat+Cafe.png" group-title="PL | OGOLNE",PL: POLSAT CAFE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/986
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT PLAY" tvg-logo="https://epg.ovh/logo/Polsat+Play.png" group-title="PL | OGOLNE",PL: POLSAT PLAY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/992
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT RODZINA" tvg-logo="" group-title="PL | OGOLNE",PL: POLSAT RODZINA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/994
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: SUPER POLSAT" tvg-logo="" group-title="PL | OGOLNE",PL: SUPER POLSAT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1006
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC BRIT" tvg-logo="" group-title="PL | OGOLNE",PL: BBC BRIT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/905
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC EARTH" tvg-logo="" group-title="PL | OGOLNE",PL: BBC EARTH
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/907
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC FIRST" tvg-logo="" group-title="PL | OGOLNE",PL: BBC FIRST
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/908
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC LIFESTYLE" tvg-logo="" group-title="PL | OGOLNE",PL: BBC LIFESTYLE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/909
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: 13 ULICA" tvg-logo="" group-title="PL | OGOLNE",PL: 13 ULICA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/894
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ALE KINO+" tvg-logo="" group-title="PL | OGOLNE",PL: ALE KINO+
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/897
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ACTIVE FAMILY" tvg-logo="" group-title="PL | OGOLNE",PL: ACTIVE FAMILY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/895
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: E! ENTERTAINMENT" tvg-logo="" group-title="PL | OGOLNE",PL: E! ENTERTAINMENT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/937
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ KUCHNIA" tvg-logo="" group-title="PL | OGOLNE",PL: CANAL+ KUCHNIA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/963
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NUTA" tvg-logo="" group-title="PL | OGOLNE",PL: NUTA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/979
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: METRO" tvg-logo="" group-title="PL | OGOLNE",PL: METRO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/965
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: STOPKLATKA" tvg-logo="" group-title="PL | OGOLNE",PL: STOPKLATKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1004
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: WP" tvg-logo="" group-title="PL | OGOLNE",PL: WP
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1040
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ZOOM TV" tvg-logo="" group-title="PL | OGOLNE",PL: ZOOM TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1042
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: SUNDANCE" tvg-logo="" group-title="PL | OGOLNE",PL: SUNDANCE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1005
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: KINO POLSKA" tvg-logo="" group-title="PL | OGOLNE",PL: KINO POLSKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/960
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FOOD NETWORK" tvg-logo="" group-title="PL | OGOLNE",PL: FOOD NETWORK
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/950
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HGTV" tvg-logo="" group-title="PL | OGOLNE",PL: HGTV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/958
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NOWA TV" tvg-logo="" group-title="PL | OGOLNE",PL: NOWA TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/978
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: RED CARPET FHD" tvg-logo="" group-title="PL | OGOLNE",PL: RED CARPET FHD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1000
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="PL | SPORT",PL: CANAL+ SPORT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/876
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/877
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://epg.ovh/logo/Canal++Sport+3.png" group-title="PL | SPORT",PL: CANAL+ SPORT 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/878
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://epg.ovh/logo/Canal++Sport+4.png" group-title="PL | SPORT",PL: CANAL+ SPORT 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/879
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" group-title="PL | SPORT",PL: CANAL+ SPORT 5
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/889
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128981
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128982
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128983
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="PL | SPORT",PL: CANAL+ EXTRA 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128984
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/880
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/881
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/882
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/883
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP SPORT" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="PL | SPORT",PL: TVP SPORT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1030
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Extreme Sports" tvg-logo="https://epg.ovh/logo/Extreme+Sports+Channel.png" group-title="PL | SPORT",PL: Extreme Sports
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/128952
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT" tvg-logo="https://epg.ovh/logo/Polsat+Sport+1.png" group-title="PL | SPORT",PL: POLSAT SPORT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34309
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT EXTRA" tvg-logo="https://epg.ovh/logo/Polsat+Sport+2.png" group-title="PL | SPORT",PL: POLSAT SPORT EXTRA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/886
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT NEWS" tvg-logo="https://epg.ovh/logo/Polsat+Sport+3.png" group-title="PL | SPORT",PL: POLSAT SPORT NEWS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/887
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Fight.png" group-title="PL | SPORT",PL: POLSAT SPORT FIGHT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/888
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/870
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/871
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 3" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+3.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/872
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 4" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+4.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/873
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 5" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 5
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/874
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT SPORT PREMIUM 6" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 6
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/875
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: EUROSPORT 1" tvg-logo="https://epg.ovh/logo/eurosport1polandhd.png" group-title="PL | SPORT",PL: EUROSPORT 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/884
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: EUROSPORT 2" tvg-logo="https://epg.ovh/logo/eurosport2polandhd.png" group-title="PL | SPORT",PL: EUROSPORT 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/885
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FIGHT BOX" tvg-logo="https://epg.ovh/logo/FightBox.png" group-title="PL | SPORT",PL: FIGHT BOX
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/942
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: GOLF CHANNEL" tvg-logo="https://epg.ovh/logo/Golf+Channel.png" group-title="PL | SPORT",PL: GOLF CHANNEL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/953
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MOTOWIZJA" tvg-logo="https://epg.ovh/logo/Motowizja.png" group-title="PL | SPORT",PL: MOTOWIZJA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/967
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN 24 HD" tvg-logo="" group-title="PL | WIADOMOSCI",PL: TVN 24 HD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1022
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN 24 BIS FHD" tvg-logo="" group-title="PL | WIADOMOSCI",PL: TVN 24 BIS FHD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1021
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT NEWS" tvg-logo="" group-title="PL | WIADOMOSCI",PL: POLSAT NEWS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/990
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT NEWS 2" tvg-logo="" group-title="PL | WIADOMOSCI",PL: POLSAT NEWS 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/991
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP INFO" tvg-logo="https://epg.ovh/logo/TVP+Info.png" group-title="PL | WIADOMOSCI",PL: TVP INFO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1032
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Wydarzenia 24" tvg-logo="" group-title="PL | WIADOMOSCI",PL: Wydarzenia 24
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1041
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN FABULA" tvg-logo="" group-title="PL | FILM",PL: TVN FABULA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1023
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVN STYLE" tvg-logo="" group-title="PL | FILM",PL: TVN STYLE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1024
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CBS EUROPA" tvg-logo="" group-title="PL | FILM",PL: CBS EUROPA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/920
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CBS REALITY" tvg-logo="" group-title="PL | FILM",PL: CBS REALITY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/921
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ 1" tvg-logo="" group-title="PL | FILM",PL: CANAL+ 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/911
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ DOKUMENT" tvg-logo="" group-title="PL | FILM",PL: CANAL+ DOKUMENT
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/912
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ FAMILY" tvg-logo="" group-title="PL | FILM",PL: CANAL+ FAMILY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/914
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ FILM" tvg-logo="" group-title="PL | FILM",PL: CANAL+ FILM
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/915
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ NOW" tvg-logo="" group-title="PL | FILM",PL: CANAL+ NOW
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/916
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ PREMIUM" tvg-logo="" group-title="PL | FILM",PL: CANAL+ PREMIUM
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/917
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ SERIALE" tvg-logo="" group-title="PL | FILM",PL: CANAL+ SERIALE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/918
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HBO" tvg-logo="" group-title="PL | FILM",PL: HBO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/955
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HBO 2" tvg-logo="" group-title="PL | FILM",PL: HBO 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/956
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HBO 3" tvg-logo="" group-title="PL | FILM",PL: HBO 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/957
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FOX" tvg-logo="" group-title="PL | FILM",PL: FOX
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/951
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FOX COMEDY" tvg-logo="" group-title="PL | FILM",PL: FOX COMEDY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/952
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: COMEDY CENTRAL" tvg-logo="" group-title="PL | FILM",PL: COMEDY CENTRAL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/924
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: PARAMOUNT CHANNEL" tvg-logo="" group-title="PL | FILM",PL: PARAMOUNT CHANNEL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/980
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: WARNER TV" tvg-logo="" group-title="PL | FILM",PL: WARNER TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1009
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: SCIFI UNIVERSAL" tvg-logo="" group-title="PL | FILM",PL: SCIFI UNIVERSAL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1002
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: AMC" tvg-logo="" group-title="PL | FILM",PL: AMC
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/898
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: AXN" tvg-logo="" group-title="PL | FILM",PL: AXN
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/900
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: AXN BLACK" tvg-logo="" group-title="PL | FILM",PL: AXN BLACK
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/901
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: AXN SPIN" tvg-logo="" group-title="PL | FILM",PL: AXN SPIN
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/902
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: AXN WHITE" tvg-logo="" group-title="PL | FILM",PL: AXN WHITE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/903
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CINEMAX" tvg-logo="" group-title="PL | FILM",PL: CINEMAX
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/922
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CINEMAX 2" tvg-logo="" group-title="PL | FILM",PL: CINEMAX 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/923
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP SERIALE" tvg-logo="" group-title="PL | FILM",PL: TVP SERIALE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1036
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FILMBOX ACTION" tvg-logo="" group-title="PL | FILM",PL: FILMBOX ACTION
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/944
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="" group-title="PL | FILM",PL: FILMBOX ARTHOUSE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/945
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FILMBOX EXTRA" tvg-logo="" group-title="PL | FILM",PL: FILMBOX EXTRA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/946
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FILMBOX FAMILY" tvg-logo="" group-title="PL | FILM",PL: FILMBOX FAMILY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/947
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FILMBOX PREMIUM" tvg-logo="" group-title="PL | FILM",PL: FILMBOX PREMIUM
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/948
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: KINO TV" tvg-logo="" group-title="PL | FILM",PL: KINO TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/962
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: LIFETIME" tvg-logo="" group-title="PL | FILM",PL: LIFETIME
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/964
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: EPIC DRAMA" tvg-logo="" group-title="PL | FILM",PL: EPIC DRAMA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/938
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT FILM" tvg-logo="" group-title="PL | FILM",PL: POLSAT FILM
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/987
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: VIVA POLSKA" tvg-logo="" group-title="PL | FILM",PL: VIVA POLSKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1039
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TVP HISTORIA" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="PL | NAUKA",PL: TVP HISTORIA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1031
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NAT GEO" tvg-logo="" group-title="PL | NAUKA",PL: NAT GEO
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/972
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="" group-title="PL | NAUKA",PL: NAT GEO PEOPLE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/973
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NAT GEO WILD" tvg-logo="" group-title="PL | NAUKA",PL: NAT GEO WILD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/974
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY CHANNEL" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY CHANNEL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/928
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY HISTORIA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/929
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY INVESTIGATION" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY INVESTIGATION
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/930
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY LIFE" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY LIFE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/931
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY SCIENCE" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY SCIENCE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/932
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCOVERY TURBO EXTRA" tvg-logo="" group-title="PL | NAUKA",PL: DISCOVERY TURBO EXTRA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/933
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT VIASAT EXPLORE" tvg-logo="" group-title="PL | NAUKA",PL: POLSAT VIASAT EXPLORE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/996
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT VIASAT HISTORY" tvg-logo="" group-title="PL | NAUKA",PL: POLSAT VIASAT HISTORY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/997
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT VIASAT NATURE" tvg-logo="" group-title="PL | NAUKA",PL: POLSAT VIASAT NATURE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/998
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: PLANETE+" tvg-logo="" group-title="PL | NAUKA",PL: PLANETE+
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/981
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CRIME+ INVESTIGATION" tvg-logo="" group-title="PL | NAUKA",PL: CRIME+ INVESTIGATION
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/926
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TRAVEL CHANNEL" tvg-logo="" group-title="PL | NAUKA",PL: TRAVEL CHANNEL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1011
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ANIMAL PLANET" tvg-logo="" group-title="PL | NAUKA",PL: ANIMAL PLANET
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/899
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ADVENTURE" tvg-logo="" group-title="PL | NAUKA",PL: ADVENTURE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/896
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HISTORY 2" tvg-logo="" group-title="PL | NAUKA",PL: HISTORY 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/954
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: HISTORY" tvg-logo="" group-title="PL | NAUKA",PL: HISTORY
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/959
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: FOKUS TV" tvg-logo="" group-title="PL | NAUKA",PL: FOKUS TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/949
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NICK JR" tvg-logo="" group-title="PL | DZIECI",PL: NICK JR
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/975
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BABY TV HD" tvg-logo="" group-title="PL | DZIECI",PL: BABY TV HD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/904
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC CBEEBIES" tvg-logo="" group-title="PL | DZIECI",PL: BBC CBEEBIES
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/906
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: BOOMERANG" tvg-logo="" group-title="PL | DZIECI",PL: BOOMERANG
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/910
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DAVINCI LEARNING" tvg-logo="" group-title="PL | DZIECI",PL: DAVINCI LEARNING
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/927
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISNEY CHANNEL" tvg-logo="" group-title="PL | DZIECI",PL: DISNEY CHANNEL
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/934
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISNEY JR" tvg-logo="" group-title="PL | DZIECI",PL: DISNEY JR
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/935
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISNEY XD" tvg-logo="" group-title="PL | DZIECI",PL: DISNEY XD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/936
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MINIMINI+" tvg-logo="" group-title="PL | DZIECI",PL: MINIMINI+
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/966
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NICKELODEON" tvg-logo="" group-title="PL | DZIECI",PL: NICKELODEON
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/976
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: NICKTOONS" tvg-logo="" group-title="PL | DZIECI",PL: NICKTOONS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/977
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: TELETOON+" tvg-logo="" group-title="PL | DZIECI",PL: TELETOON+
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1007
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: CARTOON NETWORK" tvg-logo="" group-title="PL | DZIECI",PL: CARTOON NETWORK
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1043
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT GAMES" tvg-logo="" group-title="PL | DZIECI",PL: POLSAT GAMES
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/988
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT JIM JAM" tvg-logo="" group-title="PL | DZIECI",PL: POLSAT JIM JAM
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/989
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: 4 FUN TV" tvg-logo="" group-title="PL | MUZYKA",PL: 4 FUN TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/893
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: 4 FUN DANCE" tvg-logo="" group-title="PL | MUZYKA",PL: 4 FUN DANCE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/890
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: 4 FUN GOLD" tvg-logo="" group-title="PL | MUZYKA",PL: 4 FUN GOLD
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/891
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: 4 FUN GOLD HITS" tvg-logo="" group-title="PL | MUZYKA",PL: 4 FUN GOLD HITS
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/892
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV 90s" tvg-logo="" group-title="PL | MUZYKA",PL: MTV 90s
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/968
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV DANCE" tvg-logo="" group-title="PL | MUZYKA",PL: MTV DANCE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/969
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV LIVE" tvg-logo="" group-title="PL | MUZYKA",PL: MTV LIVE
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/970
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: MTV POLSKA" tvg-logo="" group-title="PL | MUZYKA",PL: MTV POLSKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/971
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLSAT MUSIC" tvg-logo="" group-title="PL | MUZYKA",PL: POLSAT MUSIC
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/993
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: KINO POLSKA MUZYKA" tvg-logo="" group-title="PL | MUZYKA",PL: KINO POLSKA MUZYKA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/961
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: DISCO POLO MUSIC" tvg-logo="" group-title="PL | MUZYKA",PL: DISCO POLO MUSIC
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1044
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ESKA EXTRA" tvg-logo="" group-title="PL | MUZYKA",PL: ESKA EXTRA
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/939
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ESKA ROCK TV" tvg-logo="" group-title="PL | MUZYKA",PL: ESKA ROCK TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/940
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: ESKA TV" tvg-logo="" group-title="PL | MUZYKA",PL: ESKA TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/941
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POLO TV" tvg-logo="" group-title="PL | MUZYKA",PL: POLO TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/983
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: POWER TV" tvg-logo="" group-title="PL | MUZYKA",PL: POWER TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/999
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: STARS TV" tvg-logo="" group-title="PL | MUZYKA",PL: STARS TV
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/1003
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 1" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 1
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34147
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 2" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 2
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34148
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 3" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 3
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34149
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 4" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 4
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34150
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 5" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 5
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34151
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 6" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 6
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34152
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 7" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 7
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34153
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 8" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 8
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34154
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 9" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 9
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34155
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 10" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 10
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34156
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 11" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 11
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34157
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 12" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 12
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34158
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 13" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 13
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34159
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 14" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 14
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34160
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 15" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 15
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34161
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 16" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 16
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34162
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 17" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 17
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34163
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 18" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 18
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34164
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 19" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 19
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34165
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 20" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 20
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34166
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 21" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 21
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34167
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 22" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 22
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34168
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 23" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 23
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34169
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 24" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 24
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34170
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 25" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 25
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34171
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 26" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 26
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34172
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 27" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 27
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34173
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 28" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 28
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34174
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 29" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 29
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34175
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Xtra 30" tvg-logo="https://epg.ovh/logo/Viaplay.png" group-title="PL | VIAPLAY",PL: Viaplay Xtra 30
-http://vipmacd.top:8080/VIP015741728938595110/a1bdfefcf89b/34176
+#EXTINF:-1, 13 Ulica
+http://89.187.167.247/13ulica.stream/playlist.m3u8
+#EXTINF:-1, 4FUN Dance
+http://89.187.167.247/4fundance.stream/playlist.m3u8
+#EXTINF:-1, 4FUN TV
+http://89.187.167.247/4funtv.stream/playlist.m3u8
+#EXTINF:-1, AMC
+http://89.187.167.247/amc.stream/playlist.m3u8
+#EXTINF:-1, AXN Black
+http://89.187.167.247/axnblack.stream/playlist.m3u8
+#EXTINF:-1, AXN Polska
+http://89.187.167.247/axnpolska.stream/playlist.m3u8
+#EXTINF:-1, AXN Spin
+http://89.187.167.247/axnspin.stream/playlist.m3u8
+#EXTINF:-1, AXN White
+http://89.187.167.247/axnwhite.stream/playlist.m3u8
+#EXTINF:-1, Adventure
+http://89.187.167.247/adventure.stream/playlist.m3u8
+#EXTINF:-1, Active Family
+http://89.187.167.247/activefamily.stream/playlist.m3u8
+#EXTINF:-1, Ale Kino+
+http://89.187.167.247/alekino.stream/playlist.m3u8
+#EXTINF:-1, Animal Planet
+http://89.187.167.247/animalplanet.stream/playlist.m3u8
+#EXTINF:-1, Home TV
+http://89.187.167.247/hometv.stream/playlist.m3u8
+#EXTINF:-1, BBC Brit
+http://89.187.167.247/bbcbrit.stream/playlist.m3u8
+#EXTINF:-1, BBC Earth
+http://89.187.167.247/bbcearth.stream/playlist.m3u8
+#EXTINF:-1, BBC First
+http://89.187.167.247/bbcfirst.stream/playlist.m3u8
+#EXTINF:-1, BBC Lifestyle
+http://89.187.167.247/bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1, BBC CBeebies
+http://89.187.167.247/bbccbeebies.stream/playlist.m3u8
+#EXTINF:-1, Baby TV
+http://89.187.167.247/babytv.stream/playlist.m3u8
+#EXTINF:-1, Cartoonito
+http://89.187.167.247/cartoonito.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Film
+http://89.187.167.247/CanalPlusFilm.stream/playlist.m3u8
+#EXTINF:-1, Canal+ HD
+http://89.187.167.247/CanalPlusHD.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Seriale
+http://89.187.167.247/canalplusseriale.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Sport 1
+http://89.187.167.247/canalplussport1.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Sport 2
+http://89.187.167.247/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Sport 3
+http://89.187.167.247/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Sport 4
+http://89.187.167.247/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Sport 5
+http://89.187.167.247/canalplussport5.stream/playlist.m3u8
+#EXTINF:-1, CBS Europa
+http://89.187.167.247/cbseuropa.stream/playlist.m3u8
+#EXTINF:-1, CBS Reality
+http://89.187.167.247/cbsreality.stream/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://89.187.167.247/cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1, Cinemax
+http://89.187.167.247/cinemax.stream/playlist.m3u8
+#EXTINF:-1, Cinemax 2
+http://89.187.167.247/cinemax2.stream/playlist.m3u8
+#EXTINF:-1, Comedy Central
+http://89.187.167.247/comedycentral.stream/playlist.m3u8
+#EXTINF:-1, Polsat CI
+http://89.187.167.247/polsatci.stream/playlist.m3u8
+#EXTINF:-1, Da Vinci Learning
+http://89.187.167.247/DaVinciLearning.stream/playlist.m3u8
+#EXTINF:-1, Disco Polo Music
+http://89.187.167.247/discopolomusic.stream/playlist.m3u8
+#EXTINF:-1, Discovery Channel
+http://89.187.167.247/discoverychannel.stream/playlist.m3u8
+#EXTINF:-1, Discovery Historia
+http://89.187.167.247/discoveryhistoria.stream/playlist.m3u8
+#EXTINF:-1, Discovery Life
+http://89.187.167.247/discoverylife.stream/playlist.m3u8
+#EXTINF:-1, Discovery Science
+http://89.187.167.247/discoveryscience.stream/playlist.m3u8
+#EXTINF:-1, Disney Channel
+http://89.187.167.247/disneychannel.stream/playlist.m3u8
+#EXTINF:-1, Disney Junior
+http://89.187.167.247/disneyjunior.stream/playlist.m3u8
+#EXTINF:-1, Disney XD
+http://89.187.167.247/disneyxd.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Domo
+http://89.187.167.247/canalplusdomo.stream/playlist.m3u8
+#EXTINF:-1, Eleven Sports 1
+http://89.187.167.247/elevensports1.stream/playlist.m3u8
+#EXTINF:-1, Eleven Sports 2
+http://89.187.167.247/elevensports2.stream/playlist.m3u8
+#EXTINF:-1, Eleven Sports 3
+http://89.187.167.247/elevensports3.stream/playlist.m3u8
+#EXTINF:-1, Eleven Sports 4
+http://89.187.167.247/elevensports4.stream/playlist.m3u8
+#EXTINF:-1, Epic Drama
+http://89.187.167.247/epicdrama.stream/playlist.m3u8
+#EXTINF:-1, Eska TV
+http://89.187.167.247/eskatv.stream/playlist.m3u8
+#EXTINF:-1, Eska TV Extra
+http://89.187.167.247/eskatvextra.stream/playlist.m3u8
+#EXTINF:-1, Eska Rock
+http://89.187.167.247/eskarock.stream/playlist.m3u8
+#EXTINF:-1, Eurosport 1
+http://89.187.167.247/eurosport1.stream/playlist.m3u8
+#EXTINF:-1, Eurosport 2
+http://89.187.167.247/eurosport2.stream/playlist.m3u8
+#EXTINF:-1, Extreme Sports
+http://89.187.167.247/extremesports.stream/playlist.m3u8
+#EXTINF:-1, SportKlub
+http://89.187.167.247/sportklub.stream/playlist.m3u8
+#EXTINF:-1, FightKlub
+http://89.187.167.247/fightklub.stream/playlist.m3u8
+#EXTINF:-1, FightBox
+http://89.187.167.247/fightbox.stream/playlist.m3u8
+#EXTINF:-1, Novelas
+http://89.187.167.247/novelas.stream/playlist.m3u8
+#EXTINF:-1, FilmBox Family
+http://89.187.167.247/filmboxfamily.stream/playlist.m3u8
+#EXTINF:-1, FilmBox Action
+http://89.187.167.247/filmboxaction.stream/playlist.m3u8
+#EXTINF:-1, FilmBox Arthouse
+http://89.187.167.247/filmboxarthouse.stream/playlist.m3u8
+#EXTINF:-1, FilmBox Extra
+http://89.187.167.247/filmboxextra.stream/playlist.m3u8
+#EXTINF:-1, FilmBox Premium
+http://89.187.167.247/filmboxpremium.stream/playlist.m3u8
+#EXTINF:-1, Fokus TV
+http://89.187.167.247/fokustv.stream/playlist.m3u8
+#EXTINF:-1, Food Network
+http://89.187.167.247/foodnetwork.stream/playlist.m3u8
+#EXTINF:-1, Fox Comedy
+http://89.187.167.247/foxcomedy.stream/playlist.m3u8
+#EXTINF:-1, Fox Polska
+http://89.187.167.247/foxpolska.stream/playlist.m3u8
+#EXTINF:-1, H2
+http://89.187.167.247/h2.stream/playlist.m3u8
+#EXTINF:-1, HBO
+http://89.187.167.247/hbo.stream/playlist.m3u8
+#EXTINF:-1, HBO 2
+http://89.187.167.247/hbo2.stream/playlist.m3u8
+#EXTINF:-1, HBO 3
+http://89.187.167.247/hbo3.stream/playlist.m3u8
+#EXTINF:-1, HGTV
+http://89.187.167.247/hgtv.stream/playlist.m3u8
+#EXTINF:-1, History Channel
+http://89.187.167.247/history.stream/playlist.m3u8
+#EXTINF:-1, ID
+http://89.187.167.247/id.stream/playlist.m3u8
+#EXTINF:-1, Kino Polska
+http://89.187.167.247/kinopolska.stream/playlist.m3u8
+#EXTINF:-1, Kino TV
+http://89.187.167.247/kinotv.stream/playlist.m3u8
+#EXTINF:-1, Canal+ Kuchnia
+http://89.187.167.247/canalpluskuchnia.stream/playlist.m3u8
+#EXTINF:-1, MotoWizja
+http://89.187.167.247/motowizja.stream/playlist.m3u8
+#EXTINF:-1, MTV 00s
+http://89.187.167.247/mtv00s.stream/playlist.m3u8
+#EXTINF:-1, MTV 90s
+http://89.187.167.247/mtv90s.stream/playlist.m3u8
+#EXTINF:-1, MTV Polska
+http://89.187.167.247/mtvpolska.stream/playlist.m3u8
+#EXTINF:-1, Vox Music
+http://89.187.167.247/voxmusic.stream/playlist.m3u8
+#EXTINF:-1, Metro
+http://89.187.167.247/metro.stream/playlist.m3u8
+#EXTINF:-1, MiniMini+
+http://89.187.167.247/minimini.stream/playlist.m3u8
+#EXTINF:-1, TVC
+http://89.187.167.247/tvc.stream/playlist.m3u8
+#EXTINF:-1, National Geographic People
+http://89.187.167.247/natgeopeople.stream/playlist.m3u8
+#EXTINF:-1, National Geographic Wild
+http://89.187.167.247/natgeowild.stream/playlist.m3u8
+#EXTINF:-1, National Geographic Channel
+http://89.187.167.247/NationalGeographicChannel.stream/playlist.m3u8
+#EXTINF:-1, Nick Jr.
+http://89.187.167.247/nickjr.stream/playlist.m3u8
+#EXTINF:-1, Nick Toons
+http://89.187.167.247/nicktoons.stream/playlist.m3u8
+#EXTINF:-1, Nickelodeon
+http://89.187.167.247/nickelodeon.stream/playlist.m3u8
+#EXTINF:-1, Nuta TV
+http://89.187.167.247/nutatv.stream/playlist.m3u8
+#EXTINF:-1, Nowa TV
+http://89.187.167.247/nowatv.stream/playlist.m3u8
+#EXTINF:-1, Novela
+http://89.187.167.247/novela.stream/playlist.m3u8
+#EXTINF:-1, Paramount Channel
+http://89.187.167.247/ParamountChannel.stream/playlist.m3u8
+#EXTINF:-1, Planete+
+http://89.187.167.247/planeteplus.stream/playlist.m3u8
+#EXTINF:-1, Polsat
+http://89.187.167.247/polsat.stream/playlist.m3u8
+#EXTINF:-1, Polsat 2
+http://89.187.167.247/polsat2.stream/playlist.m3u8
+#EXTINF:-1, Polsat Cafe
+http://89.187.167.247/polsatcafe.stream/playlist.m3u8
+#EXTINF:-1, Polsat Doku
+http://89.187.167.247/polsatdoku.stream/playlist.m3u8
+#EXTINF:-1, Polsat Film
+http://89.187.167.247/polsatfilm.stream/playlist.m3u8
+#EXTINF:-1, Polsat Music
+http://89.187.167.247/polsatmusic.stream/playlist.m3u8
+#EXTINF:-1, Polsat News
+http://89.187.167.247/polsatnews.stream/playlist.m3u8
+#EXTINF:-1, Polsat Play
+http://89.187.167.247/polsatplay.stream/playlist.m3u8
+#EXTINF:-1, Polsat News Polityka
+http://89.187.167.247/polsatnewspolityka.stream/playlist.m3u8
+#EXTINF:-1, Polsat Sport
+http://89.187.167.247/polsatsport1.stream/playlist.m3u8
+#EXTINF:-1, Polsat Sport Fight
+http://89.187.167.247/polsatsportfight.stream/playlist.m3u8
+#EXTINF:-1, Polsat Sport 2
+http://89.187.167.247/polsatsport2
+#EXTINF:-1,Polsat Sport 3
+http://89.187.167.247/polsatsport3.stream/playlist.m3u8
+#EXTINF:-1,Polsat Sport P1
+http://89.187.167.247/polsatsportp1.stream/playlist.m3u8
+#EXTINF:-1,Polsat Sport P2
+http://89.187.167.247/polsatsportp2.stream/playlist.m3u8
+#EXTINF:-1,Viasat History
+http://89.187.167.247/viasathistory.stream/playlist.m3u8
+#EXTINF:-1,Viasat Explore
+http://89.187.167.247/viasatexplore.stream/playlist.m3u8
+#EXTINF:-1,Viasat Nature
+http://89.187.167.247/Viasatnature.stream/playlist.m3u8
+#EXTINF:-1,Power TV
+http://89.187.167.247/powertv.stream/playlist.m3u8
+#EXTINF:-1,Polonia 1
+http://89.187.167.247/polonia1.stream/playlist.m3u8
+#EXTINF:-1,Puls 2
+http://89.187.167.247/puls2.stream/playlist.m3u8
+#EXTINF:-1,Red Carpet TV
+http://89.187.167.247/redcarpettv.stream/playlist.m3u8
+#EXTINF:-1,Romance TV
+http://89.187.167.247/romancetv.stream/playlist.m3u8
+#EXTINF:-1,Scifi
+http://89.187.167.247/scifi.stream/playlist.m3u8
+#EXTINF:-1,Stars TV
+http://89.187.167.247/starstv.stream/playlist.m3u8
+#EXTINF:-1,Stopklatka TV
+http://89.187.167.247/stopklatkatv.stream/playlist.m3u8
+#EXTINF:-1,Sundance Channel
+http://89.187.167.247/sundance.stream/playlist.m3u8
+#EXTINF:-1,Super Polsat
+http://89.187.167.247/superpolsat.stream/playlist.m3u8
+#EXTINF:-1,Teletoon
+http://89.187.167.247/teletoon.stream/playlist.m3u8
+#EXTINF:-1,TLC
+http://89.187.167.247/tlc.stream/playlist.m3u8
+#EXTINF:-1,Tele 5
+http://89.187.167.247/tele5.stream/playlist.m3u8
+#EXTINF:-1,Warner TV
+http://89.187.167.247/warner.stream/playlist.m3u8
+#EXTINF:-1,TVN Fabula
+http://89.187.167.247/tvnfabula.stream/playlist.m3u8
+#EXTINF:-1,TTv
+http://89.187.167.247/ttv.stream/playlist.m3u8
+#EXTINF:-1,TV Puls
+http://89.187.167.247/tvpuls.stream/playlist.m3u8
+#EXTINF:-1,TV Republika
+http://89.187.167.247/tvrepublika.stream/playlist.m3u8
+#EXTINF:-1,Polsat News Polityka
+http://89.187.167.247/polsatnewspolityka.stream/playlist.m3u8
+#EXTINF:-1,TV4
+http://89.187.167.247/tv4.stream/playlist.m3u8
+#EXTINF:-1,TV6
+http://89.187.167.247/tv6.stream/playlist.m3u8
+#EXTINF:-1,TVN24
+http://89.187.167.247/tvn24.stream/playlist.m3u8
+#EXTINF:-1,TVN24 Bis
+http://89.187.167.247/tvn24bis.stream/playlist.m3u8
+#EXTINF:-1,TVN7
+http://89.187.167.247/tvn7.stream/playlist.m3u8
+#EXTINF:-1,TVN
+http://89.187.167.247/tvn.stream/playlist.m3u8
+#EXTINF:-1,TVP Kobieta
+http://89.187.167.247/tvpkobieta.stream/playlist.m3u8
+#EXTINF:-1,TVN Style
+http://89.187.167.247/tvnstyle.stream/playlist.m3u8
+#EXTINF:-1,TVN Turbo
+http://89.187.167.247/tvnturbo.stream/playlist.m3u8
+#EXTINF:-1,TVP HD
+http://89.187.167.247/tvphd.stream/playlist.m3u8
+#EXTINF:-1,TVP1
+http://89.187.167.247/tvp1.stream/playlist.m3u8
+#EXTINF:-1,TVP2
+http://89.187.167.247/tvp2.stream/playlist.m3u8
+#EXTINF:-1,TVP3 Warszawa
+http://89.187.167.247/tvp3warszawa.stream/playlist.m3u8
+#EXTINF:-1,TVP World
+http://89.187.167.247/tvpworld.stream/playlist.m3u8
+#EXTINF:-1,TVP Dokument
+http://89.187.167.247/tvpdokument.stream/playlist.m3u8
+#EXTINF:-1,TVP ABC
+http://89.187.167.247/tvpabc.stream/playlist.m3u8
+#EXTINF:-1,TVP Historia
+http://89.187.167.247/tvphistoria.stream/playlist.m3u8
+#EXTINF:-1,TVP Info
+http://89.187.167.247/tvpinfo.stream/playlist.m3u8
+#EXTINF:-1,TVP Kultura
+http://89.187.167.247/tvpkultura.stream/playlist.m3u8
+#EXTINF:-1,TVP Polonia
+http://89.187.167.247/tvppolonia.stream/playlist.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://89.187.167.247/tvprozrywka.stream/playlist.m3u8
+#EXTINF:-1,TVP Nauka
+http://89.187.167.247/tvpnauka.stream/playlist.m3u8
+#EXTINF:-1,TVP Seriale
+http://89.187.167.247/tvpseriale.stream/playlist.m3u8
+#EXTINF:-1,TVP Sport
+http://89.187.167.247/tvpsport.stream/playlist.m3u8
+#EXTINF:-1,TV Trwam
+http://89.187.167.247/tvtrwam.stream/playlist.m3u8
+#EXTINF:-1,TVS
+http://89.187.167.247/tvs.stream/playlist.m3u8
+#EXTINF:-1,Travel Channel
+http://89.187.167.247/travelchannel.stream/playlist.m3u8
+#EXTINF:-1,W Polsce
+http://89.187.167.247/wpolsce.stream/playlist.m3u8
+#EXTINF:-1,Wydarzenia 24
+http://89.187.167.247/wydarzenia24.stream/playlist.m3u8
+#EXTINF:-1,Water Planet
+http://89.187.167.247/waterplanet.stream/playlist.m3u8
+#EXTINF:-1,Zoom TV
+http://89.187.167.247/zoomtv.stream/playlist.m3u8
