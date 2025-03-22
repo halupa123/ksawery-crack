@@ -1,433 +1,351 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="PL: 4FUN DANCE" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lr2SoWW98ht7LRQQ8UrSl7AF6osMvaood6pmgiRyQGlSQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: 4FUN DANCE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164981.ts
-#EXTINF:-1 tvg-id="4FUNHIT" tvg-name="PL: 4FUN GOLD HITS" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lr2SoWW98ht7LRQQ8UrSl7AjmIaAl7lNTTbp2Z6w2dNLw.png" group-title="Polska - Dla dzieci i Muzyka",PL: 4FUN GOLD HITS
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164982.ts
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="PL: 4FUN KIDS" tvg-logo="http://logo.solanaflix.com/images/logos/tBt40X5LYt7rkCkmMCB-z1HPjc5QiPlDeXYBoJ0wMCSgUUfCdVlIUecxYhEu_k5HpVsRjn3-jYaxxvJjXFnmXQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: 4FUN KIDS
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164983.ts
-#EXTINF:-1 tvg-id="4fun.pl" tvg-name="PL: 4FUN TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lr2SoWW98ht7LRQQ8UrSl7AIqf4mm_ZAEn9jEckV4hArA.png" group-title="Polska - Dla dzieci i Muzyka",PL: 4FUN TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164984.ts
-#EXTINF:-1 tvg-id="BBTVFR" tvg-name="PL: BABY TV" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="Polska - Dla dzieci i Muzyka",PL: BABY TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164985.ts
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="PL: BBC CBEEBIES" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loZXW8Ur3Vr9xMqJq5Qh0Ysn5cLnPJzfyN0wyqyr5NWzQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: BBC CBEEBIES
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164986.ts
-#EXTINF:-1 tvg-id="BOOMANZ" tvg-name="PL: BOOMERANG HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqBLziLgc8WiDDwzK5ww8nKk8mtC5p-7EVt45bc3YxALg.png" group-title="Polska - Dla dzieci i Muzyka",PL: BOOMERANG HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164987.ts
-#EXTINF:-1 tvg-id="TOONLSE" tvg-name="PL: CARTOON NETWORK HD" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="Polska - Dla dzieci i Muzyka",PL: CARTOON NETWORK HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164988.ts
-#EXTINF:-1 tvg-id="DISCOPL" tvg-name="PL: DISCO POLO MUSIC" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrPTInQSHVmAZQvwZHoLj9DKXeomJBDAJM8ix5FcloQCU8WI0YfZ3a3xZRo_Rz7GGk.png" group-title="Polska - Dla dzieci i Muzyka",PL: DISCO POLO MUSIC
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164989.ts
-#EXTINF:-1 tvg-id="SPDISHD" tvg-name="PL: DISNEY CHANNEL HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3XvunlaENH0sts4UyXCenBgG_3Bj6XEGqBMK09ORCAGc77DVyC-HQNIz91KhsJ7lvc.png" group-title="Polska - Dla dzieci i Muzyka",PL: DISNEY CHANNEL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164990.ts
-#EXTINF:-1 tvg-id="DisneyJr.pl" tvg-name="PL: DISNEY JUNIOR" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3V2U0Vr28J2WGMe8irxh2V-x7yFkEup_VKisSiA3ESg9MMZGls6BjAm9WgnAHWqWvTn5VI7eY2nt0SdrbVR8Lcgrq0vJX35msD7Kk_sELA3Gg.png" group-title="Polska - Dla dzieci i Muzyka",PL: DISNEY JUNIOR
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164991.ts
-#EXTINF:-1 tvg-id="DXDME" tvg-name="PL: DISNEY XD" tvg-logo="http://logo.solanaflix.com/images/logos/VkjpBFjNtKPVC-yPIpCci90SCIlf1laGwG8bRaTsko1XxH8SSzUNJUmbH8m3d0E5.png" group-title="Polska - Dla dzieci i Muzyka",PL: DISNEY XD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164992.ts
-#EXTINF:-1 tvg-id="EskaRockTv.pl" tvg-name="PL: ESKA ROCK TV" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUK68DHPaybPWEvCpabfhA5etYI3SvUQ190gZxkTKK77h.png" group-title="Polska - Dla dzieci i Muzyka",PL: ESKA ROCK TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164993.ts
-#EXTINF:-1 tvg-id="EskaTv.pl" tvg-name="PL: ESKA TV" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3WOaSl-ldtPKBtbEYUYe1GDAUyVezxrtmhA6kXde-EzJLs55bwmB5_j70aEUuZkhyE.png" group-title="Polska - Dla dzieci i Muzyka",PL: ESKA TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164994.ts
-#EXTINF:-1 tvg-id="EskaTvExtra.pl" tvg-name="PL: ESKA TV EXTRA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loAcv7yTl5-FfXKCrkhmdkGp_dG4-YkR404JJNFxg-Eww.png" group-title="Polska - Dla dzieci i Muzyka",PL: ESKA TV EXTRA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164995.ts
-#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="PL: JIMJAM POLSKA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpUE-1xMIwQkYYaKDozzv6r1yUc_wV4-DUUlIfoYPQ-6g.png" group-title="Polska - Dla dzieci i Muzyka",PL: JIMJAM POLSKA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164996.ts
-#EXTINF:-1 tvg-id="KinoTv.pl" tvg-name="PL: KINO TV FHD" tvg-logo="http://logo.solanaflix.com/images/logos/tBt40X5LYt7rkCkmMCB-z1HPjc5QiPlDeXYBoJ0wMCSKCGabVtyC80xrTFJJWaYbHRLlOPukoLGHZYRePCwxow.png" group-title="Polska - Dla dzieci i Muzyka",PL: KINO TV FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164997.ts
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="PL: KINO POLSKA MUZYKA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpaBIMcryqbzOz4vxB9oKsztJBlKnFU9h34L5d1B2D3WL1y0HXbkb6C551U_C3j_AY.png" group-title="Polska - Dla dzieci i Muzyka",PL: KINO POLSKA MUZYKA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164998.ts
-#EXTINF:-1 tvg-id="MiniMini.pl" tvg-name="PL: MINIMINI+ HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3XCuWrQqNwP1Uxf8r8PXP9oW8YLqYNs_IABzFYLUsQKQzmNOa6g3QYzqtroWH0nx_Y.png" group-title="Polska - Dla dzieci i Muzyka",PL: MINIMINI+ HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/164999.ts
-#EXTINF:-1 tvg-id="MINIMINI.pl" tvg-name="PL: MINIMINI  HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqVL1PnhmKZKwz2btxLlNyEmzbgNRdOpZyCIpYmx2r1nw.png" group-title="Polska - Dla dzieci i Muzyka",PL: MINIMINI  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165000.ts
-#EXTINF:-1 tvg-id="MTV 90s" tvg-name="PL: MTV 90S" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUPqd7U6-JD5Ptm9aiE5-9ZryqxBxjuG7jsIi2FKcHHWP.png" group-title="Polska - Dla dzieci i Muzyka",PL: MTV 90S
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165001.ts
-#EXTINF:-1 tvg-id="MTVLVHS" tvg-name="PL: MTV LIVE HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3WtSGSJ9pQOMot-IotirXxHrkelP7b31aRqNfx8sXdklNZKFG5egn-DA5aAyR2yjrQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: MTV LIVE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165002.ts
-#EXTINF:-1 tvg-id="MTV.pl" tvg-name="PL: MTV POLSKA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lo5UV9bL07Nh6iVAFj5Mr5OMbAFWvlFflmW2GFkc2XWWw.png" group-title="Polska - Dla dzieci i Muzyka",PL: MTV POLSKA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165003.ts
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="PL: NICK JR POLSKA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXjCcN4SeFrS7tfob8gdg6KV0JOCeZxMqFSV-jEXTegw.png" group-title="Polska - Dla dzieci i Muzyka",PL: NICK JR POLSKA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165004.ts
-#EXTINF:-1 tvg-id="NickPolska.pl" tvg-name="PL: NICKELODEON" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXjCcN4SeFrS7tfob8gdg6syx3RyFuilvZHzO5_uAKlQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: NICKELODEON
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165005.ts
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="PL: NICK TOONS HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHexg_9gPetFv5UXzBg6YICL9zf-xRsAURGdeTijaShg.png" group-title="Polska - Dla dzieci i Muzyka",PL: NICK TOONS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165006.ts
-#EXTINF:-1 tvg-id="NutaTv.pl" tvg-name="PL: NUTA TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lo7UdH1jAXLCc7ovZYn5xFFekhv2OSEzemXXric32DRqA.png" group-title="Polska - Dla dzieci i Muzyka",PL: NUTA TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165007.ts
-#EXTINF:-1 tvg-id="POLO" tvg-name="PL: POLO TV" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3WZ_4Mbcj4LZSzeGqHMEqRpst4s4POPnsduMUYz-Q9JLuH73oOBJ3sabE7KvhByFZ8.png" group-title="Polska - Dla dzieci i Muzyka",PL: POLO TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165008.ts
-#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="PL: POLSAT GAMES HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loXUS0LufQshWeQLRIpUUJ3lWXjEI7yGKT3CNcSizP-1A.png" group-title="Polska - Dla dzieci i Muzyka",PL: POLSAT GAMES HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165009.ts
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="PL: POLSAT JIM JAM" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrDZyfS1S9ZlGscTCne09W5A.png" group-title="Polska - Dla dzieci i Muzyka",PL: POLSAT JIM JAM
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165010.ts
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="PL: POLSAT MUSIC HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrBgP4f3FQJapyE_uBa9vpvQ.png" group-title="Polska - Dla dzieci i Muzyka",PL: POLSAT MUSIC HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165011.ts
-#EXTINF:-1 tvg-id="PowerTv.pl" tvg-name="PL: POWER TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrAJooPFV3zI_XCsdN4g8_vw.png" group-title="Polska - Dla dzieci i Muzyka",PL: POWER TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165012.ts
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="PL: PULS 2 HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png" group-title="Polska - Dla dzieci i Muzyka",PL: PULS 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165013.ts
-#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="PL: STARS TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOx6d8mcgbTiecGoJDtrRP6g.png" group-title="Polska - Dla dzieci i Muzyka",PL: STARS TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165014.ts
-#EXTINF:-1 tvg-id="Teletoon.pl" tvg-name="PL: TELETOON+  HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrywKB07fT1y2goVLhV7oVLFQthY9rlujI_-2G8Gkcp1A.png" group-title="Polska - Dla dzieci i Muzyka",PL: TELETOON+  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165015.ts
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL: TVP ABC" tvg-logo="http://logo.solanaflix.com/images/logos/vfo5EhZl349xfL2xolHlhzMkFwGsRFJsiK2qTQUjoPy6HIxpu2flbhrcEtG3gBTWpAJpG5EW_kbY7LOctlOTPUewSltmWQd0ncNRM-G6KJH2fUqrndKuLGVa7UHUi_S1TiXhiNRTzR-2LyXb5_UAcw.png" group-title="Polska - Dla dzieci i Muzyka",PL: TVP ABC
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165016.ts
-#EXTINF:-1 tvg-id="VH1European.pl" tvg-name="PL: VH1" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrlfIV9QIkMkCebkpuhgEWyI28JpG1oDKWq4SE7l4HWYw.png" group-title="Polska - Dla dzieci i Muzyka",PL: VH1
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165017.ts
-#EXTINF:-1 tvg-id="VoxMusicTv.pl" tvg-name="PL: VOX MUSIC TV" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCdl9bm1sf7PaJhAr6o5MBkV8waOggbNef1a_cOwp5Zt.png" group-title="Polska - Dla dzieci i Muzyka",PL: VOX MUSIC TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165018.ts
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL: 13 ULICA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3a/13_Ulica_HD_655.jpg" group-title="Polska - Filmy i Seriale",PL: 13 ULICA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165019.ts
-#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="PL: ACTIVE FAMILY" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUNObpTcjny972km6s5ppAZPTEXjOUhVs1ohAYcFfnZ-F.png" group-title="Polska - Filmy i Seriale",PL: ACTIVE FAMILY
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165020.ts
-#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="PL: ALE KINO+ HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOpbpzYGqWcgv8kUkfvMnk_A.png" group-title="Polska - Filmy i Seriale",PL: ALE KINO+ HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165021.ts
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL: AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrJAIGGpMIgXK2NT2y7bWbZZE829SK0MIdaEWuJsvMepQ.png" group-title="Polska - Filmy i Seriale",PL: AMC HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165022.ts
-#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="PL: AXN BLACK" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOjdOM3JdCm9pdtQn38wmGyw.png" group-title="Polska - Filmy i Seriale",PL: AXN BLACK
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165023.ts
-#EXTINF:-1 tvg-id="AXNKDG" tvg-name="PL: AXN HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxO9-7_y5N-VtkRvSBhubbczw.png" group-title="Polska - Filmy i Seriale",PL: AXN HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165024.ts
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="PL: AXN SPIN HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOgtfVHDmldjwlDt757oDWrg.png" group-title="Polska - Filmy i Seriale",PL: AXN SPIN HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165025.ts
-#EXTINF:-1 tvg-id="AXNWESP" tvg-name="PL: AXN WHITE" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOZuLdwcEC75X6_W1trTJxjA.png" group-title="Polska - Filmy i Seriale",PL: AXN WHITE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165026.ts
-#EXTINF:-1 tvg-id="CanalplusFamily2.pl" tvg-name="PL: CANAL+ 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq6RNQSg-Cc5L22gl6_pk-B9yEaREfFEN0Vk-GXO5NxTw.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165027.ts
-#EXTINF:-1 tvg-id="CanalplusFamily.pl" tvg-name="PL: CANAL+ FAMILY FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Canal%2B_Family_HD_%282010-2013%29.svg/1280px-Canal%2B_Family_HD_%282010-2013%29.svg.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ FAMILY FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165028.ts
-#EXTINF:-1 tvg-id="C+Family.pl" tvg-name="PL: CANAL+ FAMILY HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67W_yAoGt8qRfOO39EN3cMC1w.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ FAMILY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165029.ts
-#EXTINF:-1 tvg-id="CanalplusFilm.pl" tvg-name="PL: CANAL+ FILM FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67W4m8qAvu0gf1ukMu2PhmvJw.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ FILM FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165030.ts
-#EXTINF:-1 tvg-id="C+Film.pl" tvg-name="PL: CANAL+ FILM HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67W4m8qAvu0gf1ukMu2PhmvJw.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ FILM HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165031.ts
-#EXTINF:-1 tvg-id="C+1.pl" tvg-name="PL: CANAL+ HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67Wv-gyu-gC3wNwKxo2wfbrsA.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165032.ts
-#EXTINF:-1 tvg-id="C+Now.pl" tvg-name="PL: CANAL+ NOW FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loKE6UOAjy6GZ2IK_8QveiH5hBHvg0nX-sbK1T-I1F25Q.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ NOW FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165033.ts
-#EXTINF:-1 tvg-id="C+Premium.pl" tvg-name="PL: CANAL+ PREMIUM FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loKE6UOAjy6GZ2IK_8QveiHUnMHWOMtbw2DEmxt6hGnAg.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ PREMIUM FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165034.ts
-#EXTINF:-1 tvg-id="C+Seriale.pl" tvg-name="PL: CANAL+ SERIALE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67WDDNF954VuggVMJWD64RGNg.png" group-title="Polska - Filmy i Seriale",PL: CANAL+ SERIALE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165035.ts
-#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="PL: CINEMAX 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrRRieuF4TaV6nD407k36mtoVj3iouZyxUuuXOnYEDuWA.png" group-title="Polska - Filmy i Seriale",PL: CINEMAX 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165036.ts
-#EXTINF:-1 tvg-id="CinemaxHD.pl" tvg-name="PL: CINEMAX HD" tvg-logo="http://logo.solanaflix.com/images/logos/3FYfruXKHIRTAi7i4Jq3fezy6nv4oznXhP_TzSSNBipPoC8Pd4TpuRXvbgpHc6XFgQ3rMgJ2_Q5cQI3UGGy9CUQQTfvDBui2InZEAVGAWcjsCMcDHwXwix8z3w2D2-4X.png" group-title="Polska - Filmy i Seriale",PL: CINEMAX HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165037.ts
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL: COMEDY CENTRAL FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCEwFk113vmUw3TE_yh8dBEJjOX4jy4aHw4Qnhjqrs0m.png" group-title="Polska - Filmy i Seriale",PL: COMEDY CENTRAL FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165038.ts
-#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="PL: EPIC DRAMA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxO6YhxOuyvauy3_3YHyiJUiQ.png" group-title="Polska - Filmy i Seriale",PL: EPIC DRAMA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165039.ts
-#EXTINF:-1 tvg-id="FilmboxAction.pl" tvg-name="PL: FILMBOX ACTION" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwSoLAJfUiD9gCa3YYOMV8Vbg.png" group-title="Polska - Filmy i Seriale",PL: FILMBOX ACTION
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165040.ts
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwS-YsRKyUaEiiAunAoc_gBXG9vF_aTJlb0nFF_K2GdPsg.png" group-title="Polska - Filmy i Seriale",PL: FILMBOX ARTHOUSE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165041.ts
-#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="PL: FILMBOX EXTRA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwSDBLQ3zJFOxEeA6INavNwxw.png" group-title="Polska - Filmy i Seriale",PL: FILMBOX EXTRA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165042.ts
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="PL: FILMBOX FAMILY" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwSOXFPF6pxJh2C0X4Sj1rovg.png" group-title="Polska - Filmy i Seriale",PL: FILMBOX FAMILY
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165043.ts
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="PL: FILMBOX PREMIUM HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwSjXnnxXk5KGzi_mmU9TLMK99URBSWT_M-mWAyXhg73_8.png" group-title="Polska - Filmy i Seriale",PL: FILMBOX PREMIUM HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165044.ts
-#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="PL: FOX COMEDY" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOcw_OGdEhec5WWUbVNgn-Aw.png" group-title="Polska - Filmy i Seriale",PL: FOX COMEDY
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165045.ts
-#EXTINF:-1 tvg-id="Fox.pl" tvg-name="PL: FOX HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lofuPOHZmPzP0kho06fTILYrXqL-Ue27ySIudV_5d7-hQ.png" group-title="Polska - Filmy i Seriale",PL: FOX HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165046.ts
-#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOVqzq5U0EFc9oyPKrMvVAPQ.png" group-title="Polska - Filmy i Seriale",PL: HBO 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165047.ts
-#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="PL: HBO 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxODYV8GYvWYKNZI8R4eDxvGw.png" group-title="Polska - Filmy i Seriale",PL: HBO 3 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165048.ts
-#EXTINF:-1 tvg-id="HBO.pl" tvg-name="PL: HBO HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOj7zbK4iFjZPApsAfShY2Bg.png" group-title="Polska - Filmy i Seriale",PL: HBO HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165049.ts
-#EXTINF:-1 tvg-id="KINOPOL" tvg-name="PL: KINO POLSKA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqkXfqxr3e_q8A7Ajrcp1zUAsEcEWMa7M_b7VXpISzaDA.png" group-title="Polska - Filmy i Seriale",PL: KINO POLSKA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165050.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: KUCHNIA+  HD" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/c/c4/Kuchnia.tv.svg/1280px-Kuchnia.tv.svg.png" group-title="Polska - Filmy i Seriale",PL: KUCHNIA+  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165051.ts
-#EXTINF:-1 tvg-id="NovelaTv.pl" tvg-name="PL: NOVELA TV" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFULLp3NgLnfEM73wWu7N94m7iz-utE6ilBqN19Y4OGDYt.png" group-title="Polska - Filmy i Seriale",PL: NOVELA TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165052.ts
-#EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL: NOVELAS+" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrflMWLntaxyhyIupBpd3FBJPzBNMlb2lROmmhqMnuRGQ.png" group-title="Polska - Filmy i Seriale",PL: NOVELAS+
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165053.ts
-#EXTINF:-1 tvg-id="PARAFR" tvg-name="PL: PARAMOUNT CHANNEL HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpCkLNL5C5qFNuj9D12yapBWTvJ5H8_7aftEE75US-WX-gWoBWIVBdIdz2EkzVPfJI.png" group-title="Polska - Filmy i Seriale",PL: PARAMOUNT CHANNEL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165054.ts
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL: POLSAT CAFE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPretZtFxJ02yhCJmCtKlWMLg.png" group-title="Polska - Filmy i Seriale",PL: POLSAT CAFE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165055.ts
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL: POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrYatFXALTHJ7_v_zH9RkRQL0LQip0ma-c4ZqMfPq-WVLPfJSuc5sa3WsYx9K1KbTY.png" group-title="Polska - Filmy i Seriale",PL: POLSAT COMEDY CENTRAL EXTRA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165056.ts
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL: POLSAT FILM HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPr6roTGePWEmV-ppW5gG-fhA.png" group-title="Polska - Filmy i Seriale",PL: POLSAT FILM HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165057.ts
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL: POLSAT PLAY HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrfScDlOvHq-4InNTCLnOJ5w.png" group-title="Polska - Filmy i Seriale",PL: POLSAT PLAY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165058.ts
-#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL: POLSAT SERIALE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUKfm0WD-U3cFaTfX0L61Unrk4SMiwniWstHd1sDhwzjm.png" group-title="Polska - Filmy i Seriale",PL: POLSAT SERIALE FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165059.ts
-#EXTINF:-1 tvg-id="RMNCKDG" tvg-name="PL: ROMANCE TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqhz6BFGXQeXXsSwwJh1lZjzJCAiihQPFDmU1esuGS75A.png" group-title="Polska - Filmy i Seriale",PL: ROMANCE TV HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165060.ts
-#EXTINF:-1 tvg-id="SciFi.pl" tvg-name="PL: SCIFI HD" tvg-logo="http://logo.solanaflix.com/images/logos/rK0zZsq8TUE6wjCh_g6x8b4TJJ8wTH5E_9GLhWI_AM7gggcGjHVl0JW3YX1OjfctDRfKe7QKxO0rk_GNhodjA6uPWsrt-w2SCIBygEKEYJGp0JwRpg3jfxlnqUXvnAzt.png" group-title="Polska - Filmy i Seriale",PL: SCIFI HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165061.ts
-#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="PL: STOPKLATKA TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpoOpFVMCebfhrh9kAco1XqG0l6TEMxWJL-_fjREA5iOA.png" group-title="Polska - Filmy i Seriale",PL: STOPKLATKA TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165062.ts
-#EXTINF:-1 tvg-id="SUNDEU" tvg-name="PL: SUNDANCE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpCiz6EyMD_gD-uLp9m7QUVhgQO4Ca2HkvmpaQx2gMsIw.png" group-title="Polska - Filmy i Seriale",PL: SUNDANCE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165063.ts
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL: SUPER POLSAT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxORb9I-tBafARFzd1Ct7qNng.png" group-title="Polska - Filmy i Seriale",PL: SUPER POLSAT FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165064.ts
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL: SUPER POLSAT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxORb9I-tBafARFzd1Ct7qNng.png" group-title="Polska - Filmy i Seriale",PL: SUPER POLSAT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165065.ts
-#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="PL: TELE 5" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUOqDRtjJGP3h3WTYF43TbIU.png" group-title="Polska - Filmy i Seriale",PL: TELE 5
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165066.ts
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL: TVP SERIALE" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyjLVAYc4s1pRhD3wsMfJ81g.png" group-title="Polska - Filmy i Seriale",PL: TVP SERIALE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165067.ts
-#EXTINF:-1 tvg-id="UniversalChannel.pl" tvg-name="PL: UNIVERSAL HD" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Universal_logo.svg/1200px-Universal_logo.svg.png" group-title="Polska - Filmy i Seriale",PL: UNIVERSAL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165068.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 205" tvg-logo="http://logo.solanaflix.com/images/logos/F5pncmo3_pj9cQScfX_fXR1RQzRwuPd8GLPZ7R2-thZDl9pxXztWMFGrzfst5jj4d7LowXnXITQfDH2FwW9etQ.jpg" group-title="Polska - Filmy i Seriale",PL: VOD 205
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165069.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 206" tvg-logo="http://logo.solanaflix.com/images/logos/F5pncmo3_pj9cQScfX_fXR1RQzRwuPd8GLPZ7R2-thZDl9pxXztWMFGrzfst5jj4d7LowXnXITQfDH2FwW9etQ.jpg" group-title="Polska - Filmy i Seriale",PL: VOD 206
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165070.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 207" tvg-logo="http://logo.solanaflix.com/images/logos/F5pncmo3_pj9cQScfX_fXR1RQzRwuPd8GLPZ7R2-thZDl9pxXztWMFGrzfst5jj4d7LowXnXITQfDH2FwW9etQ.jpg" group-title="Polska - Filmy i Seriale",PL: VOD 207
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165071.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 208" tvg-logo="http://logo.solanaflix.com/images/logos/F5pncmo3_pj9cQScfX_fXR1RQzRwuPd8GLPZ7R2-thZDl9pxXztWMFGrzfst5jj4d7LowXnXITQfDH2FwW9etQ.jpg" group-title="Polska - Filmy i Seriale",PL: VOD 208
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165072.ts
-#EXTINF:-1 tvg-id="WarnerTv.pl" tvg-name="PL: WARNER TV POLSKA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lofkdUoCfl9RTfke7NHGs5oemC5KTTirzl8UhwE9E4dxtMgDiAsqE3wCncUz6IUols.png" group-title="Polska - Filmy i Seriale",PL: WARNER TV POLSKA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165073.ts
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL: POLSAT NEWS 2" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPr-Qc8MFMoaa0PuGUSFwhjPw.png" group-title="Polska - Informacyjne",PL: POLSAT NEWS 2
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165074.ts
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL: POLSAT NEWS HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrM6XAzpycm2qPGCLQ16-ccA.png" group-title="Polska - Informacyjne",PL: POLSAT NEWS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165075.ts
-#EXTINF:-1 tvg-id="TVN24" tvg-name="PL: TVN 24 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyyth7pp2A3xCerMWU-y522g.png" group-title="Polska - Informacyjne",PL: TVN 24 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165076.ts
-#EXTINF:-1 tvg-id="TVN24" tvg-name="PL: TVN 24 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyyth7pp2A3xCerMWU-y522g.png" group-title="Polska - Informacyjne",PL: TVN 24 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165077.ts
-#EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="PL: TVN24 BIS HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyOe_N5K4GVlbv6tDiOQI88A.png" group-title="Polska - Informacyjne",PL: TVN24 BIS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165078.ts
-#EXTINF:-1 tvg-id="TVPIN" tvg-name="PL: TVP INFO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/n_bx_TRB8yfeK32d-bVQnxFHUZcoa4OAePtOZPx0F_zXTz8a1D9S2-g2qIBbM_x_EAyvgHSCfwU4RmMM9pebOkm9K37lqVSYOYYizBCc8Wv8mro_DNUVWLWyvSlJAX-vJHM_UK2cgNyOBH3Cmz4g9RYP5XZKt1FF7hl9ty_88t4.jpg" group-title="Polska - Informacyjne",PL: TVP INFO FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165079.ts
-#EXTINF:-1 tvg-id="TVPIN" tvg-name="PL: TVP INFO HD" tvg-logo="http://logo.solanaflix.com/images/logos/n_bx_TRB8yfeK32d-bVQnxFHUZcoa4OAePtOZPx0F_zXTz8a1D9S2-g2qIBbM_x_EAyvgHSCfwU4RmMM9pebOkm9K37lqVSYOYYizBCc8Wv8mro_DNUVWLWyvSlJAX-vJHM_UK2cgNyOBH3Cmz4g9RYP5XZKt1FF7hl9ty_88t4.jpg" group-title="Polska - Informacyjne",PL: TVP INFO HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165080.ts
-#EXTINF:-1 tvg-id="C+Domo.pl" tvg-name="PL: DOMO+  HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/54/Domo%2BHD_logo_2011.png" group-title="Polska - Kanały ogólnego",PL: DOMO+  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165081.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: E! ENTERTAINMENT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOCJr5CQ3bF7c-qv7euadkIA.png" group-title="Polska - Kanały ogólnego",PL: E! ENTERTAINMENT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165082.ts
-#EXTINF:-1 tvg-id="FokusTv.pl" tvg-name="PL: FOKUS TV FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lofuPOHZmPzP0kho06fTILYZJNWYZ8xq_BIJ4u9rSAcgg.png" group-title="Polska - Kanały ogólnego",PL: FOKUS TV FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165083.ts
-#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL: FOOD NETWORK HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loO00qBSBqO7Fmbahsdh6aQi-HMpgCIv9znhPfJVvE0nA.png" group-title="Polska - Kanały ogólnego",PL: FOOD NETWORK HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165084.ts
-#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="PL: HGTV HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrrcCg2jXdIlaNpgc9Z1M97g5shV8ZEzUSvYkiBOAckyg.png" group-title="Polska - Kanały ogólnego",PL: HGTV HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165085.ts
-#EXTINF:-1 tvg-id="HomeTv.pl" tvg-name="PL: HOME TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrEGNNUe9EVcHccqEnuFnRFq86q1IJiXQqLZ1D0XpxNBw.png" group-title="Polska - Kanały ogólnego",PL: HOME TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165086.ts
-#EXTINF:-1 tvg-id="Metro.pl" tvg-name="PL: METRO" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrJtFGBhN94pv0WJ0WR-HoFMXI4uAUR2oe_MQuiRFa6SA.png" group-title="Polska - Informacyjne",PL: METRO
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165087.ts
-#EXTINF:-1 tvg-id="NowaTv.pl" tvg-name="PL: NOWA TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrrzFRRJQc4lJSbFsORe3AV9SSblTm7N8vbMyWgVbsnMg.png" group-title="Polska - Kanały ogólnego",PL: NOWA TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165088.ts
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL: POLONIA 1" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrX2tXBfwTKdREUb5cKuJIZw.png" group-title="Polska - Kanały ogólnego",PL: POLONIA 1
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165089.ts
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="PL: POLSAT 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPryCM9BXWIkJGoZyXqnN36ww.png" group-title="Polska - Kanały ogólnego",PL: POLSAT 2 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165090.ts
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="PL: POLSAT 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPryCM9BXWIkJGoZyXqnN36ww.png" group-title="Polska - Kanały ogólnego",PL: POLSAT 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165091.ts
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL: POLSAT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrCiGneGYgDJ1xSs58ue-yrw.png" group-title="Polska - Kanały ogólnego",PL: POLSAT FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165092.ts
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL: POLSAT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrCiGneGYgDJ1xSs58ue-yrw.png" group-title="Polska - Kanały ogólnego",PL: POLSAT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165093.ts
-#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL: POLSAT RODZINA HD" tvg-logo="http://logo.solanaflix.com/images/logos/tBt40X5LYt7rkCkmMCB-z1HPjc5QiPlDeXYBoJ0wMCS1PffH9a4-G0vkMs1k7hmuxIFbCmQg_gkZFJlxfqKALg.png" group-title="Polska - Kanały ogólnego",PL: POLSAT RODZINA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165094.ts
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL: TV PULS FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/00/Tv_puls_hd.jpg" group-title="Polska - Kanały ogólnego",PL: TV PULS FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165095.ts
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL: TTV FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUFEEIaeXFulqAj1ZjfQorIQ.png" group-title="Polska - Kanały ogólnego",PL: TTV FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165096.ts
-#EXTINF:-1 tvg-id="TTV.PL" tvg-name="PL: TTV HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUFEEIaeXFulqAj1ZjfQorIQ.png" group-title="Polska - Kanały ogólnego",PL: TTV HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165097.ts
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL: TV PULS HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyGPf4GEJLxA3AhzrX-_X6pw.png" group-title="Polska - Kanały ogólnego",PL: TV PULS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165098.ts
-#EXTINF:-1 tvg-id="TvRepublika.pl" tvg-name="PL: TV REPUBLIKA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyOujMvTFqACcmkOiLcBvvYA.png" group-title="Polska - Kanały ogólnego",PL: TV REPUBLIKA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165099.ts
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL: TV4 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyCcLKZ4hWEiI6HfA66zv1ug.png" group-title="Polska - Kanały ogólnego",PL: TV4 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165100.ts
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL: TV6 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUBPCg8_1iprjAjKMThnQh9I.png" group-title="Polska - Kanały ogólnego",PL: TV6 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165101.ts
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL: TV6 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJk1KhwqoCQGcQZMOWho6j6Gi7V8j8aNIhwF6-hweAC3SL96jk4tfylhQtE4g8VqX5.png" group-title="Polska - Kanały ogólnego",PL: TV6 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165102.ts
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL: TVN 7 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyXCzlSIVPwH0SUTLAoo230w.png" group-title="Polska - Kanały ogólnego",PL: TVN 7 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165103.ts
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL: TVN 7 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyXCzlSIVPwH0SUTLAoo230w.png" group-title="Polska - Kanały ogólnego",PL: TVN 7 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165104.ts
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL: TVN FABULA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy94Tr7IG3NQFy4F-LIAfJ4w.png" group-title="Polska - Kanały ogólnego",PL: TVN FABULA FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165105.ts
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL: TVN FABULA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy94Tr7IG3NQFy4F-LIAfJ4w.png" group-title="Polska - Kanały ogólnego",PL: TVN FABULA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165106.ts
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL: TVN FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUF-ofMdy5FtcmWwVA56WPWQ.png" group-title="Polska - Kanały ogólnego",PL: TVN FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165107.ts
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL: TVN HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUF-ofMdy5FtcmWwVA56WPWQ.png" group-title="Polska - Kanały ogólnego",PL: TVN HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165108.ts
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL: TVN STYLE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyK3zbJRqdxKmTmsxxQK0yGw.png" group-title="Polska - Kanały ogólnego",PL: TVN STYLE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165109.ts
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL: TVN TURBO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy68h56uvNvIacuaE4lhaKDw.png" group-title="Polska - Kanały ogólnego",PL: TVN TURBO FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165110.ts
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL: TVN TURBO HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy68h56uvNvIacuaE4lhaKDw.png" group-title="Polska - Kanały ogólnego",PL: TVN TURBO HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165111.ts
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL: TVP 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyhx9oAiOPDLe2_bXyrInwtw.png" group-title="Polska - Kanały ogólnego",PL: TVP 1 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165112.ts
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyhx9oAiOPDLe2_bXyrInwtw.png" group-title="Polska - Kanały ogólnego",PL: TVP 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165113.ts
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyc9j-aW4qmJj38nuoNCQFWA.png" group-title="Polska - Kanały ogólnego",PL: TVP 2 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165114.ts
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL: TVP 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyc9j-aW4qmJj38nuoNCQFWA.png" group-title="Polska - Kanały ogólnego",PL: TVP 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165115.ts
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="PL: TVP 3" tvg-logo="http://logo.solanaflix.com/images/logos/tBt40X5LYt7rkCkmMCB-z1HPjc5QiPlDeXYBoJ0wMCQ6rAjQJFLNTRKeoIBtOLSoEYfuoTKbvnRBUPySILlc6w.png" group-title="Polska - Kanały ogólnego",PL: TVP 3
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165116.ts
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL: TVP FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUASKiVPyVuy4DnrXotwSXL0.png" group-title="Polska - Kanały ogólnego",PL: TVP FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165117.ts
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL: TVP HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUASKiVPyVuy4DnrXotwSXL0.png" group-title="Polska - Kanały ogólnego",PL: TVP HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165118.ts
-#EXTINF:-1 tvg-id="POLINFO" tvg-name="PL: TVP POLONIA HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUPy6nlULSCwUB9uJvlnds0wqfOvxEPs9DF8YA_9Z8Maj.png" group-title="Polska - Kanały ogólnego",PL: TVP POLONIA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165119.ts
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL: TVP ROZRYWKA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyzrTJkg2DCRVJYCaDcnvU1w.png" group-title="Polska - Kanały ogólnego",PL: TVP ROZRYWKA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165120.ts
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL: TVS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/1280px-TVS_%28Fernsehsender%29_Logo.svg.png" group-title="Polska - Kanały ogólnego",PL: TVS
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165121.ts
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="PL: WYDARZENIA 24 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpH_NogCEhHdWMSaf1mBQffcmaVHa9ZCci9BAMPLyR78w.png" group-title="Polska - Informacyjne",PL: WYDARZENIA 24 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165122.ts
-#EXTINF:-1 tvg-id="ZoomTv.pl" tvg-name="PL: ZOOM TV" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrX7JFixLWG5wlxqh3T7Yh35Vn-tAb6LdwD9ipp3VNknQ.png" group-title="Polska - Kanały ogólnego",PL: ZOOM TV
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165123.ts
-#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="PL: ADVENTURE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxO0wh0HQoxYT91Y-tWLsb4Ew.png" group-title="Polska - Dokumenty i Kultura",PL: ADVENTURE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165124.ts
-#EXTINF:-1 tvg-id="APLANZ" tvg-name="PL: ANIMAL PLANET HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOD9n8kGdeeHGgC9PXLxZzPbqbaqDnx3GAw4NAm6fSZww.png" group-title="Polska - Dokumenty i Kultura",PL: ANIMAL PLANET HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165125.ts
-#EXTINF:-1 tvg-id="BBCBRT" tvg-name="PL: BBC BRIT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqkdeNCCV7MHiydOovMUspjE1L8pWuSAqEVJzZyqv9ucH6Obr_7FTRxwJRIapJTwj4.png" group-title="Polska - Dokumenty i Kultura",PL: BBC BRIT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165126.ts
-#EXTINF:-1 tvg-id="BBCKANZ" tvg-name="PL: BBC EARTH HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOP8sD7-pHk3nnMxgnB1389g.png" group-title="Polska - Dokumenty i Kultura",PL: BBC EARTH HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165127.ts
-#EXTINF:-1 tvg-id="BBCFANZ" tvg-name="PL: BBC FIRST HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUAltt0cI7WnmupXt5TbkGEUmh0LQrCHdxJAQ6r_5B2t2.png" group-title="Polska - Dokumenty i Kultura",PL: BBC FIRST HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165128.ts
-#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="PL: BBC LIFESTYLE HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Polska - Dokumenty i Kultura",PL: BBC LIFESTYLE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165129.ts
-#EXTINF:-1 tvg-id="C+Dokument.pl" tvg-name="PL: CANAL+ DOKUMENT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loKE6UOAjy6GZ2IK_8QveiHyY7QLtDHx14PJYOQANFPig.png" group-title="Polska - Dokumenty i Kultura",PL: CANAL+ DOKUMENT FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165130.ts
-#EXTINF:-1 tvg-id="CBSEUPL" tvg-name="PL: CBS EUROPA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpuY8E_dU5Fcc0COy-gYatrHe-I0mMECF7LFF6_pVXKOQ.png" group-title="Polska - Dokumenty i Kultura",PL: CBS EUROPA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165131.ts
-#EXTINF:-1 tvg-id="CBSRELT" tvg-name="PL: CBS REALITY HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpuY8E_dU5Fcc0COy-gYatrjMs0_A2gAqJItXZ5svGRFg.png" group-title="Polska - Dokumenty i Kultura",PL: CBS REALITY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165132.ts
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL: COMEDY CENTRAL HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpcJMB7DjGsh3lR9xLTg11CWD0au8C6zyQwkaR_x1YvGhQOEDqA8h1bAMGBSQfvGMZcR2JLzUB4FOL7TTUT16bs.png" group-title="Polska - Dokumenty i Kultura",PL: COMEDY CENTRAL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165133.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CRIME AND INVESTIGATION HD" tvg-logo="http://www.directv.com/images/logos/channels/dark/large/849.png" group-title="Polska - Dokumenty i Kultura",PL: CRIME AND INVESTIGATION HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165134.ts
-#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="PL: DA VINCI LEARNING" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOjTOp7tIV2jMFhMSfIsjg6A.png" group-title="Polska - Dokumenty i Kultura",PL: DA VINCI LEARNING
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165135.ts
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL: DISCOVERY HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOuQpCT9-Z4dFNNIvGnD-kZQ.png" group-title="Polska - Dokumenty i Kultura",PL: DISCOVERY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165136.ts
-#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrPTInQSHVmAZQvwZHoLj9DLHRot4BXLGrGfrP41iYaZzyHN9ZTVTwEHUoVkoMVkXU.png" group-title="Polska - Dokumenty i Kultura",PL: DISCOVERY HISTORIA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165137.ts
-#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PL: DISCOVERY LIFE" tvg-logo="http://logo.solanaflix.com/images/logos/3FYfruXKHIRTAi7i4Jq3fZlH_bE-DMeASeQGIy1_NeaCl3TrwQxrjdEG_J3paPIWE4ZGtqcKSJ8EQKZZEV4Wu3jWPEEybgsVWXEra8i6-B4XQEJFNeb7d8Dw9UAQRNzON-B-UvXRU_qBbMLpCErmmA.png" group-title="Polska - Dokumenty i Kultura",PL: DISCOVERY LIFE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165138.ts
-#EXTINF:-1 tvg-id="Science.pl" tvg-name="PL: DISCOVERY SCIENCE HD" tvg-logo="http://logo.solanaflix.com/images/logos/PnfsxHekdH8U0fYp6B4Pcz7ygMOrFMn_nxalQd6L6p4etuo1KE0rWCUAPdoD9JAPo58Q1qrknePwo878yx0GdODrF3yqs9nBPx6puxkoZQu11WShZo7M_W2G-Y6AuPVwIqL0qC0DRugw4W21JhawsH8BtO2jgP2qdCnKgl8dcaY.jpg" group-title="Polska - Dokumenty i Kultura",PL: DISCOVERY SCIENCE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165139.ts
-#EXTINF:-1 tvg-id="TurboXtra.pl" tvg-name="PL: DTX HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrVDtQxHzkK1D9zGztwTpk9rtL0d_m15dv_PuCN3_woag.png" group-title="Polska - Dokumenty i Kultura",PL: DTX HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165140.ts
-#EXTINF:-1 tvg-id="H2.pl" tvg-name="PL: H2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpLBYUVNG8OccsKah-g8Ke5ojwrTYwuUyQBQJ_KwyXnJw.png" group-title="Polska - Dokumenty i Kultura",PL: H2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165141.ts
-#EXTINF:-1 tvg-id="History.pl" tvg-name="PL: HISTORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFFVggC_mkn4tdAqxMuffeCysfWpkYpVNs5Oc3SD-_D2G4FScX&usqp=CAU" group-title="Polska - Dokumenty i Kultura",PL: HISTORY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165142.ts
-#EXTINF:-1 tvg-id="ID.pl" tvg-name="PL: ID HD" tvg-logo="http://logo.solanaflix.com/images/logos/wE9V2LqE_HVtm4w6XVafHbLoc_I-ZlKv605LiTMn1cfqpGXp5bs5A_rvIIXDP0xXm7wN78VSSxZKzsVqZ6Cvtoe9qk-SEg09Sl-4XmoGkF-4hNhT9ZlvSMp15CjlC8ZiTRQfKcO-L7FYqdIDdXLzNyVVfpc7BCmq7v5dZYyfii1DEesRDUaGIgc46HtV53XP.jpg" group-title="Polska - Dokumenty i Kultura",PL: ID HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165143.ts
-#EXTINF:-1 tvg-id="Lifetime.pl" tvg-name="PL: LIFETIME HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOyVN44wdOOjPDFOy5Oew2Jg.png" group-title="Polska - Dokumenty i Kultura",PL: LIFETIME HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165144.ts
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL: NAT GEO PEOPLE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrrYoDbpA2Oo3A30XY1DZvJVn1AtsCia-Fytr9zq508nZQWUjfDnEnT02zke2FNg9Y.png" group-title="Polska - Dokumenty i Kultura",PL: NAT GEO PEOPLE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165145.ts
-#EXTINF:-1 tvg-id="NatGeoWildHD.pl" tvg-name="PL: NAT GEO WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrrYoDbpA2Oo3A30XY1DZvJqy5by8gGpzrZABwABz8UHw.png" group-title="Polska - Dokumenty i Kultura",PL: NAT GEO WILD HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165146.ts
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL: NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrrYoDbpA2Oo3A30XY1DZvJLlUq975XlQr5N7iSxEqPvg.png" group-title="Polska - Dokumenty i Kultura",PL: NATIONAL GEOGRAPHIC HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165147.ts
-#EXTINF:-1 tvg-id="Planete.pl" tvg-name="PL: PLANETE+  HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJNNMZxR_l9Fxp5AeZ91yHwFw-vPAJ5RopAi-XwyQ13I0vyMrWvxR7Rovx8TyslmkZ-IpDsUp6V-pBoNFR6O6zWg.png" group-title="Polska - Dokumenty i Kultura",PL: PLANETE+  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165148.ts
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL: POLSAT DOKU HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrIKOXkWr8Ax44LRM8ytUxXg.png" group-title="Polska - Dokumenty i Kultura",PL: POLSAT DOKU HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165149.ts
-#EXTINF:-1 tvg-id="ViasatExplorer.pl" tvg-name="PL: POLSAT VIASAT EXPLORE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrhjcD_SqKQONbQatYKoorhAfMEb11Wl4owLZ_QPvhexo.png" group-title="Polska - Dokumenty i Kultura",PL: POLSAT VIASAT EXPLORE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165150.ts
-#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="PL: POLSAT VIASAT HISTORY HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrS3LAJ-0Rn_plKOHFVOs9XeHcNRnlsIEE-k-cJuFJ3gE.png" group-title="Polska - Dokumenty i Kultura",PL: POLSAT VIASAT HISTORY HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165151.ts
-#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="PL: POLSAT VIASAT NATURE HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrGhtjzwFSOyWeHVn2uHGZgryLHg5RLCeUy2imGMjF1qI.png" group-title="Polska - Dokumenty i Kultura",PL: POLSAT VIASAT NATURE HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165152.ts
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL: TLC HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpi8HHpgBr0cpxHmgs86buVaQtXy7pBOKwOKK1r0hVrCA.png" group-title="Polska - Dokumenty i Kultura",PL: TLC HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165153.ts
-#EXTINF:-1 tvg-id="Travel.pl" tvg-name="PL: TRAVEL CHANNEL HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrbktVcUMMVAoVCmdAWOxe6wAQeI7gvZL8jcCjcVEO1Dg.png" group-title="Polska - Dokumenty i Kultura",PL: TRAVEL CHANNEL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165154.ts
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL: TVP HISTORIA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyq-8p3NA_iO1ExR1EgU5d8g.png" group-title="Polska - Dokumenty i Kultura",PL: TVP HISTORIA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165155.ts
-#EXTINF:-1 tvg-id="TVPKUL" tvg-name="PL: TVP KULTURA" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGyLcSReixflYsLhB2sW4O8GQ.png" group-title="Polska - Dokumenty i Kultura",PL: TVP KULTURA
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165156.ts
-#EXTINF:-1 tvg-id="WaterPlanet.pl" tvg-name="PL: WATER PLANET" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxO4ps7WXtUilw04SHmYFtt_UC9Mty_iRa7AnRaKuZ2xDE.png" group-title="Polska - Dokumenty i Kultura",PL: WATER PLANET
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165157.ts
-#EXTINF:-1 tvg-id="WP.pl" tvg-name="PL: WP" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lr0rPykmL03ls8nw3aFC7M1olZst263WFDH-FPfh33mbQ.png" group-title="Polska - Dokumenty i Kultura",PL: WP
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165158.ts
-#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: WPOLSCE" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lr0rPykmL03ls8nw3aFC7M1URUoNxLJ4aHfZXl6ZxWUeQ.png" group-title="Polska - Dokumenty i Kultura",PL: WPOLSCE
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165159.ts
-#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="PL: CANAL+  SPORT 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67WwPw_AvTKE293-MYzVbeEXD6Z-bnA6srCVwEUuCOPvjw.png" group-title="Polska - Sportowe",PL: CANAL+  SPORT 2 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165160.ts
-#EXTINF:-1 tvg-id="C+Sport.pl" tvg-name="PL: CANAL+  SPORT 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lqXDIwYRGCqh06CLIbHP67WZqGcTKFvBMc0VvhreYMLiw.png" group-title="Polska - Sportowe",PL: CANAL+  SPORT 1 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165161.ts
-#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUNcQSXwiPl7OJn9LBvzDF4KOgY1T0G8wiJZJ3fjrfrhn.png" group-title="Polska - Sportowe",PL: CANAL+ SPORT 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165162.ts
-#EXTINF:-1 tvg-id="C+Sport3.pl" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUNcQSXwiPl7OJn9LBvzDF4JTqswO1sNUjxhWNSs5XT1V.png" group-title="Polska - Sportowe",PL: CANAL+ SPORT 3 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165163.ts
-#EXTINF:-1 tvg-id="C+Sport4.pl" tvg-name="PL: CANAL+ SPORT 4 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUNcQSXwiPl7OJn9LBvzDF4LiHkpqWl56iBKWXZVvtOaq.png" group-title="Polska - Sportowe",PL: CANAL+ SPORT 4 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165164.ts
-#EXTINF:-1 tvg-id="C+Sport.pl" tvg-name="PL: CANAL+ SPORT 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUNcQSXwiPl7OJn9LBvzDF4KEAcJLvb1Eh6MEivoeBRDz.png" group-title="Polska - Sportowe",PL: CANAL+ SPORT 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165165.ts
-#EXTINF:-1 tvg-id="ElevenSports1_4K.pl" tvg-name="PL: ELEVEN SPORT 4K" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Polska - Sportowe",PL: ELEVEN SPORT 4K
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165166.ts
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHktcpuA7OkYgBHM1e2MNsmFTOWQ4Faa8HPEF12drEsE.png" group-title="Polska - Sportowe",PL: ELEVEN SPORTS 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165167.ts
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHktcpuA7OkYgBHM1e2MNsnSvA_EHzWOos_04S41wNcv.png" group-title="Polska - Sportowe",PL: ELEVEN SPORTS 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165168.ts
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHktcpuA7OkYgBHM1e2MNsnAuD2wheDcsydwXxx6CoUb.png" group-title="Polska - Sportowe",PL: ELEVEN SPORTS 3 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165169.ts
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHktcpuA7OkYgBHM1e2MNslB_kYKyK6QWKkcMlnI8ODO.png" group-title="Polska - Sportowe",PL: ELEVEN SPORTS 4 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165170.ts
-#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL: EUROSPORT 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxORcNCq1r5t_hkwYbMiQumpX7b2AQOpzhE9EJPikB2TGQ.png" group-title="Polska - Sportowe",PL: EUROSPORT 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165171.ts
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL: EUROSPORT 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6loFrCdeKoWqMQYT32iELjxOpCpSQJIeYxIe1-Cj4QeLiwO56KkNBCbTMELFKD-kTZQ.png" group-title="Polska - Sportowe",PL: EUROSPORT 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165172.ts
-#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="PL: EXTREME SPORTS HD" tvg-logo="http://logo.solanaflix.com/images/logos/lNUSxgUM15O36u8qjz6285FGuH2LR1XWcctNRENxJFDrB08lXfmJos_kZr1pXlTKkvLHLR8R3HbVJ3k2QT_FTs_Fpy8jvPCXFjdPnTHW2UcDvp5XZX_ds8iKmgeYvsYoW7yOI9QE8B2ILxnSbkLI5g.jpg" group-title="Polska - Sportowe",PL: EXTREME SPORTS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165173.ts
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="PL: FIGHTBOX HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lq3VZfNzO91evEGSYrqEVwSu4KmJ_B4S2gWOjmu-U6FCw.png" group-title="Polska - Sportowe",PL: FIGHTBOX HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165174.ts
-#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="PL: FIGHTKLUB HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUHAklpQVP2p6pkcKcsKHEI5OqE1jyOjCxIKhRXwrI9fI.png" group-title="Polska - Sportowe",PL: FIGHTKLUB HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165175.ts
-#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="PL: GOLF CHANNEL HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lo7VKXyGZq1oDAeUaL_7tYCmUs4U4mAIFaJgpAkA19GgA.png" group-title="Polska - Sportowe",PL: GOLF CHANNEL HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165176.ts
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL: MOTOWIZJA HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lrxjZEg6XzUHyCOqrefbT5rTMK1SBZbxEGovY_9XRYRpg.png" group-title="Polska - Sportowe",PL: MOTOWIZJA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165177.ts
-#EXTINF:-1 tvg-id="C+Sport5.pl" tvg-name="PL: Canal+ Sport 5  HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpLgBo2V0S4sc7SfwqNVvPfRnCqcn16rOPfBXT2QhGTRA.png" group-title="Polska - Sportowe",PL: Canal+ Sport 5  HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165178.ts
-#EXTINF:-1 tvg-id="C+Sport5.pl" tvg-name="PL: Canal+ Sport 5 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpLgBo2V0S4sc7SfwqNVvPfRnCqcn16rOPfBXT2QhGTRA.png" group-title="Polska - Sportowe",PL: Canal+ Sport 5 FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165179.ts
-#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="PL: POLSAT SPORT EXTRA HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKjva5Alg4f7HBMjBrbfb5YS.png" group-title="Polska - Sportowe",PL: POLSAT SPORT EXTRA HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165180.ts
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL: TVP SPORT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy_C6v-LpIkjIg6zmBatDeIw.png" group-title="Polska - Sportowe",PL: TVP SPORT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165196.ts
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL: TVP SPORT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpGsFWtEicEWcNLdeiNnmGy_C6v-LpIkjIg6zmBatDeIw.png" group-title="Polska - Sportowe",PL: TVP SPORT FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165195.ts
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="PL: SPORT KLUB HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpEjbVNf4NBp3edCc_qlzZSNgKitQLgwbVYVaAYoiO-PQ.png" group-title="Polska - Sportowe",PL: SPORT KLUB HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165194.ts
-#EXTINF:-1 tvg-id="PolsatSportPpv6.pl" tvg-name="PL: POLSAT SPORT PREMIUM 6 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKhUSUtluCYpWYoubBYOv3B9.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 6 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165193.ts
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv5.pl" tvg-name="PL: POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpwHPbvZmZng0-WuzVwtieC-vuPtzA_JXMUqn7CsJ0vI1jd1CrVrdI6OMlZ69GYqYc.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 5 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165192.ts
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv3.pl" tvg-name="PL: POLSAT SPORT PREMIUM 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKiruuAK2kNI0hrQgMozFW4k.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 3 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165191.ts
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL: POLSAT SPORT PREMIUM 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKiYYJGZ1vheW6-fE1fMd75v0jF-5AAML_LgH2znLoEIeA.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 2 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165190.ts
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 1 SD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKg4ongt83y3LV9VMDwmi1KoMU1F9OcidrSoCdoQhIwxnQ.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 1 SD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165189.ts
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKhUSUtluCYpWYoubBYOv3B9.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 1 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165188.ts
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv4.pl" tvg-name="PL: POLSAT SPORT PREMIUM 4 HD" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKh28BWTiAqzLOr-6t6gICRw.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 4 HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165187.ts
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL: POLSAT SPORT PREMIUM 2 HD(LQ)" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKiYYJGZ1vheW6-fE1fMd75v0jF-5AAML_LgH2znLoEIeA.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 2 HD(LQ)
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165186.ts
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 1 HD(LQ)" tvg-logo="http://logo.solanaflix.com/images/logos/9vqpIM3MAAWWCfjBUYdFUCqAyqmWDtBQ8DybcYHUBKg4ongt83y3LV9VMDwmi1KoMU1F9OcidrSoCdoQhIwxnQ.png" group-title="Polska - Sportowe",PL: POLSAT SPORT PREMIUM 1 HD(LQ)
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165185.ts
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL: POLSAT SPORT NEWS HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrJfSxeLHMH01jzqbpkuNpZ89OgB_f3dMwDQsAJc8psMY.png" group-title="Polska - Sportowe",PL: POLSAT SPORT NEWS HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165184.ts
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT SPORT HD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrPe1Z2-6rdcwKaPooZUClyA.png" group-title="Polska - Sportowe",PL: POLSAT SPORT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165183.ts
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL: POLSAT SPORT FIGHT HD" tvg-logo="http://media2.pl/g/750/55829.jpg" group-title="Polska - Sportowe",PL: POLSAT SPORT FIGHT HD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165182.ts
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT SPORT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/K0jjDZLGESXx_ROYrPXv3a9iQeei77fmNe3wvGrr6lpXDgtnIxapzC7-5Ctw1dPrPe1Z2-6rdcwKaPooZUClyA.png" group-title="Polska - Sportowe",PL: POLSAT SPORT FHD
-http://188583.solanaflix.com/live/TV-40401854/485666283221/165181.ts
+#EXTINF:-1 ,TVP
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42933&extension=m3u8
+#EXTINF:-1 ,TVP 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42936&extension=m3u8
+#EXTINF:-1 ,TVP 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42935&extension=m3u8
+#EXTINF:-1 ,TV REPUBLIKA
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51404&extension=m3u8
+#EXTINF:-1 ,wPolsce 24
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51415&extension=m3u8
+#EXTINF:-1 ,Novela Plus
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=166411&extension=m3u8
+#EXTINF:-1 ,TVN
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=36162&extension=m3u8
+#EXTINF:-1 ,TVN 7
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42941&extension=m3u8
+#EXTINF:-1 ,TVP 3
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42934&extension=m3u8
+#EXTINF:-1 ,13 Ulica
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43054&extension=m3u8
+#EXTINF:-1 ,Ale Kino+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43048&extension=m3u8
+#EXTINF:-1 ,AMC Polska
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43047&extension=m3u8
+#EXTINF:-1 ,ATM Rozrywka TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43044&extension=m3u8
+#EXTINF:-1 ,AXN
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43042&extension=m3u8
+#EXTINF:-1 ,AXN Black
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43043&extension=m3u8
+#EXTINF:-1 ,AXN White
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43040&extension=m3u8
+#EXTINF:-1 ,AXN Spin
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43041&extension=m3u8
+#EXTINF:-1 ,CANAL+ FILM
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=56857&extension=m3u8
+#EXTINF:-1 ,CBS Europa
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43024&extension=m3u8
+#EXTINF:-1 ,Cinemax
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43021&extension=m3u8
+#EXTINF:-1 ,Cinemax 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43022&extension=m3u8
+#EXTINF:-1 ,Comedy Central
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43020&extension=m3u8
+#EXTINF:-1 ,Epic Drama
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51359&extension=m3u8
+#EXTINF:-1 ,Power TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=122588&extension=m3u8
+#EXTINF:-1 ,Filmbox Action
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42999&extension=m3u8
+#EXTINF:-1 ,Filmbox Arthouse
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42998&extension=m3u8
+#EXTINF:-1 ,Filmbox Extra
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42997&extension=m3u8
+#EXTINF:-1 ,Filmbox Family
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42996&extension=m3u8
+#EXTINF:-1 ,FilmBox Premium
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42995&extension=m3u8
+#EXTINF:-1 ,FOX HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51367&extension=m3u8
+#EXTINF:-1 ,Fox Comedy
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42994&extension=m3u8
+#EXTINF:-1 ,HBO
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42990&extension=m3u8
+#EXTINF:-1 ,HBO 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42992&extension=m3u8
+#EXTINF:-1 ,HBO 3
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42991&extension=m3u8
+#EXTINF:-1 ,Crime & Investigation
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42987&extension=m3u8
+#EXTINF:-1 ,Kino Polska
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42986&extension=m3u8
+#EXTINF:-1 ,Kino TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51373&extension=m3u8
+#EXTINF:-1 ,Lifetime
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42982&extension=m3u8
+#EXTINF:-1 ,MTV Polska
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42980&extension=m3u8
+#EXTINF:-1 ,Polsat Film
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42969&extension=m3u8
+#EXTINF:-1 ,Polsat Rodzina
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42964&extension=m3u8
+#EXTINF:-1 ,Stopklatka TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42950&extension=m3u8
+#EXTINF:-1 ,Warner TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51399&extension=m3u8
+#EXTINF:-1 ,TV6
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42943&extension=m3u8
+#EXTINF:-1 ,TVP Rozrywka
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42928&extension=m3u8
+#EXTINF:-1 ,TVP Seriale
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42927&extension=m3u8
+#EXTINF:-1 ,4Fun Dance
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43053&extension=m3u8
+#EXTINF:-1 ,4Fun Gold Hits
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43052&extension=m3u8
+#EXTINF:-1 ,4Fun TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43051&extension=m3u8
+#EXTINF:-1 ,Disco Polo Music
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43017&extension=m3u8
+#EXTINF:-1 ,Eska Rock TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51362&extension=m3u8
+#EXTINF:-1 ,Eska TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51360&extension=m3u8
+#EXTINF:-1 ,Eska TV Extra
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51361&extension=m3u8
+#EXTINF:-1 ,Kino Polska Muzyka
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42985&extension=m3u8
+#EXTINF:-1 ,MTV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51378&extension=m3u8
+#EXTINF:-1 ,Music VOX
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42979&extension=m3u8
+#EXTINF:-1 ,Polsat Music
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42966&extension=m3u8
+#EXTINF:-1 ,STARS.TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51395&extension=m3u8
+#EXTINF:-1 ,MTV 00s
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42924&extension=m3u8
+#EXTINF:-1 ,Baby TV [Multi-Audio]
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43039&extension=m3u8
+#EXTINF:-1 ,BBC CBeebies HD 1080P
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51347&extension=m3u8
+#EXTINF:-1 ,Boomerang HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43036&extension=m3u8
+#EXTINF:-1 ,Cartoon Network
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43026&extension=m3u8
+#EXTINF:-1 ,Da Vinci
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43018&extension=m3u8
+#EXTINF:-1 ,Disney Channel
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43012&extension=m3u8
+#EXTINF:-1 ,Disney JR
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43011&extension=m3u8
+#EXTINF:-1 ,Disney XD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43010&extension=m3u8
+#EXTINF:-1 ,Nick JR
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51380&extension=m3u8
+#EXTINF:-1 ,NICKELODEON
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51381&extension=m3u8
+#EXTINF:-1 ,Nicktoons
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51382&extension=m3u8
+#EXTINF:-1 ,Polsat JimJam
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42967&extension=m3u8
+#EXTINF:-1 ,TVP ABC
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51407&extension=m3u8
+#EXTINF:-1 ,Canal Seriale
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43031&extension=m3u8
+#EXTINF:-1 ,CANAL+ SERIALE
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51354&extension=m3u8
+#EXTINF:-1 ,Canal Sport
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43029&extension=m3u8
+#EXTINF:-1 ,Canal Sport 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43030&extension=m3u8
+#EXTINF:-1 ,CANAL SPORT 3
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=56855&extension=m3u8
+#EXTINF:-1 ,CANAL SPORT 4
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=56854&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43007&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43006&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 3
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43005&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 4
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43004&extension=m3u8
+#EXTINF:-1 ,Eurosport 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43003&extension=m3u8
+#EXTINF:-1 ,EuroSport 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43002&extension=m3u8
+#EXTINF:-1 ,Extreme Sports
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43001&extension=m3u8
+#EXTINF:-1 ,Fightbox
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43000&extension=m3u8
+#EXTINF:-1 ,Food Network
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51365&extension=m3u8
+#EXTINF:-1 ,nSport
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42975&extension=m3u8
+#EXTINF:-1 ,Paramount Channel
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42974&extension=m3u8
+#EXTINF:-1 ,Polsat Sport
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42961&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Extra
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42962&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Fight
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42960&extension=m3u8
+#EXTINF:-1 ,Polsat Sport News HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51390&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42959&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42958&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium PPV 4
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42956&extension=m3u8
+#EXTINF:-1 ,SPORT KLUB
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51394&extension=m3u8
+#EXTINF:-1 ,TVP Sport
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42926&extension=m3u8
+#EXTINF:-1 ,Active Family
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51345&extension=m3u8
+#EXTINF:-1 ,Adventure
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43049&extension=m3u8
+#EXTINF:-1 ,Animal Planet
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43045&extension=m3u8
+#EXTINF:-1 ,BBC Earth
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43038&extension=m3u8
+#EXTINF:-1 ,BBC FIRST
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51348&extension=m3u8
+#EXTINF:-1 ,BBC HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43037&extension=m3u8
+#EXTINF:-1 ,Canal 1
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43035&extension=m3u8
+#EXTINF:-1 ,Canal+ 360
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43032&extension=m3u8
+#EXTINF:-1 ,CANAL HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51350&extension=m3u8
+#EXTINF:-1 ,Canal+ HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51353&extension=m3u8
+#EXTINF:-1 ,CBS Reality
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43023&extension=m3u8
+#EXTINF:-1 ,Discovery
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43016&extension=m3u8
+#EXTINF:-1 ,Discovery Historia
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51356&extension=m3u8
+#EXTINF:-1 ,Discovery Life
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43015&extension=m3u8
+#EXTINF:-1 ,Discovery Science
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43014&extension=m3u8
+#EXTINF:-1 ,Discovery Turbo Xtra
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43013&extension=m3u8
+#EXTINF:-1 ,Domo+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43009&extension=m3u8
+#EXTINF:-1 ,DTX
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51357&extension=m3u8
+#EXTINF:-1 ,E! Entertainment
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51358&extension=m3u8
+#EXTINF:-1 ,Fokus TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51364&extension=m3u8
+#EXTINF:-1 ,Golf Channel
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51368&extension=m3u8
+#EXTINF:-1 ,HGTV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42989&extension=m3u8
+#EXTINF:-1 ,History
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42988&extension=m3u8
+#EXTINF:-1 ,ID TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51371&extension=m3u8
+#EXTINF:-1 ,Kuchnia
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42983&extension=m3u8
+#EXTINF:-1 ,Metro HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51376&extension=m3u8
+#EXTINF:-1 ,MiniMini
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42981&extension=m3u8
+#EXTINF:-1 ,National Geographic
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42978&extension=m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42976&extension=m3u8
+#EXTINF:-1 ,NOWA
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51383&extension=m3u8
+#EXTINF:-1 ,Nuta TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43050&extension=m3u8
+#EXTINF:-1 ,Planete+
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51385&extension=m3u8
+#EXTINF:-1 ,Polo TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51386&extension=m3u8
+#EXTINF:-1 ,Polsat 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42973&extension=m3u8
+#EXTINF:-1 ,Polsat Doku HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51387&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat Explore
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42953&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat History
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42952&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat Nature
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42951&extension=m3u8
+#EXTINF:-1 ,Red Carpet TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51392&extension=m3u8
+#EXTINF:-1 ,Romance TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51393&extension=m3u8
+#EXTINF:-1 ,SciFi Universal
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=43028&extension=m3u8
+#EXTINF:-1 ,Sundance TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42949&extension=m3u8
+#EXTINF:-1 ,Super Polsat
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51396&extension=m3u8
+#EXTINF:-1 ,teleTOON
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=56858&extension=m3u8
+#EXTINF:-1 ,TLC HD
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42948&extension=m3u8
+#EXTINF:-1 ,Travel Channel
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51402&extension=m3u8
+#EXTINF:-1 ,TTV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42947&extension=m3u8
+#EXTINF:-1 ,TV Puls 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42946&extension=m3u8
+#EXTINF:-1 ,TV Puls
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42945&extension=m3u8
+#EXTINF:-1 ,TVN 24 Bis
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51405&extension=m3u8
+#EXTINF:-1 ,TVN 24
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42942&extension=m3u8
+#EXTINF:-1 ,TVN Fabuła
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42940&extension=m3u8
+#EXTINF:-1 ,TVN Style
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42938&extension=m3u8
+#EXTINF:-1 ,TVN Turbo
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42937&extension=m3u8
+#EXTINF:-1 ,TVP Historia
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42932&extension=m3u8
+#EXTINF:-1 ,TVP Info
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42931&extension=m3u8
+#EXTINF:-1 ,TVP Kultura
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42930&extension=m3u8
+#EXTINF:-1 ,TVP Polonia
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42929&extension=m3u8
+#EXTINF:-1 ,TVS
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=47241&extension=m3u8
+#EXTINF:-1 ,Zoom TV
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51416&extension=m3u8
+#EXTINF:-1 ,Warner Tv
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129229&extension=m3u8
+#EXTINF:-1 ,Tele5
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129227&extension=m3u8
+#EXTINF:-1 ,Wydarzenia 24
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129226&extension=m3u8
+#EXTINF:-1 ,Nat Geo People
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129225&extension=m3u8
+#EXTINF:-1 ,Ci Polsat
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129224&extension=m3u8
+#EXTINF:-1 ,Canal Plus Domo
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129223&extension=m3u8
+#EXTINF:-1 ,Antena
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129219&extension=m3u8
+#EXTINF:-1 ,History 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129218&extension=m3u8
+#EXTINF:-1 ,4Fun Kids
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129215&extension=m3u8
+#EXTINF:-1 ,Music Box Polska
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=129214&extension=m3u8
+#EXTINF:-1 ,Polsat
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42970&extension=m3u8
+#EXTINF:-1 ,Polsat Cafe
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42971&extension=m3u8
+#EXTINF:-1 ,Polsat News
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42965&extension=m3u8
+#EXTINF:-1 ,Polsat News 2
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51388&extension=m3u8
+#EXTINF:-1 ,Polsat Play
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=51389&extension=m3u8
+#EXTINF:-1 ,TV4
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=42944&extension=m3u8
+#EXTINF:-1 ,Fight Klub
+http://d.tvdark.eu/play/live.php?mac=00:1a:79:BB:1F:2E&stream=119657&extension=m3u8
