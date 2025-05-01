@@ -1,361 +1,391 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="https://epg.ovh/logo/TVP+1+HD.png" group-title="Polonia",PL: TVP 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/39271
-#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 HD" tvg-logo="https://epg.ovh/logo/TVP+2+HD.png" group-title="Polonia",PL: TVP 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16461
-#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL: TVP 3 LQ" tvg-logo="https://epg.ovh/logo/TVP+3+Warszawa.png" group-title="Polonia",PL: TVP 3 LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/38798
-#EXTINF:-1 tvg-id="tvp.pl" tvg-name="PL: TVP HD" tvg-logo="https://epg.ovh/logo/TVP+HD.png" group-title="Polonia",PL: TVP HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/15916
-#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-name="PL: TVP INFO HD" tvg-logo="https://epg.ovh/logo/TVP+Info.png" group-title="Polonia",PL: TVP INFO HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/8628
-#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="PL: TVP ROZRYWKA LQ" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" group-title="Polonia",PL: TVP ROZRYWKA LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/17508
-#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="PL: TVP Seriale HD" tvg-logo="https://epg.ovh/logo/TVP+Seriale.png" group-title="Polonia",PL: TVP Seriale HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/37356
-#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="PL : TVP HISTORIA LQ" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="Polonia",PL : TVP HISTORIA LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/30818
-#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="PL: TVP KULTURA HD LQ" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="Polonia",PL: TVP KULTURA HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/8959
-#EXTINF:-1 tvg-id="polonia1.pl" tvg-name="PL: Polonia 1 HD" tvg-logo="http://62.210.38.80/picon/polonia1.png" group-title="Polonia",PL: Polonia 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/22570
-#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-name="PL: TVP Polonia HD" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="Polonia",PL: TVP Polonia HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/45764
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL: TVN HD LQ" tvg-logo="https://epg.ovh/logo/TVN+HD.png" group-title="Polonia",PL: TVN HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/17595
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL: TVN 7 HD LQ" tvg-logo="https://epg.ovh/logo/TVN+7+HD.png" group-title="Polonia",PL: TVN 7 HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/2224
-#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="PL: TVN FABULA HD LQ" tvg-logo="https://epg.ovh/logo/TVN+Fabula.png" group-title="Polonia",PL: TVN FABULA HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16993
-#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="PL: TVN STYLE HD" tvg-logo="https://epg.ovh/logo/TVN+Style+HD.png" group-title="Polonia",PL: TVN STYLE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/39066
-#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL: TVN TURBO HD" tvg-logo="http://62.210.38.80/picon/turbo.png" group-title="Polonia",PL: TVN TURBO HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28239
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="PL: TTV HD LQ" tvg-logo="https://epg.ovh/logo/TTV.png" group-title="Polonia",PL: TTV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/17803
-#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL: POLSAT HD" tvg-logo="https://epg.ovh/logo/Polsat+1.png" group-title="Polonia",PL: POLSAT HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50614
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL: POLSAT 2 HD" tvg-logo="https://epg.ovh/logo/Polsat+2.png" group-title="Polonia",PL: POLSAT 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/42469
-#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="PL: POLSAT FILM HD" tvg-logo="https://epg.ovh/logo/Polsat+Film.png" group-title="Polonia",PL: POLSAT FILM HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/23013
-#EXTINF:-1 tvg-id="superpolsat.pl" tvg-name="PL: Super Polsat HD" tvg-logo="https://epg.ovh/logo/Super+Polsat.png" group-title="Polonia",PL: Super Polsat HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/26079
-#EXTINF:-1 tvg-id="polsatseriale.pl" tvg-name="PL: Polsat Seriale HD" tvg-logo="" group-title="Polonia",PL: Polsat Seriale HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/25419
-#EXTINF:-1 tvg-id="polsatrodzina.pl" tvg-name="PL: POLSAT RODZINA HD" tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png" group-title="Polonia",PL: POLSAT RODZINA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/18792
-#EXTINF:-1 tvg-id="comedycentralextra.pl" tvg-name="PL: Polsat Comedy Central Extra HD" tvg-logo="https://epg.ovh/logo/Comedy+Central+Family.png" group-title="Polonia",PL: Polsat Comedy Central Extra HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/19893
-#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="PL: POLSAT CAFE HD" tvg-logo="https://epg.ovh/logo/Polsat+Cafe.png" group-title="Polonia",PL: POLSAT CAFE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16415
-#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="PL: POLSAT PLAY HD" tvg-logo="https://epg.ovh/logo/Polsat+Play.png" group-title="Polonia",PL: POLSAT PLAY HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/13702
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT DOCU LQ" tvg-logo="https://epg.ovh/logo/Polsat+Doku.png" group-title="Polonia",PL: POLSAT DOCU LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/11603
-#EXTINF:-1 tvg-id="polsatdoku.pl" tvg-name="PL: POLSAT DOKU HD" tvg-logo="https://epg.ovh/logo/Polsat+Doku.png" group-title="Polonia",PL: POLSAT DOKU HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/23308
-#EXTINF:-1 tvg-id="tv4.pl" tvg-name="PL: TV4 HD" tvg-logo="https://epg.ovh/logo/TV+4.png" group-title="Polonia",PL: TV4 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51941
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV 6 HD LQ" tvg-logo="https://epg.ovh/logo/TV+4.png" group-title="Polonia",PL: TV 6 HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/31105
-#EXTINF:-1 tvg-id="tvn24biznesswiat.pl" tvg-name="PL: TVN24 BIS HD" tvg-logo="https://epg.ovh/logo/TVN+24+BiS.png" group-title="Polonia",PL: TVN24 BIS HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/1342
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN24 HD" tvg-logo="https://epg.ovh/logo/TVN+24+HD.png" group-title="Polonia",PL: TVN24 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/29762
-#EXTINF:-1 tvg-id="biznes24hd.pl" tvg-name="PL: Biznes24 HD" tvg-logo="https://epg.ovh/logo/Biznes24+HD.png" group-title="Polonia",PL: Biznes24 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36173
-#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL: POLSAT NEWS HD" tvg-logo="https://epg.ovh/logo/Polsat+News.png" group-title="Polonia",PL: POLSAT NEWS HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/12817
-#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="PL: POLSAT NEWS 2 HD" tvg-logo="https://epg.ovh/logo/POLSAT+NEWS+2.png" group-title="Polonia",PL: POLSAT NEWS 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/48006
-#EXTINF:-1 tvg-id="superstacja.pl" tvg-name="PL: Polsat News Polityka HD" tvg-logo="http://62.210.38.80/picon/polnewpol.png" group-title="Polonia",PL: Polsat News Polityka HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/31059
-#EXTINF:-1 tvg-id="tvrepublika.pl" tvg-name="PL: TV REPUBLIKA HD" tvg-logo="http://62.210.38.80/picon/republika.png" group-title="Polonia",PL: TV REPUBLIKA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/45552
-#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: WPOLSCE24 FHD" tvg-logo="http://62.210.38.80/picon/wpolsce24.png" group-title="Polonia",PL: WPOLSCE24 FHD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/47484
-#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="PL: STOPKLATKA HD" tvg-logo="https://epg.ovh/logo/Stopklatka+TV.png" group-title="Polonia",PL: STOPKLATKA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/35703
-#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL: KINO POLSKA HD" tvg-logo="https://epg.ovh/logo/Kino+Polska.png" group-title="Polonia",PL: KINO POLSKA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/6581
-#EXTINF:-1 tvg-id="wp.pl" tvg-name="PL: WP FHD" tvg-logo="https://epg.ovh/logo/WP.png" group-title="Polonia",PL: WP FHD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/53429
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV PULS HD LQ" tvg-logo="https://epg.ovh/logo/TV+Puls.png" group-title="Polonia",PL: TV PULS HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/49553
-#EXTINF:-1 tvg-id="" tvg-name="PL: PULS 2 HD LQ" tvg-logo="https://epg.ovh/logo/Puls+2.png" group-title="Polonia",PL: PULS 2 HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/2839
-#EXTINF:-1 tvg-id="canalpluspremium.pl" tvg-name="PL: CANAL+ PREMIUM HD" tvg-logo="https://epg.ovh/logo/Canal+.png" group-title="Polonia",PL: CANAL+ PREMIUM HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/10066
-#EXTINF:-1 tvg-id="canalplus1.pl" tvg-name="PL: CANAL+ 1 HD" tvg-logo="https://epg.ovh/logo/Canal+1.png" group-title="Polonia",PL: CANAL+ 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/23767
-#EXTINF:-1 tvg-id="canalplusfilm.pl" tvg-name="PL: CANAL+ FILM HD" tvg-logo="https://epg.ovh/logo/Canal++Film.png" group-title="Polonia",PL: CANAL+ FILM HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/20590
-#EXTINF:-1 tvg-id="canalplusfamily.pl" tvg-name="PL: CANAL+ 360 HD" tvg-logo="http://62.210.38.80/picon/360.png" group-title="Polonia",PL: CANAL+ 360 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/17786
-#EXTINF:-1 tvg-id="canalplusseriale.pl" tvg-name="PL: CANAL+ SERIALE HD" tvg-logo="https://epg.ovh/logo/Canal++Seriale.png" group-title="Polonia",PL: CANAL+ SERIALE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16818
-#EXTINF:-1 tvg-id="canalplusdokumenttv.pl" tvg-name="PL: Canal+ Dokument HD" tvg-logo="https://epg.ovh/logo/Canal++Dokument.png" group-title="Polonia",PL: Canal+ Dokument HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/37237
-#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL: HBO HD" tvg-logo="http://62.210.38.80/picon/hbo.png" group-title="Polonia",PL: HBO HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/2108
-#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="http://62.210.38.80/picon/hbo2.png" group-title="Polonia",PL: HBO 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/46958
-#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL: HBO 3 HD" tvg-logo="http://62.210.38.80/picon/hbo3.png" group-title="Polonia",PL: HBO 3 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/47423
-#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL: CINEMAX HD LQ" tvg-logo="https://epg.ovh/logo/Cinemax.png" group-title="Polonia",PL: CINEMAX HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/9900
-#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL: CINEMAX 2 HD LQ" tvg-logo="https://epg.ovh/logo/Cinemax+2.png" group-title="Polonia",PL: CINEMAX 2 HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/37428
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="PL: FILMBOX EXTRA LQ" tvg-logo="https://epg.ovh/logo/Filmbox+Extra+HD.png" group-title="Polonia",PL: FILMBOX EXTRA LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/49152
-#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="PL: FILMBOX PREMIUM LQ" tvg-logo="https://epg.ovh/logo/Filmbox+Premium.png" group-title="Polonia",PL: FILMBOX PREMIUM LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51949
-#EXTINF:-1 tvg-id="filmboxaction.pl" tvg-name="PL: FILMBOX ACTION LQ" tvg-logo="https://epg.ovh/logo/FilmBox+Action.png" group-title="Polonia",PL: FILMBOX ACTION LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36423
-#EXTINF:-1 tvg-id="filmboxarthouse.pl" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="https://epg.ovh/logo/Filmbox+Arthouse.png" group-title="Polonia",PL: FILMBOX ARTHOUSE
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/33400
-#EXTINF:-1 tvg-id="filmboxfamily.pl" tvg-name="PL: FILMBOX FAMILY LQ" tvg-logo="https://epg.ovh/logo/Filmbox+Family.png" group-title="Polonia",PL: FILMBOX FAMILY LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50769
-#EXTINF:-1 tvg-id="axn.pl" tvg-name="PL: AXN HD" tvg-logo="https://epg.ovh/logo/AXN.png" group-title="Polonia",PL: AXN HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/1792
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN SPIND HD" tvg-logo="https://epg.ovh/logo/AXN+Spin.png" group-title="Polonia",PL: AXN SPIND HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/14771
-#EXTINF:-1 tvg-id="axnblack.pl" tvg-name="PL: AXN BLACK HD" tvg-logo="https://epg.ovh/logo/AXN+Black.png" group-title="Polonia",PL: AXN BLACK HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/15515
-#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="PL: AXN WHITE HD" tvg-logo="https://epg.ovh/logo/AXN+White.png" group-title="Polonia",PL: AXN WHITE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/15122
-#EXTINF:-1 tvg-id="alekino.pl" tvg-name="PL: ALE KINO HD" tvg-logo="https://epg.ovh/logo/Ale+Kino+.png" group-title="Polonia",PL: ALE KINO HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/45121
-#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="PL: COMEDY CENTRAL HD" tvg-logo="https://epg.ovh/logo/Comedy+Central.png" group-title="Polonia",PL: COMEDY CENTRAL HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/12868
-#EXTINF:-1 tvg-id="kinotv.pl" tvg-name="PL: KINO TV HD" tvg-logo="https://epg.ovh/logo/Kino+TV.png" group-title="Polonia",PL: KINO TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/4514
-#EXTINF:-1 tvg-id="romancetv.pl" tvg-name="PL: Romance TV HD" tvg-logo="https://epg.ovh/logo/ROMANCE+TV.png" group-title="Polonia",PL: Romance TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/9841
-#EXTINF:-1 tvg-id="" tvg-name="PL: SciFi HD" tvg-logo="https://epg.ovh/logo/scifihd.png" group-title="Polonia",PL: SciFi HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/9365
-#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL: AMC HD" tvg-logo="https://epg.ovh/logo/AMC.png" group-title="Polonia",PL: AMC HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/13787
-#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL: Paramount Network HD" tvg-logo="https://epg.ovh/logo/Paramount+Channel.png" group-title="Polonia",PL: Paramount Network HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/54600
-#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="PL: CBS REALITY LQ" tvg-logo="https://epg.ovh/logo/CBS+REALITY+POLSKA.png" group-title="Polonia",PL: CBS REALITY LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/3630
-#EXTINF:-1 tvg-id="" tvg-name="PL: 13 ULICA HD" tvg-logo="https://epg.ovh/logo/13+Ulica.png" group-title="Polonia",PL: 13 ULICA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/11927
-#EXTINF:-1 tvg-id="" tvg-name="PL: TNT HD LQ" tvg-logo="https://epg.ovh/logo/TNT+HD.png" group-title="Polonia",PL: TNT HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/1104
-#EXTINF:-1 tvg-id="novela.pl" tvg-name="PL: Novela TV HD LQ" tvg-logo="https://epg.ovh/logo/NOVELA+TV.png" group-title="Polonia",PL: Novela TV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/22481
-#EXTINF:-1 tvg-id="" tvg-name="PL: ZOOM HD" tvg-logo="https://epg.ovh/logo/ZOOM+TV.png" group-title="Polonia",PL: ZOOM HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/44745
-#EXTINF:-1 tvg-id="" tvg-name="PL: METRO HD LQ" tvg-logo="https://epg.ovh/logo/METRO.png" group-title="Polonia",PL: METRO HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/25187
-#EXTINF:-1 tvg-id="tele5.pl" tvg-name="PL: TELE5 HD" tvg-logo="http://62.210.38.80/picon/tele5.png" group-title="Polonia",PL: TELE5 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/3735
-#EXTINF:-1 tvg-id="" tvg-name="PL: TBN Poland HD" tvg-logo="http://62.210.38.80/picon/tbn.png" group-title="Polonia",PL: TBN Poland HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16231
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="PL: TVS FHD" tvg-logo="https://epg.ovh/logo/TVS.png" group-title="Polonia",PL: TVS FHD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/37742
-#EXTINF:-1 tvg-id="" tvg-name="PL: NOWA TV HD" tvg-logo="https://epg.ovh/logo/NOWA+TV.png" group-title="Polonia",PL: NOWA TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/40760
-#EXTINF:-1 tvg-id="" tvg-name="PL: Red Carpert TV HD LQ" tvg-logo="https://epg.ovh/logo/Red+Carpet+TV.png" group-title="Polonia",PL: Red Carpert TV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/42959
-#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL: BBC BRIT HD" tvg-logo="https://epg.ovh/logo/BBC+Brit.png" group-title="Polonia",PL: BBC BRIT HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36827
-#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL: BBC EARTH HD" tvg-logo="https://epg.ovh/logo/BBC+Earth.png" group-title="Polonia",PL: BBC EARTH HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/14460
-#EXTINF:-1 tvg-id="" tvg-name="PL: BBC HD LQ" tvg-logo="https://epg.ovh/logo/BBC.png" group-title="Polonia",PL: BBC HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16259
-#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL: BBC LIFESTYLE HD" tvg-logo="https://epg.ovh/logo/BBC+Lifestyle.png" group-title="Polonia",PL: BBC LIFESTYLE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/1537
-#EXTINF:-1 tvg-id="epicdramahd.pl" tvg-name="PL: EPIC DRAMA HD" tvg-logo="https://epg.ovh/logo/English+Club+HD.png" group-title="Polonia",PL: EPIC DRAMA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/54278
-#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="PL: FX Comedy HD" tvg-logo="https://pl.m.wikipedia.org/wiki/Plik:FX_Comedy_Logo_2023.svg" group-title="Polonia",PL: FX Comedy HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/52053
-#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL: FX HD" tvg-logo="https://pl.m.wikipedia.org/wiki/Plik:FX_Logo_2023.svg" group-title="Polonia",PL: FX HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36748
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL+ SPORT HD" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="Polonia",PL: CANAL+ SPORT HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16999
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="Polonia",PL: CANAL+ SPORT 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/8054
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+3+HD.png" group-title="Polonia",PL: CANAL+ SPORT 3 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/8082
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL: CANAL+ SPORT 4 HD LQ" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="Polonia",PL: CANAL+ SPORT 4 HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51587
-#EXTINF:-1 tvg-id="" tvg-name="PL:CANAL+ SPORT 5 HD" tvg-logo="https://epg.ovh/logo/nsport+.png" group-title="Polonia",PL:CANAL+ SPORT 5 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/13364
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ NOW HD LQ" tvg-logo="https://epg.ovh/logo/Canal++Now.png" group-title="Polonia",PL: CANAL+ NOW HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/20149
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" group-title="Polonia",PL: ELEVEN SPORTS 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/21580
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" group-title="Polonia",PL: ELEVEN SPORTS 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/13408
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" group-title="Polonia",PL: ELEVEN SPORTS 3 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/4440
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="Polonia",PL: ELEVEN SPORTS 4 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/48452
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP SPORT HD" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="Polonia",PL: TVP SPORT HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50938
-#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: POLSAT SPORT 1 HD" tvg-logo="https://epg.ovh/logo/Polsat+Spor+HD.png" group-title="Polonia",PL: POLSAT SPORT 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/20746
-#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: POLSAT SPORT 2 HD" tvg-logo="http://62.210.38.80/picon/polsatsp2.png" group-title="Polonia",PL: POLSAT SPORT 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/12660
-#EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="PL: POLSAT SPORT FIGHT HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Fight.png" group-title="Polonia",PL: POLSAT SPORT FIGHT HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28049
-#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: POLSAT SPORT 3 HD" tvg-logo="http://62.210.38.80/picon/polsatsp3.png" group-title="Polonia",PL: POLSAT SPORT 3 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/32256
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: EUROSPORT 1 HD" tvg-logo="https://epg.ovh/logo/Eurosport+HD.png" group-title="Polonia",PL: EUROSPORT 1 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/42752
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EUROSPORT 2 HD" tvg-logo="https://epg.ovh/logo/Eurosport+2+PL.png" group-title="Polonia",PL: EUROSPORT 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/6073
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="PL: Sportklub HD" tvg-logo="https://epg.ovh/logo/Sportklub.png" group-title="Polonia",PL: Sportklub HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/38727
-#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="PL: EXTREME SPORTS HD LQ" tvg-logo="http://62.210.38.80/picon/extremep.png" group-title="Polonia",PL: EXTREME SPORTS HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/48173
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: FIGHTBOX HD" tvg-logo="https://epg.ovh/logo/FightBox.png" group-title="Polonia",PL: FIGHTBOX HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51686
-#EXTINF:-1 tvg-id="fightklub.pl" tvg-name="PL: FIGHTKLUB HD" tvg-logo="https://epg.ovh/logo/FIGHTKLUB.png" group-title="Polonia",PL: FIGHTKLUB HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/52894
-#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL: MOTOWIZJA HD" tvg-logo="https://epg.ovh/logo/Motowizja.png" group-title="Polonia",PL: MOTOWIZJA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/33301
-#EXTINF:-1 tvg-id="discoverylife.pl" tvg-name="PL: Discovery Channel HD" tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" group-title="Polonia",PL: Discovery Channel HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/19167
-#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="PL: Discovery Historia HD" tvg-logo="https://epg.ovh/logo/Discovery+Historia.png" group-title="Polonia",PL: Discovery Historia HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/47373
-#EXTINF:-1 tvg-id="discoverylife.pl" tvg-name="PL: DISCOVERY LIFE HD" tvg-logo="https://epg.ovh/logo/Discovery+Life.png" group-title="Polonia",PL: DISCOVERY LIFE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/49242
-#EXTINF:-1 tvg-id="" tvg-name="PL: Science Poland HD LQ" tvg-logo="https://epg.ovh/logo/Discovery+Science.png" group-title="Polonia",PL: Science Poland HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36859
-#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic HD" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" group-title="Polonia",PL: National Geographic HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/7015
-#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: National Geographic Wild HD" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild+HD.png" group-title="Polonia",PL: National Geographic Wild HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/43473
-#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: NAT GEO PEOPLE HD" tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png" group-title="Polonia",PL: NAT GEO PEOPLE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51255
-#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-name="PL: CRIME AND INVESTIGATION HD LQ" tvg-logo="https://epg.ovh/logo/Polsat+Crime.png" group-title="Polonia",PL: CRIME AND INVESTIGATION HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/22657
-#EXTINF:-1 tvg-id="adventure.pl" tvg-name="PL: ADVENTURE HD" tvg-logo="https://epg.ovh/logo/Adventure.png" group-title="Polonia",PL: ADVENTURE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/9947
-#EXTINF:-1 tvg-id="animalplanet.pl" tvg-name="PL: ANIMAL PLANET HD" tvg-logo="https://epg.ovh/logo/Animal+Planet.png" group-title="Polonia",PL: ANIMAL PLANET HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/22916
-#EXTINF:-1 tvg-id="" tvg-name="PL: TRAVEL CHANNEL HD" tvg-logo="https://epg.ovh/logo/Travel+Channel.png" group-title="Polonia",PL: TRAVEL CHANNEL HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/43472
-#EXTINF:-1 tvg-id="tlc.pl" tvg-name="PL: TLC HD" tvg-logo="https://epg.ovh/logo/TLC.png" group-title="Polonia",PL: TLC HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/8166
-#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: HISTORY HD" tvg-logo="https://epg.ovh/logo/HISTORY.png" group-title="Polonia",PL: HISTORY HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/38868
-#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: History 2 HD" tvg-logo="https://epg.ovh/logo/H2.png" group-title="Polonia",PL: History 2 HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/34962
-#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL: PLANETE+ HD LQ" tvg-logo="https://epg.ovh/logo/Planete+.png" group-title="Polonia",PL: PLANETE+ HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28456
-#EXTINF:-1 tvg-id="" tvg-name="PL: ID HD LQ" tvg-logo="https://epg.ovh/logo/ID.png" group-title="Polonia",PL: ID HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/34170
-#EXTINF:-1 tvg-id="" tvg-name="PL: DTX HD" tvg-logo="https://epg.ovh/logo/DTX.png" group-title="Polonia",PL: DTX HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/42280
-#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL: HGTV HD" tvg-logo="https://epg.ovh/logo/HGTV.png" group-title="Polonia",PL: HGTV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/22035
-#EXTINF:-1 tvg-id="sundancetv.pl" tvg-name="PL: Sundance TV HD" tvg-logo="https://epg.ovh/logo/Sundance+TV.png" group-title="Polonia",PL: Sundance TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/17214
-#EXTINF:-1 tvg-id="" tvg-name="PL: DA VINCI HD LQ" tvg-logo="https://epg.ovh/logo/Da+Vinci+Learning.png" group-title="Polonia",PL: DA VINCI HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16020
-#EXTINF:-1 tvg-id="polsatviasatexpl.pl" tvg-name="PL: POLSAT VIASAT EXPLORE HD" tvg-logo="https://epg.ovh/logo/POLSAT+Viasat+Explore.png" group-title="Polonia",PL: POLSAT VIASAT EXPLORE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/37314
-#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="PL: POLSAT VIASAT HISTORY HD" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png" group-title="Polonia",PL: POLSAT VIASAT HISTORY HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/5145
-#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="PL: POLSAT VIASAT NATURE HD" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png" group-title="Polonia",PL: POLSAT VIASAT NATURE HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28277
-#EXTINF:-1 tvg-id="foodnetwork.pl" tvg-name="PL: FOOD NETWORK HD" tvg-logo="https://epg.ovh/logo/Food+Network.png" group-title="Polonia",PL: FOOD NETWORK HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/14780
-#EXTINF:-1 tvg-id="canalpluskuchina.pl" tvg-name="PL: CANAL+ KUCHNIA HD" tvg-logo="https://epg.ovh/logo/Kuchnia+.png" group-title="Polonia",PL: CANAL+ KUCHNIA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/38079
-#EXTINF:-1 tvg-id="domo.pl" tvg-name="PL: CANAL+ DOMO  HD" tvg-logo="https://epg.ovh/logo/Domo+.png" group-title="Polonia",PL: CANAL+ DOMO  HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/44458
-#EXTINF:-1 tvg-id="" tvg-name="PL: E! HD LQ" tvg-logo="https://epg.ovh/logo/E!+Entertainment.png" group-title="Polonia",PL: E! HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/23414
-#EXTINF:-1 tvg-id="waterplanet.pl" tvg-name="PL: Water Planet" tvg-logo="https://epg.ovh/logo/WATER+PLANET.png" group-title="Polonia",PL: Water Planet
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/29781
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN DANCE LQ" tvg-logo="https://epg.ovh/logo/4FUN+DANCE.png" group-title="Polonia",PL: 4FUN DANCE LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/4285
-#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="PL: 4FUN TV LQ" tvg-logo="https://epg.ovh/logo/4FUN.TV.png" group-title="Polonia",PL: 4FUN TV LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50828
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN TV GOLD HITS LQ" tvg-logo="https://epg.ovh/logo/4Fun+Gold.png" group-title="Polonia",PL: 4FUN TV GOLD HITS LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/15389
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/4FUN_KIDS.png" group-title="Polonia",PL: 4FUN Kids
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/48113
-#EXTINF:-1 tvg-id="discopolomusic.pl" tvg-name="PL: DISCO POLO MUSIC" tvg-logo="https://epg.ovh/logo/Disco+Polo+Music.png" group-title="Polonia",PL: DISCO POLO MUSIC
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/15696
-#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-name="PL: POLSAT MUSIC HD" tvg-logo="https://epg.ovh/logo/Polsat+Music.png" group-title="Polonia",PL: POLSAT MUSIC HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28228
-#EXTINF:-1 tvg-id="" tvg-name="PL: STARS TV HD LQ" tvg-logo="https://epg.ovh/logo/Stars+TV.png" group-title="Polonia",PL: STARS TV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/14763
-#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL: ESKA TV HD" tvg-logo="https://epg.ovh/logo/Eska+TV.png" group-title="Polonia",PL: ESKA TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50836
-#EXTINF:-1 tvg-id="eskarock.pl" tvg-name="PL: ESKA ROCK TV HD LQ" tvg-logo="https://epg.ovh/logo/Eska+Rock+TV.png" group-title="Polonia",PL: ESKA ROCK TV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/7399
-#EXTINF:-1 tvg-id="" tvg-name="PL: ESKA TV EXTRA HD" tvg-logo="https://epg.ovh/logo/Eska+TV+Extra.png" group-title="Polonia",PL: ESKA TV EXTRA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/25500
-#EXTINF:-1 tvg-id="vh1.pl" tvg-name="PL: VH1" tvg-logo="https://epg.ovh/logo/VH1.png" group-title="Polonia",PL: VH1
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/53361
-#EXTINF:-1 tvg-id="kinopolskamuzyka.pl" tvg-name="PL: KINO POLSKA MUZYKA LQ" tvg-logo="https://epg.ovh/logo/Kino+Polska+Muzyka.png" group-title="Polonia",PL: KINO POLSKA MUZYKA LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/46840
-#EXTINF:-1 tvg-id="mtvlive.pl" tvg-name="PL: MTV LIVE hd LQ" tvg-logo="https://epg.ovh/logo/MTV+Live.png" group-title="Polonia",PL: MTV LIVE hd LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51376
-#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="PL: MTV POLSKA HD" tvg-logo="https://epg.ovh/logo/MTV+Polska.png" group-title="Polonia",PL: MTV POLSKA HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/3339
-#EXTINF:-1 tvg-id="voxmusic.pl" tvg-name="PL: VOX MUSIC TV HD" tvg-logo="https://epg.ovh/logo/Vox+Music+TV.png" group-title="Polonia",PL: VOX MUSIC TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/21922
-#EXTINF:-1 tvg-id="nutatv.pl" tvg-name="PL: NUTA TV LQ" tvg-logo="https://epg.ovh/logo/Nuta+TV.png" group-title="Polonia",PL: NUTA TV LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16354
-#EXTINF:-1 tvg-id="polotv.pl" tvg-name="PL: POLO TV HD" tvg-logo="https://epg.ovh/logo/Polo+TV.png" group-title="Polonia",PL: POLO TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/29013
-#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="PL: TVP ABC FHD" tvg-logo="https://epg.ovh/logo/TVP+ABC.png" group-title="Polonia",PL: TVP ABC FHD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/39535
-#EXTINF:-1 tvg-id="jimjam.pl" tvg-name="PL: POLSAT JIM JAM SD" tvg-logo="https://epg.ovh/logo/JimJam+Polsat.png" group-title="Polonia",PL: POLSAT JIM JAM SD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/26265
-#EXTINF:-1 tvg-id="" tvg-name="PL: MINIMINI  HD LQ" tvg-logo="https://epg.ovh/logo/Minimini+.png" group-title="Polonia",PL: MINIMINI  HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/46368
-#EXTINF:-1 tvg-id="babytv.pl" tvg-name="PL: BABY TV LQ" tvg-logo="https://epg.ovh/logo/Baby+TV.png" group-title="Polonia",PL: BABY TV LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51419
-#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: CARTOON NETWORK HD" tvg-logo="https://epg.ovh/logo/Cartoon+Network.png" group-title="Polonia",PL: CARTOON NETWORK HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/50322
-#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL: Cartoonito HD LQ" tvg-logo="http://62.210.38.80/picon/cartonito.png" group-title="Polonia",PL: Cartoonito HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/7170
-#EXTINF:-1 tvg-id="" tvg-name="PL: DISNEY CHANNEL HD LQ" tvg-logo="https://epg.ovh/logo/Disney+Channel.png" group-title="Polonia",PL: DISNEY CHANNEL HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/47992
-#EXTINF:-1 tvg-id="disneyjunior.pl" tvg-name="PL: DISNEY JUNIOR LQ" tvg-logo="https://epg.ovh/logo/Disney+Junior.png" group-title="Polonia",PL: DISNEY JUNIOR LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/27269
-#EXTINF:-1 tvg-id="disneyxd.pl" tvg-name="PL: DISNEY XD LQ" tvg-logo="https://epg.ovh/logo/Disney+XD.png" group-title="Polonia",PL: DISNEY XD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/46773
-#EXTINF:-1 tvg-id="bbccbeebies.pl" tvg-name="PL: BBC CBEEBIES HD LQ" tvg-logo="https://epg.ovh/logo/BBC+Brit.png" group-title="Polonia",PL: BBC CBEEBIES HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/7345
-#EXTINF:-1 tvg-id="bbcfirst.pl" tvg-name="PL: BBC First HD" tvg-logo="http://62.210.38.80/picon/first.png" group-title="Polonia",PL: BBC First HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/51138
-#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="PL: NICKELODEON HD" tvg-logo="https://epg.ovh/logo/Nickelodeon.png" group-title="Polonia",PL: NICKELODEON HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/52501
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nick Jr Polska LQ" tvg-logo="https://epg.ovh/logo/Nick+Jr..png" group-title="Polonia",PL: Nick Jr Polska LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/28606
-#EXTINF:-1 tvg-id="nicktoons.pl" tvg-name="PL: NICKTOONS HD LQ" tvg-logo="https://epg.ovh/logo/Nicktoons.png" group-title="Polonia",PL: NICKTOONS HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/16661
-#EXTINF:-1 tvg-id="" tvg-name="PL: TELETOON HD LQ" tvg-logo="https://epg.ovh/logo/Teletoon.png" group-title="Polonia",PL: TELETOON HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36708
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 205 LQ" tvg-logo="https://epg.ovh/logo/VOD+205.png" group-title="Polonia",PL: VOD 205 LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/46530
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 206 LQ" tvg-logo="https://epg.ovh/logo/VOD+206.png" group-title="Polonia",PL: VOD 206 LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/25679
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 207 LQ" tvg-logo="https://epg.ovh/logo/VOD+207.png" group-title="Polonia",PL: VOD 207 LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/30487
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 208 LQ" tvg-logo="https://epg.ovh/logo/VOD+208.png" group-title="Polonia",PL: VOD 208 LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/34433
-#EXTINF:-1 tvg-id="fokustv.pl" tvg-name="PL: FOKUS TV HD" tvg-logo="https://epg.ovh/logo/Fokus+TV.png" group-title="Polonia",PL: FOKUS TV HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/52678
-#EXTINF:-1 tvg-id="polsatgames.pl" tvg-name="PL: POLSAT GAMES HD" tvg-logo="https://epg.ovh/logo/Polsat+Games.png" group-title="Polonia",PL: POLSAT GAMES HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/2092
-#EXTINF:-1 tvg-id="activefamily.pl" tvg-name="PL: ACTIVE FAMILY HD" tvg-logo="https://epg.ovh/logo/Active+Family.png" group-title="Polonia",PL: ACTIVE FAMILY HD
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/743
-#EXTINF:-1 tvg-id="powertv.pl" tvg-name="PL: POWER TV HD LQ" tvg-logo="https://epg.ovh/logo/POWER+TV.png" group-title="Polonia",PL: POWER TV HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/10324
-#EXTINF:-1 tvg-id="" tvg-name="PL: Golf Zone HD LQ" tvg-logo="https://epg.ovh/logo/Golf+Channel.png" group-title="Polonia",PL: Golf Zone HD LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/36543
-#EXTINF:-1 tvg-id="" tvg-name="PL: Trwam Tv LQ" tvg-logo="" group-title="Polonia",PL: Trwam Tv LQ
-http://provider-us.com:8080/d0:d0:03:34:ac:3a/0f1MlFhiHT/9984
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif" group-title="PL - POLSKA",(PL) TVN 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=36162&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png" group-title="PL - POLSKA",(PL) TVN 7 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42941&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="PL - POLSKA",(PL) TVP 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42933&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png" group-title="PL - POLSKA",(PL) TVP 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42936&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png" group-title="PL - POLSKA",(PL) TVP 2 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42935&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="PL - POLSKA",(PL) TVP 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42934&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) TVC 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=189246&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png" group-title="PL - CINEMA",(PL) HBO 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42990&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png" group-title="PL - CINEMA",(PL) HBO 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42992&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo3hd.png" group-title="PL - CINEMA",(PL) HBO 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42991&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxpremium.png" group-title="PL - CINEMA",(PL) FilmBox Premium 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxextrahd.png" group-title="PL - CINEMA",(PL) Filmbox Extra 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42997&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxarthouse.png" group-title="PL - CINEMA",(PL) Filmbox Arthouse
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42998&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxaction.png" group-title="PL - CINEMA",(PL) Filmbox Action
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42999&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxfamily.png" group-title="PL - CINEMA",(PL) Filmbox Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42996&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13ulicahd.png" group-title="PL - CINEMA",(PL) 13 Ulica 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43054&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/alekinoplus.png" group-title="PL - CINEMA",(PL) Ale Kino 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/amcushd.png" group-title="PL - CINEMA",(PL) AMC Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43047&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png" group-title="PL - MUSIC",(PL) ATM Rozrywka TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43044&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="PL - CINEMA",(PL) AXN 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43042&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnblackpl.png" group-title="PL - CINEMA",(PL) AXN Black
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43043&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnwhitehd.png" group-title="PL - CINEMA",(PL) AXN White
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnspinhd.png" group-title="PL - CINEMA",(PL) AXN Spin HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43041&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Novela TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=183395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Novela Plus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=166411&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) CANAL+ FILM HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=56857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="PL - POLSKA",(PL) CBS Europa 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43024&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemaxhd.png" group-title="PL - CINEMA",(PL) Cinemax 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="PL - CINEMA",(PL) Cinemax 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentral.png" group-title="PL - CINEMA",(PL) Comedy Central
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) Epic Drama HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51359&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="PL - POLSKA",(PL) Power TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=122588&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) FOX HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51367&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcomedy.png" group-title="PL - POLSKA",(PL) Fox Comedy HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42994&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png" group-title="PL - POLSKA",(PL) Crime & Investigation 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolska.png" group-title="PL - CINEMA",(PL) Kino Polska 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42986&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) Kino TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51373&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lifetimehd.png" group-title="PL - POLSKA",(PL) Lifetime 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42982&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatfilmhd.png" group-title="PL - CINEMA",(PL) Polsat Film HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42969&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="PL - POLSKA",(PL) Polsat Rodzina 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42964&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/stopklatkatv.png" group-title="PL - POLSKA",(PL) Stopklatka TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42950&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) TNT HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51399&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv6-lichoridas.png" group-title="PL - POLSKA",(PL) TV6 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42943&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpseriale.png" group-title="PL - POLSKA",(PL) TVP Seriale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42927&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png" group-title="PL - POLSKA",(PL) Boomerang HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43036&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearning.png" group-title="PL - POLSKA",(PL) Da Vinci
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) TVP ABC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51407&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png" group-title="PL - CINEMA",(PL) Canal Seriale 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43031&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) CANAL+ SERIALE HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51354&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport.png" group-title="PL - SPORTS",(PL) Canal Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43029&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="PL - SPORTS",(PL) Canal Sport 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43030&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="PL - SPORTS",(PL) CANAL SPORT 3 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=56855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="PL - SPORTS",(PL) CANAL SPORT 4 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=56854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="PL - SPORTS",(PL) Eleven Sports 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43007&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="PL - SPORTS",(PL) Eleven Sports 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="PL - SPORTS",(PL) Eleven Sports 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="PL - SPORTS",(PL) Eleven Sports 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="PL - SPORTS",(PL) Eurosport 1 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43003&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="PL - SPORTS",(PL) EuroSport 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/extremesportshd.png" group-title="PL - SPORTS",(PL) Extreme Sports 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43001&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fightboxhd.png" group-title="PL - POLSKA",(PL) Fightbox 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43000&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Food Network HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51365&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nsportplushd.png" group-title="PL - SPORTS",(PL) nSport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/paramountchannel.png" group-title="PL - POLSKA",(PL) Paramount Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42974&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="PL - SPORTS",(PL) Polsat Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportextra.png" group-title="PL - SPORTS",(PL) Polsat Sport Extra 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42962&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportfighthd.png" group-title="PL - SPORTS",(PL) Polsat Sport Fight 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - SPORTS",(PL) Polsat Sport News HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51390&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="PL - SPORTS",(PL) Polsat Sport Premium 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42959&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="PL - SPORTS",(PL) Polsat Sport Premium 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42958&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="PL - SPORTS",(PL) Polsat Sport Premium PPV 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - SPORTS",(PL) SPORT KLUB
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51394&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpsporthd.png" group-title="PL - SPORTS",(PL) TVP Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42926&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) Active Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51345&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/adventurehd.png" group-title="PL - CINEMA",(PL) Adventure 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43049&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png" group-title="PL - POLSKA",(PL) Animal Planet HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43045&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcearth.png" group-title="PL - POLSKA",(PL) BBC Earth 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) BBC FIRST
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51348&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbchd.png" group-title="PL - POLSKA",(PL) BBC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43037&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png" group-title="PL - CINEMA",(PL) Canal 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43035&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfamily.png" group-title="PL - CINEMA",(PL) Canal Family 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - CINEMA",(PL) Canal+ HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51353&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbsreality.png" group-title="PL - POLSKA",(PL) CBS Reality 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryhd.png" group-title="PL - POLSKA",(PL) Discovery 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Discovery Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51356&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverylifehd.png" group-title="PL - POLSKA",(PL) Discovery Life 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverysciencehd.png" group-title="PL - POLSKA",(PL) Discovery Science 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryturboxtra.png" group-title="PL - POLSKA",(PL) Discovery Turbo Xtra HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) DTX
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51357&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) E! Entertainment
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51358&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Fokus TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51364&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - SPORTS",(PL) Golf Channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51368&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="PL - POLSKA",(PL) HGTV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42989&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="PL - POLSKA",(PL) History 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42988&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) ID TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51371&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kuchniaplushd.png" group-title="PL - POLSKA",(PL) Kuchnia HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42983&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Metro HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51376&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="PL - POLSKA",(PL) National Geographic 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42978&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="PL - POLSKA",(PL) Nat Geo Wild 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42976&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) NOWA HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51383&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png" group-title="PL - POLSKA",(PL) Nuta TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43050&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Planete+ HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51385&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat2hd.png" group-title="PL - POLSKA",(PL) Polsat 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42973&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Polsat Doku HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51387&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatexplorehd.png" group-title="PL - POLSKA",(PL) Polsat Viasat Explore 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42953&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasathistoryhd.png" group-title="PL - POLSKA",(PL) Polsat Viasat History 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatnature.png" group-title="PL - POLSKA",(PL) Polsat Viasat Nature
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42951&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Red Carpet TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51392&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Romance TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51393&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/scifi-lichoridas.png" group-title="PL - POLSKA",(PL) SciFi Universal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43028&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sundancetv.png" group-title="PL - POLSKA",(PL) Sundance TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Super Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51396&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="PL - POLSKA",(PL) TLC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Travel Channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51402&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ttv.png" group-title="PL - POLSKA",(PL) TTV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="PL - POLSKA",(PL) TV Puls 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42946&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="PL - POLSKA",(PL) TV Puls 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42945&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) TV REPUBLIKA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51404&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) TVN 24 Bis
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51405&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn24hd.png" group-title="PL - POLSKA",(PL) TVN 24 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42942&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnfabula.png" group-title="PL - POLSKA",(PL) TVN Fabuła 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42940&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnstyle.png" group-title="PL - POLSKA",(PL) TVN Style 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42938&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnturbohd.png" group-title="PL - POLSKA",(PL) TVN Turbo 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42937&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphistoria.png" group-title="PL - POLSKA",(PL) TVP Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42932&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpinfo.png" group-title="PL - POLSKA",(PL) TVP Info 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42931&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpkultura.png" group-title="PL - POLSKA",(PL) TVP Kultura
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42930&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvppolonia.png" group-title="PL - POLSKA",(PL) TVP Polonia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42929&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvsilesia.png" group-title="PL - POLSKA",(PL) TVS
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=47241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) wPolsce.pl
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51415&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Zoom TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Warner Tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129229&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Tele5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129227&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Wydarzenia 24
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129226&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Nat Geo People 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129225&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Ci Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Canal Plus Domo 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129223&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Antena
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129219&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) History 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129218&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="PL - POLSKA",(PL) Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatcafehd.png" group-title="PL - POLSKA",(PL) Polsat Cafe 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42971&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatnewshd.png" group-title="PL - POLSKA",(PL) Polsat News 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Polsat Play HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51389&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) Polsat News 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51388&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4sevenhd.png" group-title="PL - POLSKA",(PL) TV4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN MOTO
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188120&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN PETROL
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188119&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN CZAS NA ŚLUB
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188118&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN KRYMINALNIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188117&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN KULINARNE PODRÓŻE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188116&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN KULTOWE SERIALE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188115&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN MILIONERZY
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188114&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN MOMENTY PRAWDY
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188113&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN PORA NA SHOW
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188112&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN PRAWO I ŻYCIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188111&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN RAJSKA MIŁOŚĆ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188110&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN REWOLUCJE W KUCHNI
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188109&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN SERIALE O KOBIETACH
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188108&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN SZKOŁA ŻYCIA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188107&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN SZPITALNE HISTORIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188106&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN TALK SHOW
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188105&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN TELENOWELE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188104&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN USTERKA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188103&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN W DOMU
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188102&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="PL - TVN MIX",(PL)  TVN ŻYCIE JAK W BAJCE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=188101&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="PL - KIDS",(PL) Baby TV [Multi-Audio]
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="PL - KIDS",(PL) Disney Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="PL - KIDS",(PL) Cartoon Network 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jimjam.png" group-title="PL - KIDS",(PL) Polsat Jim Jam
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtv.png" group-title="PL - KIDS",(PL) 4Fun Kids
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129215&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) Nick JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51380&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png" group-title="PL - KIDS",(PL) Disney JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyxd.png" group-title="PL - KIDS",(PL) Disney XD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43010&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) Nicktoons
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51382&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) Nickelodeon
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51381&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/miniminiplus.png" group-title="PL - KIDS",(PL) MiniMini 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42981&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) Teletoon 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=56858&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - KIDS",(PL) BBC CBeebies HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51347&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Mtv Live 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51378&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtv.png" group-title="PL - MUSIC",(PL) MTV Polska 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42980&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vh1.png" group-title="PL - MUSIC",(PL) MTV 00s
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42924&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Polo TV 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51386&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpl.png" group-title="PL - MUSIC",(PL) 4Fun TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43051&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpldance.png" group-title="PL - MUSIC",(PL) 4Fun Dance
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43053&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvplgoldhits.png" group-title="PL - MUSIC",(PL) 4Fun Gold Hits
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43052&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Eska TV 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51360&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Eska Rock TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51362&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Eska TV Extra
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51361&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvprozrywka.png" group-title="PL - MUSIC",(PL) TVP Rozrywka 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42928&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discopolomusic.png" group-title="PL - MUSIC",(PL) Disco Polo Music
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=43017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolskamuzyka.png" group-title="PL - MUSIC",(PL) Kino Polska Muzyka
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42985&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - MUSIC",(PL) Stars.TV 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=51395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png" group-title="PL - MUSIC",(PL) Vox Music 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="PL - MUSIC",(PL) Polsat Music HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=42966&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL - MUSIC",(PL) Music Box Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=129214&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/poland/fight_klub_pl.jpg" group-title="PL - SPORTS",(PL) Fight Klub 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:31:0F:5C&stream=119657&extension=ts
