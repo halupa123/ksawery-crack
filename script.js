@@ -4,8 +4,8 @@
 // @version      4.2.0
 // @description  milego
 // @author       Michal Pszon
-// @updateURL    https://raw.githubusercontent.com/halupa123/testportalek/refs/heads/main/script.js?token=GHSAT0AAAAAADBXOSCGWCX76FTII5HYD5GY2BPHI3A
-// @downloadURL  https://raw.githubusercontent.com/halupa123/testportalek/refs/heads/main/script.js?token=GHSAT0AAAAAADBXOSCGWCX76FTII5HYD5GY2BPHI3A
+// @updateURL    https://raw.githubusercontent.com/halupa123/ksawery-crack/refs/heads/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/halupa123/ksawery-crack/refs/heads/main/script.js
 // @match        https://*.testportal.net/*
 // @match        https://*.testportal.pl/*
 // @grant        none
