@@ -329,8 +329,6 @@ http://m.devtv.biz:80/play/live.php?mac=00:1A:79:bc:54:e9&stream=129225&extensio
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:bc:54:e9&stream=129224&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Canal Plus Domo 4K+
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:bc:54:e9&stream=129223&extension=ts
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e6505057fe94eed2db938e09cb24c2dc.png" group-title="IT - ITALIA",(IT) QVC 4K+
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:bc:54:e9&stream=129222&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) Antena
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:bc:54:e9&stream=129219&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PL - POLSKA",(PL) History 2 4K+
