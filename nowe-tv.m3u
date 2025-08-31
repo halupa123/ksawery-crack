@@ -1,84 +1,4 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936949.png" group-title="PL| KANAŁY (NA)",PL| TVP3 WROCLAW (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936949&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DAMI-TV.png" group-title="PL| KANAŁY (NA)",PL| DAMI TV (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1005092&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897009.png" group-title="PL| KANAŁY (NA)",PL| LUBELSKA TV (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897009&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897004.png" group-title="PL| KANAŁY (NA)",PL| CHANNEL 13 (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897004&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882111.png" group-title="PL| KANAŁY (NA)",PL| TVP 1 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882111&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882110.png" group-title="PL| KANAŁY (NA)",PL| TVP 2 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882110&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882105.png" group-title="PL| KANAŁY (NA)",PL| TVP SERIALE (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882105&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882112.png" group-title="PL| KANAŁY (NA)",PL| TVP HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882112&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882108.png" group-title="PL| KANAŁY (NA)",PL| TVP HISTORIA (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882108&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882109.png" group-title="PL| KANAŁY (NA)",PL| TVP KULTURA HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882109&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882106.png" group-title="PL| KANAŁY (NA)",PL| TVP ROZRYWKA (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882106&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882078.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SERIALE HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882078&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882103.png" group-title="PL| KANAŁY (NA)",PL| TVN HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882103&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882083.png" group-title="PL| KANAŁY (NA)",PL| TVN24 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882083&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882102.png" group-title="PL| KANAŁY (NA)",PL| TVN 7 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882102&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882080.png" group-title="PL| KANAŁY (NA)",PL| POLSAT HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882080&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897011.png" group-title="PL| KANAŁY (NA)",PL| POLSAT 1 (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897011&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882079.png" group-title="PL| KANAŁY (NA)",PL| POLSAT2 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882079&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882095.png" group-title="PL| KANAŁY (NA)",PL| KINO POLSKA HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882095&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882081.png" group-title="PL| KANAŁY (NA)",PL| TV4 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882081&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882082.png" group-title="PL| KANAŁY (NA)",PL| TV6 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882082&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882104.png" group-title="PL| KANAŁY (NA)",PL| TTV HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882104&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882100.png" group-title="PL| KANAŁY (NA)",PL| TVN TURBO HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882100&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882101.png" group-title="PL| KANAŁY (NA)",PL| TVN STYLE HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882101&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882099.png" group-title="PL| KANAŁY (NA)",PL| POLSAT PLAY HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882099&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882098.png" group-title="PL| KANAŁY (NA)",PL| POLSAT CAFE HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882098&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882086.png" group-title="PL| KANAŁY (NA)",PL| HBO HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882086&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882085.png" group-title="PL| KANAŁY (NA)",PL| HBO 2 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882085&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882084.png" group-title="PL| KANAŁY (NA)",PL| HBO 3 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882084&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882088.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ PREMIUM HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882088&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882087.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ SERIALE HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882087&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882092.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ FILM HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882092&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882090.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ 360 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882090&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882096.png" group-title="PL| KANAŁY (NA)",PL| DOMO+ HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882096&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882094.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SPORT PREMIUM 1 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882094&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882093.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SPORT PREMIUM 2 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882093&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| KANAŁY (NA)",PL| TVP ABC (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882107&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882091.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ 1 HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882091&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882089.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ NOW HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882089&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882097.png" group-title="PL| KANAŁY (NA)",PL| KUCHNIA+ HD (NA)
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882097&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880520.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 FHD
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880520&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880380.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 HD
@@ -1797,3 +1717,4 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640653&
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640652&extension=ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640651&extension=ts
+
