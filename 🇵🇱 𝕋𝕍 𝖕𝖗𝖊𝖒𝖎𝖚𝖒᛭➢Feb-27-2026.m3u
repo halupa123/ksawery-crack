@@ -1,0 +1,1799 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936949.png" group-title="PL| KANAŁY (NA)",PL| TVP3 WROCLAW (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936949&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DAMI-TV.png" group-title="PL| KANAŁY (NA)",PL| DAMI TV (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1005092&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897009.png" group-title="PL| KANAŁY (NA)",PL| LUBELSKA TV (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897009&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897004.png" group-title="PL| KANAŁY (NA)",PL| CHANNEL 13 (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897004&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882111.png" group-title="PL| KANAŁY (NA)",PL| TVP 1 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882111&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882110.png" group-title="PL| KANAŁY (NA)",PL| TVP 2 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882110&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882105.png" group-title="PL| KANAŁY (NA)",PL| TVP SERIALE (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882105&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882112.png" group-title="PL| KANAŁY (NA)",PL| TVP HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882112&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882108.png" group-title="PL| KANAŁY (NA)",PL| TVP HISTORIA (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882108&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882109.png" group-title="PL| KANAŁY (NA)",PL| TVP KULTURA HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882109&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882106.png" group-title="PL| KANAŁY (NA)",PL| TVP ROZRYWKA (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882106&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882078.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SERIALE HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882078&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882103.png" group-title="PL| KANAŁY (NA)",PL| TVN HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882103&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882083.png" group-title="PL| KANAŁY (NA)",PL| TVN24 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882083&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882102.png" group-title="PL| KANAŁY (NA)",PL| TVN 7 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882102&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882080.png" group-title="PL| KANAŁY (NA)",PL| POLSAT HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882080&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897011.png" group-title="PL| KANAŁY (NA)",PL| POLSAT 1 (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897011&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882079.png" group-title="PL| KANAŁY (NA)",PL| POLSAT2 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882079&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882095.png" group-title="PL| KANAŁY (NA)",PL| KINO POLSKA HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882095&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882081.png" group-title="PL| KANAŁY (NA)",PL| TV4 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882081&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882082.png" group-title="PL| KANAŁY (NA)",PL| TV6 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882082&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882104.png" group-title="PL| KANAŁY (NA)",PL| TTV HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882104&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882100.png" group-title="PL| KANAŁY (NA)",PL| TVN TURBO HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882100&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882101.png" group-title="PL| KANAŁY (NA)",PL| TVN STYLE HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882101&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882099.png" group-title="PL| KANAŁY (NA)",PL| POLSAT PLAY HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882099&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882098.png" group-title="PL| KANAŁY (NA)",PL| POLSAT CAFE HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882098&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882086.png" group-title="PL| KANAŁY (NA)",PL| HBO HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882086&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882085.png" group-title="PL| KANAŁY (NA)",PL| HBO 2 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882085&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882084.png" group-title="PL| KANAŁY (NA)",PL| HBO 3 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882084&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882088.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ PREMIUM HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882088&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882087.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ SERIALE HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882087&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882092.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ FILM HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882092&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882090.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ 360 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882090&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882096.png" group-title="PL| KANAŁY (NA)",PL| DOMO+ HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882096&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882094.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SPORT PREMIUM 1 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882094&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882093.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SPORT PREMIUM 2 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882093&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| KANAŁY (NA)",PL| TVP ABC (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882107&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882091.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ 1 HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882091&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882089.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ NOW HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882089&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/882097.png" group-title="PL| KANAŁY (NA)",PL| KUCHNIA+ HD (NA)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=882097&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880520.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880520&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880380.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880380&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880519.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880519&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880379.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880379&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880504.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880504&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880364.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880364&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880240.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 3
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880240&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121741.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP KOBIETA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121741&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880237.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP ROZRYWKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880237&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880387.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP KULTURA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880387&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880247.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP KULTURA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880247&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121742.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP KULTURA 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121742&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880389.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TTV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880389&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880249.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TTV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880249&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880378.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880518&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880378.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880378&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880517.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN 7 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880517&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880377.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN 7 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880377&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880516.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN FABULA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880516&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880376.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN FABULA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880376&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880515.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN STYLE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880515&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880375.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN STYLE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880375&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880514.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN TURBO FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880514&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880374.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVN TURBO HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880374&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1629540.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TBN POLSKA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1629540&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880386.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| SUPER POLSAT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880386&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880246.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| SUPER POLSAT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880246&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880509.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880509&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880369.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880369&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880508.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880508&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880368.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880368&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880506.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT RODZINA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880506&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880366.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT RODZINA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880366&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880404.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT CAFE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880404&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880264.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT CAFE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880264&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-GAMES.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT GAMES FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880401&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-GAMES.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT GAMES HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880261&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880399.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT PLAY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880399&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880259.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT PLAY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880259&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880475.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880475&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880335.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880335&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880479.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880479&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880339.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880339&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880510.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TV4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880510&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880370.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TV4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880370&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880511.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TV6 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880511&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880371.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TV6 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880371&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880230.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TELE 5
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880230&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1679452.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| EWTN POLSKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1679452&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1060637.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ANTENA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1060637&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880474.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TLC FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880474&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880334.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TLC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880334&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880481.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| FOOD NETWORK FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880481&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880341.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| FOOD NETWORK HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880341&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880385.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HGTV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880385&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880245.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HGTV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880245&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880214.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HOME TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880214&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880424.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880424&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880284.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880284&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880415.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880415&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880275.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880275&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/activefamily.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ACTIVE FAMILY
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880234&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880212.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| METRO
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880212&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880201.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVS
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880201&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880407.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880407&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880267.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880267&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880190.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ZOOM TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880190&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880422.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880422&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880282.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880282&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880192.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| WP
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880192&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880242.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP POLONIA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880242&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880241.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP POLONIA 1
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880241&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TRWAM TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=884764&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880498.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880498&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880358.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880358&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880501.png" group-title="PL| FILMOWE",PL| CANAL+ 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880501&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880361.png" group-title="PL| FILMOWE",PL| CANAL+ 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880361&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880491.png" group-title="PL| FILMOWE",PL| CANAL+ FILM FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880491&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880351.png" group-title="PL| FILMOWE",PL| CANAL+ FILM HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880351&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880497.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880497&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880357.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880357&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880494.png" group-title="PL| FILMOWE",PL| HBO FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880494&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880354.png" group-title="PL| FILMOWE",PL| HBO HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880354&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880496.png" group-title="PL| FILMOWE",PL| HBO 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880496&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880356.png" group-title="PL| FILMOWE",PL| HBO 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880356&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880495.png" group-title="PL| FILMOWE",PL| HBO 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880495&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880355.png" group-title="PL| FILMOWE",PL| HBO 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880355&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880505.png" group-title="PL| FILMOWE",PL| POLSAT FILM FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880505&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880365.png" group-title="PL| FILMOWE",PL| POLSAT FILM HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880365&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/PARAMOUNT--PL.png" group-title="PL| FILMOWE",PL| PARAMOUNT CHANNEL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880472&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/PARAMOUNT--PL.png" group-title="PL| FILMOWE",PL| PARAMOUNT CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880332&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880473.png" group-title="PL| FILMOWE",PL| WARNER TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880473&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880333.png" group-title="PL| FILMOWE",PL| WARNER TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880333&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880492.png" group-title="PL| FILMOWE",PL| 13 ULICA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880492&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880352.png" group-title="PL| FILMOWE",PL| 13 ULICA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880352&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="PL| FILMOWE",PL| AMC FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880433&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="PL| FILMOWE",PL| AMC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880293&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880493.png" group-title="PL| FILMOWE",PL| ALE KINO+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880493&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880353.png" group-title="PL| FILMOWE",PL| ALE KINO+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880353&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880490.png" group-title="PL| FILMOWE",PL| AXN FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880490&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880350.png" group-title="PL| FILMOWE",PL| AXN HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880350&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880489.png" group-title="PL| FILMOWE",PL| AXN SPIN FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880489&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880349.png" group-title="PL| FILMOWE",PL| AXN SPIN HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880349&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880235.png" group-title="PL| FILMOWE",PL| AXN WHITE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880235&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880236.png" group-title="PL| FILMOWE",PL| AXN BLACK
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880236&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880485.png" group-title="PL| FILMOWE",PL| CINEMAX FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880485&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880345.png" group-title="PL| FILMOWE",PL| CINEMAX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880345&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880488.png" group-title="PL| FILMOWE",PL| CINEMAX 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880488&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880348.png" group-title="PL| FILMOWE",PL| CINEMAX 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880348&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880483.png" group-title="PL| FILMOWE",PL| FILMBOX PREMIUM FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880483&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880344.png" group-title="PL| FILMOWE",PL| FILMBOX EXTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880344&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880484.png" group-title="PL| FILMOWE",PL| FILMBOX EXTRA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880484&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880232.png" group-title="PL| FILMOWE",PL| FILMBOX ARTHOUSE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880232&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880233.png" group-title="PL| FILMOWE",PL| FILMBOX ACTION
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880233&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-FAMILY.png" group-title="PL| FILMOWE",PL| FILMBOX FAMILY
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880231&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880487.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880487&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880347.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880347&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880403.png" group-title="PL| FILMOWE",PL| POLSAT COMEDY CENTRAL EXTRA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880403&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880263.png" group-title="PL| FILMOWE",PL| POLSAT COMEDY CENTRAL EXTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880263&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880486.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL POLAND FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880486&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880346.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL POLAND HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880346&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880478.png" group-title="PL| FILMOWE",PL| KINO TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880478&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880338.png" group-title="PL| FILMOWE",PL| KINO TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880338&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880476.png" group-title="PL| FILMOWE",PL| KINO POLSKA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880476&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880336.png" group-title="PL| FILMOWE",PL| KINO POLSKA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880336&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880189.png" group-title="PL| FILMOWE",PL| TVP SERIALE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880189&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880507.png" group-title="PL| FILMOWE",PL| POLSAT SERIALE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880507&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880367.png" group-title="PL| FILMOWE",PL| POLSAT SERIALE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880367&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880477.png" group-title="PL| FILMOWE",PL| FOX FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880477&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880337.png" group-title="PL| FILMOWE",PL| FOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880337&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880480.png" group-title="PL| FILMOWE",PL| FOX COMEDY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880480&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880340.png" group-title="PL| FILMOWE",PL| FOX COMEDY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880340&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880451.png" group-title="PL| FILMOWE",PL| SCIFI UNIVERSAL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880451&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880311.png" group-title="PL| FILMOWE",PL| SCIFI UNIVERSAL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880311&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880431.png" group-title="PL| FILMOWE",PL| CBS EUROPA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880431&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880291.png" group-title="PL| FILMOWE",PL| CBS EUROPA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880291&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EPIC-DRAMA.png" group-title="PL| FILMOWE",PL| EPIC DRAMA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880421&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EPIC-DRAMA.png" group-title="PL| FILMOWE",PL| EPIC DRAMA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880281&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880229.png" group-title="PL| FILMOWE",PL| STOPKLATKA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880229&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880392.png" group-title="PL| FILMOWE",PL| SUNDANCE TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880392&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880252.png" group-title="PL| FILMOWE",PL| SUNDANCE TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880252&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880394.png" group-title="PL| FILMOWE",PL| ROMANCE TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880394&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880254.png" group-title="PL| FILMOWE",PL| ROMANCE TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880254&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880209.png" group-title="PL| FILMOWE",PL| NOVELA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880209&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880410.png" group-title="PL| FILMOWE",PL| NOVELAS+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880410&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880270.png" group-title="PL| FILMOWE",PL| NOVELAS+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880270&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880395.png" group-title="PL| FILMOWE",PL| RED CARPET TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880395&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880255.png" group-title="PL| FILMOWE",PL| RED CARPET TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880255&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880197.png" group-title="PL| FILMOWE",PL| VOD 205
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880197&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880196.png" group-title="PL| FILMOWE",PL| VOD 206
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880196&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880195.png" group-title="PL| FILMOWE",PL| VOD 207
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880195&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880194.png" group-title="PL| FILMOWE",PL| VOD 208
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880194&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN CZAS NA ŚLUB ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649893&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1649892.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN CZAS NA ŚLUB ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649892&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULINARNE PODRÓŻE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649891&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULINARNE PODRÓŻE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649890&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1649889.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PATROL ONLINE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649889&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1649888.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PATROL ONLINE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1649888&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433874&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433875&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433876&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433877.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433877&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433878&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433879&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433880.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433880&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433881.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433881&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433882.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433882&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433883.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433883&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433884.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433884&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433885.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433885&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433886&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433887&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433888.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SERIAL O KOBIETACH ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433888&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433889.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SERIAL O KOBIETACH ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433889&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433890.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433890&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433891.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433891&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433892&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433893&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433894.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433894&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433895.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433895&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433896&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433897&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433898.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433898&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433899.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433899&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433900.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433900&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1433901.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433901&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MILIONERZY ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1496498&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MILIONERZY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1496497&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433902&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1433903&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880224.png" group-title="PL| DLA DZIECI",PL| DA VINCI LEARNING
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880224&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| DLA DZIECI",PL| TVP ABC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880239&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| DLA DZIECI",PL| TVP ABC 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121740&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121750.png" group-title="PL| DLA DZIECI",PL| DUCK TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121750&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121751.png" group-title="PL| DLA DZIECI",PL| DUCK TV PLUS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121751&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880226.png" group-title="PL| DLA DZIECI",PL| BBC CBEEBIES
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880226&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897016.png" group-title="PL| DLA DZIECI",PL| TOP KIDS
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897016&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880225.png" group-title="PL| DLA DZIECI",PL| BABY TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880225&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1035704.png" group-title="PL| DLA DZIECI",PL| 4FUN KIDS
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1035704&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880211.png" group-title="PL| DLA DZIECI",PL| NICK JR POLSKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880211&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NICK-MUSIC-PL.png" group-title="PL| DLA DZIECI",PL| NICK MUSIC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121757&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880411.png" group-title="PL| DLA DZIECI",PL| TEENNICK FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880411&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880271.png" group-title="PL| DLA DZIECI",PL| TEENNICK HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880271&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880210.png" group-title="PL| DLA DZIECI",PL| NICKELODEON
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880210&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880412.png" group-title="PL| DLA DZIECI",PL| NICKTOONS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880412&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880272.png" group-title="PL| DLA DZIECI",PL| NICKTOONS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880272&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png" group-title="PL| DLA DZIECI",PL| POLSAT JIM JAM
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880206&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="PL| DLA DZIECI",PL| DISNEY CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880285&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880219.png" group-title="PL| DLA DZIECI",PL| DISNEY JUNIOR
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880219&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880218.png" group-title="PL| DLA DZIECI",PL| DISNEY XD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880218&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880443.png" group-title="PL| DLA DZIECI",PL| BOOMERANG FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880443&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880303.png" group-title="PL| DLA DZIECI",PL| BOOMERANG HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880303&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880390.png" group-title="PL| DLA DZIECI",PL| TELETOON+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880390&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880250.png" group-title="PL| DLA DZIECI",PL| TELETOON+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880250&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880414.png" group-title="PL| DLA DZIECI",PL| MINIMINI FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880414&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880274.png" group-title="PL| DLA DZIECI",PL| MINIMINI HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880274&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880432.png" group-title="PL| DLA DZIECI",PL| CARTOON NETWORK FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880432&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880292.png" group-title="PL| DLA DZIECI",PL| CARTOON NETWORK HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880292&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1131804.png" group-title="PL| DOKUMENTALNE",PL| LOVE NATURE 4K+
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1131804&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880445.png" group-title="PL| DOKUMENTALNE",PL| TRAVEL CHANNEL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880445&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880305.png" group-title="PL| DOKUMENTALNE",PL| TRAVEL CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880305&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880437.png" group-title="PL| DOKUMENTALNE",PL| ANIMAL PLANET FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880437&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880297.png" group-title="PL| DOKUMENTALNE",PL| ANIMAL PLANET HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880297&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880434.png" group-title="PL| DOKUMENTALNE",PL| ADVENTURE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880434&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880294.png" group-title="PL| DOKUMENTALNE",PL| ADVENTURE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880294&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880450.png" group-title="PL| DOKUMENTALNE",PL| BBC BRIT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880450&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880310.png" group-title="PL| DOKUMENTALNE",PL| BBC BRIT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880310&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880436.png" group-title="PL| DOKUMENTALNE",PL| BBC EARTH FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880436&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880296.png" group-title="PL| DOKUMENTALNE",PL| BBC EARTH HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880296&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880309.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880309&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880449.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880449&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880435.png" group-title="PL| DOKUMENTALNE",PL| BBC LIFESTYLE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880435&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880295.png" group-title="PL| DOKUMENTALNE",PL| BBC LIFESTYLE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880295&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880430.png" group-title="PL| DOKUMENTALNE",PL| CBS REALITY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880430&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880290.png" group-title="PL| DOKUMENTALNE",PL| CBS REALITY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880290&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880442.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880442&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880302.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880302&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880428.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880428&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880288.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880288&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880426.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880426&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880286.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880286&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880427.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY LIFE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880427&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880287.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY LIFE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880287&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1530077.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HISTORIA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1530077&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880228.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HISTORIA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880228&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880438&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880298&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880439.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO WILD FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880439&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880299.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO WILD HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880299&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880440.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO PEOPLE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880440&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880300.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO PEOPLE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880300&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880416.png" group-title="PL| DOKUMENTALNE",PL| ID FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880416&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880276.png" group-title="PL| DOKUMENTALNE",PL| ID HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880276&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880429.png" group-title="PL| DOKUMENTALNE",PL| CRIME AND INVESTIGATION FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880429&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880289.png" group-title="PL| DOKUMENTALNE",PL| CRIME AND INVESTIGATION HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880289&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880423.png" group-title="PL| DOKUMENTALNE",PL| DTX FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880423&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880283.png" group-title="PL| DOKUMENTALNE",PL| DTX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880283&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880384.png" group-title="PL| DOKUMENTALNE",PL| HISTORY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880384&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880244.png" group-title="PL| DOKUMENTALNE",PL| HISTORY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880244&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880418.png" group-title="PL| DOKUMENTALNE",PL| H2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880418&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880278.png" group-title="PL| DOKUMENTALNE",PL| H2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880278&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880405.png" group-title="PL| DOKUMENTALNE",PL| PLANETE+ FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880405&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880265.png" group-title="PL| DOKUMENTALNE",PL| PLANETE+ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880265&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880402.png" group-title="PL| DOKUMENTALNE",PL| POLSAT DOKU FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880402&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880262.png" group-title="PL| DOKUMENTALNE",PL| POLSAT DOKU HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880262&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880397.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT HISTORY FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880397&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880257.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT HISTORY HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880257&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880398.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT EXPLORE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880398&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880258.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT EXPLORE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880258&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880396.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880396&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880256.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880256&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880482.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880482&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880342.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880342&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880393.png" group-title="PL| DOKUMENTALNE",PL| STUDIOMED TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880393&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880253.png" group-title="PL| DOKUMENTALNE",PL| STUDIOMED TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880253&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880388.png" group-title="PL| DOKUMENTALNE",PL| TVP DOKUMENT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880388&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880248.png" group-title="PL| DOKUMENTALNE",PL| TVP DOKUMENT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880248&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880238.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880238&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121743.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121743&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1498959.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1498959&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/905665.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K+
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=905665&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880457.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880457&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880317.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880317&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880456.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880456&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880316.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880316&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880455.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880455&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880315.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880315&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880454.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880454&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880314.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880314&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880453.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880453&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880313.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880313&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880452.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880452&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880312.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880312&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880500.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880500&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880360&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880499.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880499&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880359.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880359&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880461.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880461&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880321.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880321&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880460.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880460&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880320.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880320&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880459.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880459&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880319.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880319&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880458.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880458&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880318.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880318&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880406.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880406&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880266.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880266&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880471.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880471&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880331.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880331&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880470.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880470&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880330.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880330&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880468.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880468&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880328.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880328&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880467.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880467&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880327.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880327&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880466.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880466&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880326.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880326&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880465.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880465&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880325.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880325&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880464.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880464&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880324.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880324&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880463.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880463&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880323.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880323&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880462.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880462&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880322.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880322&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880469.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880469&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880329.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880329&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880502.png" group-title="PL| SPORTOWE",PL| TVP SPORT FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880502&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880362.png" group-title="PL| SPORTOWE",PL| TVP SPORT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880362&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880447.png" group-title="PL| SPORTOWE",PL| SPORTKLUB FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880447&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880307.png" group-title="PL| SPORTOWE",PL| SPORTKLUB HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880307&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880420.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880420&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880280.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880280&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880446.png" group-title="PL| SPORTOWE",PL| FIGHTBOX FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880446&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880306.png" group-title="PL| SPORTOWE",PL| FIGHTBOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880306&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121749.png" group-title="PL| SPORTOWE",PL| PRIME FIGHT HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121749&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880448.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880448&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880308.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880308&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880419.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880419&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880279.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880279&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880413.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880413&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880273.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880273&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL| EUROSPORTS",#### EURO SPORT OLYMPICS ####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602004&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602078.png" group-title="PL| EUROSPORTS",PL| EUROSPORT UHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602078&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602005.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602005&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602006.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602006&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602007.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602007&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602008.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602008&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602009.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 5 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602009&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602010.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 6 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602010&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602011.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 7 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602011&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602012.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 8 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602012&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1602013.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 9 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1602013&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880512.png" group-title="PL| INFORMACYJNE",PL| TVN24 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880512&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880372.png" group-title="PL| INFORMACYJNE",PL| TVN24 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880372&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/897018.png" group-title="PL| INFORMACYJNE",PL| TVN 24
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=897018&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880513.png" group-title="PL| INFORMACYJNE",PL| TVN24 BIS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880513&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880373.png" group-title="PL| INFORMACYJNE",PL| TVN24 BIS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880373&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880503.png" group-title="PL| INFORMACYJNE",PL| TVP INFO FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880503&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880363.png" group-title="PL| INFORMACYJNE",PL| TVP INFO HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880363&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121739.png" group-title="PL| INFORMACYJNE",PL| TVP WORLD HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121739&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880382.png" group-title="PL| INFORMACYJNE",PL| TVP POLONIA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880382&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880441.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880441&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880301.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880301&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880227.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS 2
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880227&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1137583.png" group-title="PL| INFORMACYJNE",PL| WYDARZENIA 24
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1137583&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121738.png" group-title="PL| INFORMACYJNE",PL| NEWS 24 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121738&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880444.png" group-title="PL| INFORMACYJNE",PL| BIZNES24 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880444&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880304.png" group-title="PL| INFORMACYJNE",PL| BIZNES24 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880304&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880191.png" group-title="PL| INFORMACYJNE",PL| WPOLSCE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880191&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880203.png" group-title="PL| INFORMACYJNE",PL| TV REPUBLIKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880203&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880391.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880391&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880251.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880251&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880216.png" group-title="PL| MUZYCZNE",PL| ESKA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880216&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880215.png" group-title="PL| MUZYCZNE",PL| ESKA TV EXTRA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880215&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880217.png" group-title="PL| MUZYCZNE",PL| ESKA ROCK TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880217&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880220.png" group-title="PL| MUZYCZNE",PL| 4FUN.TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880220&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880222.png" group-title="PL| MUZYCZNE",PL| 4FUN DANCE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880222&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880221.png" group-title="PL| MUZYCZNE",PL| 4FUN GOLD HITS
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880221&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880204.png" group-title="PL| MUZYCZNE",PL| STARS.TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880204&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880207.png" group-title="PL| MUZYCZNE",PL| NUTA TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880207&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/MUSIC-BOX-POLSKA.png" group-title="PL| MUZYCZNE",PL| MUSIC BOX POLSKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880199&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121760.png" group-title="PL| MUZYCZNE",PL| MIXTAPE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121760&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121759.png" group-title="PL| MUZYCZNE",PL| 360 TUNEBOX HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121759&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880213.png" group-title="PL| MUZYCZNE",PL| KINO POLSKA MUZYKA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880213&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-MUSIC.png" group-title="PL| MUZYCZNE",PL| POLSAT MUSIC FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880400&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-MUSIC.png" group-title="PL| MUZYCZNE",PL| POLSAT MUSIC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880260&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880409.png" group-title="PL| MUZYCZNE",PL| MTV LIVE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880409&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880269.png" group-title="PL| MUZYCZNE",PL| MTV LIVE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880269&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880408.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880408&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880268.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880268&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121761.png" group-title="PL| MUZYCZNE",PL| MTV 00S HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121761&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880200.png" group-title="PL| MUZYCZNE",PL| MTV 00S
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880200&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880208.png" group-title="PL| MUZYCZNE",PL| MTV 80S HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880208&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/VOX-MUSIC.png" group-title="PL| MUZYCZNE",PL| VOX MUSIC TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880198&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880205.png" group-title="PL| MUZYCZNE",PL| POWER TV
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880205&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCO-POLO-MUSIC.png" group-title="PL| MUZYCZNE",PL| DISCO POLO MUSIC HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121755&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCO-POLO-MUSIC.png" group-title="PL| MUZYCZNE",PL| DISCO POLO MUSIC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880223&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880383.png" group-title="PL| MUZYCZNE",PL| POLO TV FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880383&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880243.png" group-title="PL| MUZYCZNE",PL| POLO TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=880243&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/JAZZ-PL.png" group-title="PL| MUZYCZNE",PL| JAZZ HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121754&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121752.png" group-title="PL| MUZYCZNE",PL| MEZZO HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121752&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1121753.png" group-title="PL| MUZYCZNE",PL| MEZZO LIVE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1121753&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936815.png" group-title="PL| REGIONALNE",PL| TVP3 BIALYSTOK
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936815&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936816.png" group-title="PL| REGIONALNE",PL| TVP3 BYDGOSZCZ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936816&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936817.png" group-title="PL| REGIONALNE",PL| TVP3 GDANSK
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936817&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936818.png" group-title="PL| REGIONALNE",PL| TVP3 GORZOW
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936818&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936819.png" group-title="PL| REGIONALNE",PL| TVP3 KATOWICE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936819&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936820.png" group-title="PL| REGIONALNE",PL| TVP3 KIELCE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936820&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936821.png" group-title="PL| REGIONALNE",PL| TVP3 KRAKOW
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936821&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936834.png" group-title="PL| REGIONALNE",PL| TVP3 LUBLIN
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936834&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936835.png" group-title="PL| REGIONALNE",PL| TVP3 LODZ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936835&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936836.png" group-title="PL| REGIONALNE",PL| TVP3 OLSZTYN
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936836&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936837.png" group-title="PL| REGIONALNE",PL| TVP3 OPOLE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936837&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936838.png" group-title="PL| REGIONALNE",PL| TVP3 POZNAN
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936838&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936839.png" group-title="PL| REGIONALNE",PL| TVP3 RZESZOW
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936839&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936948.png" group-title="PL| REGIONALNE",PL| TVP3 SZCZECIN
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936948&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/936950.png" group-title="PL| REGIONALNE",PL| TVP3 WARSZAWA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=936950&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1142450&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6 BACKUP 1
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1142451&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6 BACKUP 2
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1142452&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289021.png" group-title="PL| WALKI PPV",PL| KSW
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289021&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FAME-MMA.png" group-title="PL| WALKI PPV",PL| FAME MMA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289023&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289024.png" group-title="PL| WALKI PPV",PL| PRIME MMA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289024&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289026&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289022.png" group-title="PL| WALKI PPV",PL| FEN MMA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289022&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289029.png" group-title="PL| WALKI PPV",PL| THE WAR
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289029&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/OKTAGON-MMA.png" group-title="PL| WALKI PPV",PL| OKTAGON MMA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289028&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289027.png" group-title="PL| WALKI PPV",PL| WOTORE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289027&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289025.png" group-title="PL| WALKI PPV",PL| GROMDA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1289025&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311423.png" group-title="PL| WALKI PPV",PL| CLOUT MMA
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1311423&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1293996.png" group-title="PL| WALKI PPV",PL| WALKI 1 (LIVE EVENT ONLY)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1293996&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WALKI.png" group-title="PL| WALKI PPV",PL| WALKI 2 (LIVE EVENT ONLY)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1293995&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",#### CANAL+ ONLINE ROZRYWKA ᴴᴰ ####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691151&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691150.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691150&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691149.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691149&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691148.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691148&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691147.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691147&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691146.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVN 24 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691146&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691145.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVN 24 BIS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691145&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691144.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVN STYLE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691144&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691143.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVN TURBO ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691143&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691142.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HBO ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691142&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691141.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HBO 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691141&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691140.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HBO 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691140&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691139.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ NOW ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691139&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691138.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ PREMIUM ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691138&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691137.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ SERIALE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691137&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691136.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ FILM ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691136&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691135.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ KUCHNIA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691135&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691134.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ DOMO ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691134&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691133.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CANAL+ DOKUMENT ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691133&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691132.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691132&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691131.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691131&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691130.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT CAFE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691130&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/polsatcrimeandinvestigation.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT CRIME & INVESTIGATION ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691129&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/polsatgames.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT GAMES ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691128&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/polsatjimjam.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT JIM JAM ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691127&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691126.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT NEWS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691126&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691125.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT NEWS 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691125&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691124.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLSAT PLAY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691124&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691123.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FILMBOX ACTION ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691123&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691122.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FILMBOX ARTHOUSE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691122&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691121.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FILMBOX EXTRA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691121&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/filmboxfamily.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FILMBOX FAMILY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691120&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691119.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FILMBOX PREMIUM ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691119&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691118.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| 13 ULICA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691118&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691117.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| 4FUN DANCE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691117&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691116.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| 4FUN KIDS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691116&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691115.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| 4FUN.TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691115&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691114.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ALE KINO+ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691114&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691113.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| Alfa TVP ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691113&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691112.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| AXN BLACK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691112&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691111.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| AXN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691111&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691110.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| AXN SPIN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691110&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691109.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| AXN WHITE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691109&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691108.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BBC BRIT ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691108&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691107.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BBC EARTH ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691107&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691106.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BBC LIFESTYLE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691106&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691105.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BBC NEWS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691105&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691104.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BIZNES24 TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691104&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691103.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| BLOOMBERG EUROPEAN TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691103&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691102.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CARTOON NETWORK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691102&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691101.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CBEE BIES ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691101&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691100.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CBS EUROPA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691100&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691099.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CBS REALITY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691099&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691098.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CINEMAX ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691098&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691097.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CINEMAX 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691097&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691096.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CNBC EUROPE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691096&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691095.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| CNN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691095&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691094.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| COMEDY CENTRAL ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691094&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691093.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DEUTSCHE WELLE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691093&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/discopolomusic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISCO POLO MUSIC ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691092&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691091.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISCOVERY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691091&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691090.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISCOVERY HISTORIA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691090&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691089.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISCOVERY LIFE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691089&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY CHANNEL ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691088&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691087.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY JUNIOR ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691087&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691086.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY XD ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691086&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691085.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| E! ENTERTAINMENT ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691085&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691084.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ESKA ROCK TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691084&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691083.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ESKA TV EXTRA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691083&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691082.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ESKA TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691082&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691081.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| EURO NEWS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691081&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691080.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FOOD NETWORK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691080&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691079.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FRANCE 24 ENG ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691079&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691078.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FRANCE 24 FRA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691078&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691077.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FX ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691077&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691076.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| FX COMEDY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691076&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691075.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HGTV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691075&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691074.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HISTORY 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691074&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691073.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| HISTORY ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691073&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691072.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ID PLAND ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691072&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691071.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| KINO POLSKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691071&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691070.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| KINO POLSKA MUZYKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691070&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691069.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| KINO TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691069&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691068.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| METRO TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691068&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691067.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| MINIMINI+ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691067&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691066.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| MTV 00s ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691066&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691065.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| MTV 90s ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691065&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691064.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| MTV POLSKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691064&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691063.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NAT GEO PEOPLE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691063&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691062&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691061&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691060.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NHK WORLD-JAPAN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691060&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691059.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NICKELODEON ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691059&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691058.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NOVELAS+ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691058&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691057.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NUTA.TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691057&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/paramountnetworkpolska.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| PARAMOUNT NETWORK POLSKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691056&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691055.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| PLANETE+ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691055&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691054.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POLO TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691054&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691053.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| POWER TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691053&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691052.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| PULS 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691052&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691051.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ROMANCE TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691051&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691050.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| SCI FI ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691050&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SEJM-RP.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| SEJM RP ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691049&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691048.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| STARS TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691048&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691047.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| STOPKLATKA TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691047&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691046.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TEEN NICK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691046&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691045.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TELETOON+ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691045&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691044.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TLC ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691044&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691043.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TRAVEL CHANNEL ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691043&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691042.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TV PULS ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691042&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691041.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TV REPUBLIKA ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691041&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691040.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TV4 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691040&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP ABC 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691039&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691038.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP HISTORIA 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691038&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691037.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP INFO ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691037&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691036.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP KULTURA 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691036&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691035.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP SERIALE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691035&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691034.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP WORLD ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691034&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691033.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 BIALYSTOK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691033&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691032.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 BYDGOSZCZ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691032&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691031.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 GDANSK ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691031&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691030.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 GORZÓW WIELKOPOLSKI ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691030&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691029.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 KATOWICE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691029&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691028.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 KIELCE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691028&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691027.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 KRAKÓW ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691027&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691026.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 LUBLIN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691026&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691025.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 LÓDZ ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691025&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691024.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 OLSZTYN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691024&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691023.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 OPOLE ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691023&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691022.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 POZNAN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691022&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691021.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 RZESZÓW ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691021&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691020.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 SZCZECIN ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691020&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691019.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 3 WROCLAW ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691019&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/voxmusic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| VOX MUSIC TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691018&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691017.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| WARNER TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691017&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691016.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| WP ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691016&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691015.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ZOOM TV ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691015&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",#### CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ ####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697718&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697717.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 1 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697717&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697716.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697716&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697715.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697715&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697714.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697714&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697713.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVN 24 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697713&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697712.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVN 24 BIS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697712&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697711.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVN STYLE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697711&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697710.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVN TURBO ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697710&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697709.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HBO ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697709&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697708.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HBO 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697708&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697707.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HBO 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697707&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697706.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ NOW ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697706&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697705.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ FILM ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697705&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697704.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ PREMIUM ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697704&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697703.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ SERIALE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697703&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697702.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ DOMO ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697702&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697701.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ KUCHNIA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697701&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697700.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CANAL+ DOKUMENT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697700&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697699.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT NEWS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697699&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697698.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT NEWS 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697698&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697697.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697697&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697696.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697696&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697695.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT PLAY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697695&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697694.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT CAFE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697694&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/polsatcrimeandinvestigation.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT CRIME & INVESTIGATION ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697693&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/polsatgames.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT GAMES ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697692&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/polsatjimjam.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLSAT JIM JAM ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697691&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697690.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FILMBOX ACTION ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697690&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697689.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FILMBOX ARTHOUSE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697689&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697688.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FILMBOX EXTRA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697688&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/filmboxfamily.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FILMBOX FAMILY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697687&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697686.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FILMBOX PREMIUM ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697686&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697685.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TV4 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697685&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP ABC 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697684&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697683.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP HISTORIA 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697683&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697682.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP INFO ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697682&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697681.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP KULTURA 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697681&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697680.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP SERIALE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697680&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697679.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP WORLD ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697679&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697678.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 BIALYSTOK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697678&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697677.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 BYDGOSZCZ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697677&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697676.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 GDANSK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697676&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697675.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 GORZÓW WIELKOPOLSKI ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697675&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697674.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 KATOWICE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697674&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697673.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 KIELCE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697673&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697672.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 KRAKÓW ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697672&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697671.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 LUBLIN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697671&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697670.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 LÓDZ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697670&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697669.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 OLSZTYN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697669&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697668.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 OPOLE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697668&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697667.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 POZNAN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697667&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697666.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 RZESZÓW ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697666&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697665.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 SZCZECIN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697665&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697664.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 3 WROCLAW ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697664&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697663.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| 13 ULICA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697663&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697662.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| 4FUN DANCE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697662&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697661.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| 4FUN KIDS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697661&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697660.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| 4FUN.TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697660&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697659.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ALE KINO+ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697659&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697658.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ALFA TVP ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697658&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697657.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| AXN BLACK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697657&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697656.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| AXN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697656&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697655.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| AXN SPIN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697655&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697654.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| AXN WHITE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697654&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697653.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BBC BRIT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697653&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697652.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BBC EARTH ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697652&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697651.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BBC LIFESTYLE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697651&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697650.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BBC NEWS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697650&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697649.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BIZNES24 TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697649&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697648.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| BLOOMBERG EUROPEAN TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697648&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697647.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CARTOON NETWORK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697647&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697646.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CBEEBIES ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697646&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697645.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CBS EUROPA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697645&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697644.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CBS REALITY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697644&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697643.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CINEMAX 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697643&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697642.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CINEMAX ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697642&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697641.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CNBC EUROPE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697641&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697640.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| CNN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697640&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697639.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| COMEDY CENTRAL ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697639&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697638.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DEUTSCHE WELLE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697638&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discopolomusic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISCO POLO MUSIC ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697637&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697636.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISCOVERY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697636&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697635.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISCOVERY HISTORIA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697635&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697634.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISCOVERY LIFE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697634&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY CHANNEL ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697633&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697632.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY JUNIOR ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697632&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697631.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY XD ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697631&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697630.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| E! ENTERTAINMENT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697630&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697629.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ESKA ROCK TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697629&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697628.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ESKA TV EXTRA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697628&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697627.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ESKA TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697627&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697626.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| EURO NEWS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697626&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697625.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FOOD NETWORK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697625&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697624.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FRANCE 24 ENG ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697624&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697623.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FRANCE 24 FRA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697623&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697622.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FX ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697622&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697621.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| FX COMEDY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697621&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697620.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HGTV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697620&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697619.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HISTORY ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697619&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697618.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| HISTORY 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697618&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697617.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ID PLAND ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697617&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697616.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| KINO POLSKA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697616&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697615.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| KINO POLSKA MUZYKA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697615&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697614.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| KINO TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697614&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697613.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| METRO TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697613&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697612.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| MINIMINI+ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697612&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697611.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| MTV 00S ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697611&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697610.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| MTV 90S ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697610&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697609.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| MTV POLSKA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697609&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697608.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NAT GEO PEOPLE ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697608&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697607&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697606&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697605.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NHK WORLD-JAPAN ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697605&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697604.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NICKELODEON ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697604&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697603.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NOVELAS+ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697603&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697602.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NUTA.TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697602&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/paramountnetworkpolska.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| PARAMOUNT NETWORK POLSKA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697601&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697600.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| PLANETE+ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697600&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697599.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POLO TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697599&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697598.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| POWER TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697598&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697597.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| PULS 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697597&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697596.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ROMANCE TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697596&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697595.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| SCI FI ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697595&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697594.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| SEJM RP ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697594&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697593.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| STARS TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697593&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697592.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| STOPKLATKA TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697592&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697591.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TEEN NICK ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697591&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697590.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TELETOON+ ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697590&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697589.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TLC ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697589&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697588.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TRAVEL CHANNEL ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697588&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697587.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TV PULS ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697587&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697586.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TV REPUBLIKA ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697586&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/voxmusictv.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| VOX MUSIC TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697585&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697584.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| WARNER TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697584&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697583.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| WP ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697583&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697582.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ZOOM TV ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697582&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",#### CANAL+ ONLINE SPORT ᴴᴰ ####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691177&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691176.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EVENT 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691176&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691175.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EVENT 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691175&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691174.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EVENT 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691174&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EVENT 4 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691173&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691172.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ 360 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691172&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691171.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691171&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691170.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691170&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691169.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691169&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691168.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 4 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691168&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691167.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 5 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691167&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691166.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 6 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691166&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691165.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 7 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691165&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691164.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691164&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691163.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691163&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691162.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691162&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691161.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 4 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691161&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691160.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 5 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691160&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691159.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| ELEVEN SPORTS 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691159&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691158.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| ELEVEN SPORTS 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691158&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691157.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| ELEVEN SPORTS 3 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691157&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691156.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| ELEVEN SPORTS 4 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691156&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691155.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| TVP SPORT ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691155&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691154.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| EUROSPORT 1 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691154&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691153.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| EUROSPORT 2 ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691153&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1691152.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| FIGHT KLUB ᴴᴰ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1691152&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697744&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697743.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EVENT 1 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697743&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697742.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EVENT 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697742&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697741.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EVENT 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697741&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697740.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EVENT 4 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697740&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697739.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ 360 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697739&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697738.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 1 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697738&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697737.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697737&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697736.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697736&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697735.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 4 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697735&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697734.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 5 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697734&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697733.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 6 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697733&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697732.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697732&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697731.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697731&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697730.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697730&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697729.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697729&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697728.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 4 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697728&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697727.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 5 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697727&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697726.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 1 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697726&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697725.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697725&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697724.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 3 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697724&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697723.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 4 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697723&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697722.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| EURO SPORT 1 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697722&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697721.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| EURO SPORT 2 ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697721&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697720.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| TVP SPORT ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697720&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1697719.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| FIGHT KLUB ᴿᴬᵂ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1697719&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640750&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640749&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640748&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640747&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640746&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640745&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640744&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640743&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640742&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640741&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640740&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640739&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640738&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640737&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640736&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640735&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640734&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640733&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640732&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640731&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640730&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640729&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640728&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640727&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640726&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640725&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640724&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640723&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640722&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640721&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640720&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640719&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640718&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640717&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640716&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640715&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640714&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640713&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640712&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640711&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640710&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640709&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640708&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640707&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640706&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640705&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640704&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640703&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640702&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640701&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640700&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640699&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640698&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640697&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640696&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640695&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640694&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640693&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640692&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640691&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640690&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640689&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640688&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640687&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640686&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640685&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640684&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640683&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640682&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640681&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640680&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640679&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640678&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640677&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640676&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640675&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640674&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640673&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640672&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640671&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640670&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640669&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640668&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640667&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640666&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640665&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640664&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640663&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640662&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640661&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640660&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640659&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640658&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640657&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640656&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640655&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640654&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640653&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640652&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:1c:0d:98&stream=1640651&extension=ts
