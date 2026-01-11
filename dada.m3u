@@ -1,0 +1,443 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="Dokument/Natura" ,Canal+ 360
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105365
+#EXTINF:-1 group-title="Dokument/Natura" ,BBC Brit
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105403
+#EXTINF:-1 group-title="Dokument/Natura" ,DTX
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105415
+#EXTINF:-1 group-title="Dokument/Natura" ,TVN Turbo
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105442
+#EXTINF:-1 group-title="Dokument/Natura" ,Adventure
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105400
+#EXTINF:-1 group-title="Dokument/Natura" ,Animal Planet
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105401
+#EXTINF:-1 group-title="Dokument/Natura" ,BBC Earth
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105405
+#EXTINF:-1 group-title="Dokument/Natura" ,CI Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105408
+#EXTINF:-1 group-title="Dokument/Natura" ,Discovery
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105410
+#EXTINF:-1 group-title="Dokument/Natura" ,Discovery Historia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105411
+#EXTINF:-1 group-title="Dokument/Natura" ,Discovery Life
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105412
+#EXTINF:-1 group-title="Dokument/Natura" ,Discovery Science
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105413
+#EXTINF:-1 group-title="Dokument/Natura" ,ID
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105414
+#EXTINF:-1 group-title="Dokument/Natura" ,Fokus TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105420
+#EXTINF:-1 group-title="Dokument/Natura" ,History
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105421
+#EXTINF:-1 group-title="Dokument/Natura" ,History 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105422
+#EXTINF:-1 group-title="Dokument/Natura" ,National Geographic
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105423
+#EXTINF:-1 group-title="Dokument/Natura" ,National Geographic Wild
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105424
+#EXTINF:-1 group-title="Dokument/Natura" ,Nat Geo People
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105425
+#EXTINF:-1 group-title="Dokument/Natura" ,Planete+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105426
+#EXTINF:-1 group-title="Dokument/Natura" ,Water Planet
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105427
+#EXTINF:-1 group-title="Dokument/Natura" ,Polsat Doku
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105428
+#EXTINF:-1 group-title="Dokument/Natura" ,Polsat Viasat History
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105429
+#EXTINF:-1 group-title="Dokument/Natura" ,Polsat Viasat Explore
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105430
+#EXTINF:-1 group-title="Dokument/Natura" ,Polsat Viasat Nature
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105431
+#EXTINF:-1 group-title="Dokument/Natura" ,TBN Polska
+http://bocian.ioD:8880/waldek63/ODY1NjAwMTQ1/134088
+#EXTINF:-1 group-title="Dokument/Natura" ,TVP Historia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105453
+#EXTINF:-1 group-title="Dokument/Natura" ,TVP Dokument
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/134087
+#EXTINF:-1 group-title="Dokument/Natura" ,Da Vinci Learning
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105499
+#EXTINF:-1 group-title="Dokument/Natura" ,TVP Historia 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155037
+#EXTINF:-1 group-title="Dokument/Natura" ,TVP Nauka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155039
+#EXTINF:-1 group-title="Dokument/Natura" ,CBS Reality
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155082
+#EXTINF:-1 group-title="Dokument/Natura" ,Crime+ Investigation Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155083
+#EXTINF:-1 group-title="Dokument/Natura" ,Canal+ Dokument
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155084
+#EXTINF:-1 group-title="Dzieci" ,BBC CBeebies
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105485
+#EXTINF:-1 group-title="Dzieci" ,Nick Jr Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105486
+#EXTINF:-1 group-title="Dzieci" ,Nickelodeon
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105487
+#EXTINF:-1 group-title="Dzieci" ,NickToons
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105488
+#EXTINF:-1 group-title="Dzieci" ,Disney Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105489
+#EXTINF:-1 group-title="Dzieci" ,Baby TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105490
+#EXTINF:-1 group-title="Dzieci" ,Cartoonito
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105491
+#EXTINF:-1 group-title="Dzieci" ,Cartoon Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105492
+#EXTINF:-1 group-title="Dzieci" ,Disney Junior
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105493
+#EXTINF:-1 group-title="Dzieci" ,Disney XD
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105494
+#EXTINF:-1 group-title="Dzieci" ,MiniMini+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105495
+#EXTINF:-1 group-title="Dzieci" ,TVP ABC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105496
+#EXTINF:-1 group-title="Dzieci" ,Polsat Jim Jam
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105497
+#EXTINF:-1 group-title="Dzieci" ,TeleTOON+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105498
+#EXTINF:-1 group-title="Dzieci" ,TOP Kids
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/120419
+#EXTINF:-1 group-title="Dzieci" ,TeenNick
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/152819
+#EXTINF:-1 group-title="Dzieci" ,4Fun Kids
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105501
+#EXTINF:-1 group-title="Dzieci" ,TVP ABC 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155038
+#EXTINF:-1 group-title="Film" ,AMC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105360
+#EXTINF:-1 group-title="Film" ,Ale Kino+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105361
+#EXTINF:-1 group-title="Film" ,Canal+ PREMIUM
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105362
+#EXTINF:-1 group-title="Film" ,Canal+ 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105363
+#EXTINF:-1 group-title="Film" ,Canal+ Film
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105364
+#EXTINF:-1 group-title="Film" ,Canal+ Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105366
+#EXTINF:-1 group-title="Film" ,HBO
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105368
+#EXTINF:-1 group-title="Film" ,HBO 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105369
+#EXTINF:-1 group-title="Film" ,HBO 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105370
+#EXTINF:-1 group-title="Film" ,Cinemax
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105371
+#EXTINF:-1 group-title="Film" ,Cinemax 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105372
+#EXTINF:-1 group-title="Film" ,Filmbox Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105373
+#EXTINF:-1 group-title="Film" ,Filmbox Action
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105374
+#EXTINF:-1 group-title="Film" ,Filmbox Arthouse
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105375
+#EXTINF:-1 group-title="Film" ,Filmbox Premium
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105376
+#EXTINF:-1 group-title="Film" ,Filmbox Family
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105377
+#EXTINF:-1 group-title="Film" ,FX
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105378
+#EXTINF:-1 group-title="Film" ,FX Comedy
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105379
+#EXTINF:-1 group-title="Film" ,13 Ulica
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105380
+#EXTINF:-1 group-title="Film" ,AXN
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105381
+#EXTINF:-1 group-title="Film" ,AXN Black
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105382
+#EXTINF:-1 group-title="Film" ,AXN Spin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105383
+#EXTINF:-1 group-title="Film" ,AXN White
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105384
+#EXTINF:-1 group-title="Film" ,Stopklatka TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105387
+#EXTINF:-1 group-title="Film" ,Kino Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105389
+#EXTINF:-1 group-title="Film" ,Kino TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105390
+#EXTINF:-1 group-title="Film" ,Sundance
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105391
+#EXTINF:-1 group-title="Film" ,Polsat Film
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105392
+#EXTINF:-1 group-title="Film" ,Romance TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105394
+#EXTINF:-1 group-title="Film" ,Paramount Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105395
+#EXTINF:-1 group-title="Film" ,SciFi
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105396
+#EXTINF:-1 group-title="Film" ,Warner TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105397
+#EXTINF:-1 group-title="Film" ,Film Cafe
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105406
+#EXTINF:-1 group-title="Film" ,FilMax
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155043
+#EXTINF:-1 group-title="Film" ,VOD 205
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105549
+#EXTINF:-1 group-title="Film" ,VOD 206
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105550
+#EXTINF:-1 group-title="Film" ,VOD 207
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105551
+#EXTINF:-1 group-title="Film" ,VOD 208
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105552
+#EXTINF:-1 group-title="Film" ,Comedy Central Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105386
+#EXTINF:-1 group-title="Film" ,TVN Fabula
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105393
+#EXTINF:-1 group-title="Film" ,TVP Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105398
+#EXTINF:-1 group-title="Film" ,BBC First
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105402
+#EXTINF:-1 group-title="Film" ,Epic Drama
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105417
+#EXTINF:-1 group-title="Film" ,Polsat Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105434
+#EXTINF:-1 group-title="Film" ,Novelas+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/135978
+#EXTINF:-1 group-title="Film" ,Novela TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105448
+#EXTINF:-1 group-title="Film" ,BollywooD
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155041
+#EXTINF:-1 group-title="Film" ,Warner TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155234
+#EXTINF:-1 group-title="Info" ,TVP Info
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105462
+#EXTINF:-1 group-title="info" ,TV Republika
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105463
+#EXTINF:-1 group-title="Info" ,wPolsce24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105464
+#EXTINF:-1 group-title="Info" ,Polsat News
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105465
+#EXTINF:-1 group-title="Info" ,Polsat News 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105466
+#EXTINF:-1 group-title="Info" ,Polsat News Polityka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155148
+#EXTINF:-1 group-title="Info" ,TVN 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105467
+#EXTINF:-1 group-title="Info" ,TVN 24 BiS
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105468
+#EXTINF:-1 group-title="Info" ,Wydarzenia 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/151853
+#EXTINF:-1 group-title="Info" ,Biznes 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/119834
+#EXTINF:-1 group-title="Lifestyle" ,Active Family
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105388
+#EXTINF:-1 group-title="Lifestyle" ,BBC Lifestyle
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105404
+#EXTINF:-1 group-title="Lifestyle" ,Canal+ Domo
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105416
+#EXTINF:-1 group-title="Lifestyle" ,E! Entertainment
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105418
+#EXTINF:-1 group-title="Lifestyle" ,Food Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105419
+#EXTINF:-1 group-title="Lifestyle" ,Canal+ Kuchnia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105438
+#EXTINF:-1 group-title="Lifestyle" ,StudioMed TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105440
+#EXTINF:-1 group-title="Lifestyle" ,TVN Style
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105441
+#EXTINF:-1 group-title="Lifestyle" ,TLC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105446
+#EXTINF:-1 group-title="Lifestyle" ,HGTV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105457
+#EXTINF:-1 group-title="Lifestyle" ,Home TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/120417
+#EXTINF:-1 group-title="Lifestyle" ,MTV Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105510
+#EXTINF:-1 group-title="Lifestyle" ,TVP Kobieta
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155036
+#EXTINF:-1 group-title="Muzyka" ,Nuta Gold
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105437
+#EXTINF:-1 group-title="Muzyka" ,4Fun.TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105500
+#EXTINF:-1 group-title="Muzyka" ,4Fun Dance
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105502
+#EXTINF:-1 group-title="Muzyka" ,Disco Polo Music
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105503
+#EXTINF:-1 group-title="Muzyka" ,Eska Rock TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105506
+#EXTINF:-1 group-title="Muzyka" ,Kino Polska Muzyka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105507
+#EXTINF:-1 group-title="Muzyka" ,NickMusic
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105508
+#EXTINF:-1 group-title="Muzyka" ,MTV Live
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105509
+#EXTINF:-1 group-title="Muzyka" ,MTV 90s
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105511
+#EXTINF:-1 group-title="Muzyka" ,NUTA TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105512
+#EXTINF:-1 group-title="Muzyka" ,Polo TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105513
+#EXTINF:-1 group-title="Muzyka" ,Polsat Music
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105514
+#EXTINF:-1 group-title="Muzyka" ,Power TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105515
+#EXTINF:-1 group-title="Muzyka" ,STARS.TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105516
+#EXTINF:-1 group-title="Muzyka" ,MTV 00s
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105517
+#EXTINF:-1 group-title="Muzyka" ,VOX Music TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105518
+#EXTINF:-1 group-title="Muzyka" ,Eska TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155186
+#EXTINF:-1 group-title="Muzyka" ,Eska TV Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155187
+#EXTINF:-1 group-title="Ogólne" ,TVP
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105348
+#EXTINF:-1 group-title="Ogólne" ,TVP 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105345
+#EXTINF:-1 group-title="Ogólne" ,TVP 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105346
+#EXTINF:-1 group-title="Ogólne" ,TV Trwam
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105461
+#EXTINF:-1 group-title="Ogólne" ,Antena
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/151847
+#EXTINF:-1 group-title="Ogólne" ,Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105349
+#EXTINF:-1 group-title="Ogólne" ,Polsat 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105350
+#EXTINF:-1 group-title="Ogólne" ,Super Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105351
+#EXTINF:-1 group-title="Ogólne" ,TVN
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105352
+#EXTINF:-1 group-title="Ogólne" ,TTV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105353
+#EXTINF:-1 group-title="Ogólne" ,TV 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105354
+#EXTINF:-1 group-title="Ogólne" ,TV 6
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105355
+#EXTINF:-1 group-title="Ogólne" ,TVN 7
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105356
+#EXTINF:-1 group-title="Ogólne" ,TV Puls
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105357
+#EXTINF:-1 group-title="Ogólne" ,Puls 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105358
+#EXTINF:-1 group-title="Ogólne" ,Comedy Central
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105385
+#EXTINF:-1 group-title="Ogólne" ,Metro
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105399
+#EXTINF:-1 group-title="Ogólne" ,Red Carpet TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/134089
+#EXTINF:-1 group-title="Ogólne" ,Polsat Cafe
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105432
+#EXTINF:-1 group-title="Ogólne" ,Polsat Rodzina
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105433
+#EXTINF:-1 group-title="Ogólne" ,Polsat Play
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105435
+#EXTINF:-1 group-title="Ogólne" ,TELE 5
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105447
+#EXTINF:-1 group-title="Ogólne" ,Polonia 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105449
+#EXTINF:-1 group-title="Ogólne" ,TVP Polonia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105450
+#EXTINF:-1 group-title="Ogólne" ,TVP Kultura
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105451
+#EXTINF:-1 group-title="Ogólne" ,TVP Rozrywka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105452
+#EXTINF:-1 group-title="Ogólne" ,Nowa TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105455
+#EXTINF:-1 group-title="Ogólne" ,Travel Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105456
+#EXTINF:-1 group-title="Ogólne" ,Zoom TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105458
+#EXTINF:-1 group-title="Ogólne" ,TV Okazje
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105459
+#EXTINF:-1 group-title="Ogólne" ,WP
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105460
+#EXTINF:-1 group-title="Ogólne" ,Polsat Games
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105534
+#EXTINF:-1 group-title="Regionalne" ,TVS
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105444
+#EXTINF:-1 group-title="Regionalne" ,TVT
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105519
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Bialystok
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105469
+#EXTINF:-1 group-title="Regionalne" ,TVP 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105347
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Bydgoszcz
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105470
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Gdansk
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105471
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Gorzów Wielkopolski
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105472
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Katowice
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105473
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Kielce
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105474
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Kraków
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105475
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Lublin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105476
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Lódz
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105477
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Olsztyn
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105478
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Opole
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105479
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Poznan
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105480
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Rzeszów
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105481
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Szczecin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105482
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Warszawa
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105483
+#EXTINF:-1 group-title="Regionalne" ,TVP 3 Wroclaw
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105484
+#EXTINF:-1 group-title="Sport" ,Motowizja
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105443
+#EXTINF:-1 group-title="Sport" ,Canal+ Sport Online
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105520
+#EXTINF:-1 group-title="Sport" ,Canal+ Sport 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105521
+#EXTINF:-1 group-title="Sport" ,Canal+ Sport 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105522
+#EXTINF:-1 group-title="Sport" ,Canal+ Sport 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105523
+#EXTINF:-1 group-title="Sport" ,Canal+ Sport 5
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/153306
+#EXTINF:-1 group-title="Sport" ,Eleven Sports 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105525
+#EXTINF:-1 group-title="Sport" ,Eleven Sports 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105526
+#EXTINF:-1 group-title="Sport" ,Eleven Sports 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105527
+#EXTINF:-1 group-title="Sport" ,Eleven Sports 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105528
+#EXTINF:-1 group-title="Sport" ,Polsat Sport 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105530
+#EXTINF:-1 group-title="Sport" ,Polsat Sport 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105531
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Fight
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105532
+#EXTINF:-1 group-title="Sport" ,Polsat Sport 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105533
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105535
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105536
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 3 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105537
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 4 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105538
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 5 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105539
+#EXTINF:-1 group-title="Sport" ,Polsat Sport Premium 6 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105540
+#EXTINF:-1 group-title="Sport" ,Fightklub
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105541
+#EXTINF:-1 group-title="Sport" ,Extreme Sports
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105542
+#EXTINF:-1 group-title="Sport" ,Sportklub
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105543
+#EXTINF:-1 group-title="Sport" ,Eurosport 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105544
+#EXTINF:-1 group-title="Sport" ,Eurosport 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105545
+#EXTINF:-1 group-title="Sport" ,Fightbox
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105546
+#EXTINF:-1 group-title="Sport" ,Golf Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105547
+#EXTINF:-1 group-title="Sport" ,TVP Sport
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105548
+#EXTINF:-1 group-title="Sport" ,Polsat Sport 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155255
