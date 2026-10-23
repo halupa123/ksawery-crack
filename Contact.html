@@ -1,72 +1,358 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>ksawery.crack - Contact</title>
-    <link rel="stylesheet" href="ksawery.css" media="screen">
-<link rel="stylesheet" href="Contact.css" media="screen">
-<link rel="icon" type="images/favicon.ico" href="images/favicon.ico">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="ksawery.js" defer=""></script>
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    
-    
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": ""
-}</script>
-    <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Contact">
-    <meta property="og:type" content="website">
-  </head>
-  <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-8065"><div class="u-clearfix u-sheet u-sheet-1">
-        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
-          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
-            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
-              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
-              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
-</g></svg>
-            </a>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ksawery.crack — Kontakt (Lepiej Nie Dzwonić)</title>
+  <meta name="description" content="Kontakt do Ksawerego z Grudziądza. Otwarte 24/7. Telefon: 733209607 (lepiej kurwa nie dzwoń). Email: nie mam.">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+  <!-- Google Fonts: Space Grotesk, Inter, JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600;800&family=Space+Grotesk:wght@500;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Ambient Cyber Backdrop -->
+  <div class="cyber-bg">
+    <div class="cyber-grid"></div>
+    <div class="glow-orb glow-orb-1"></div>
+    <div class="glow-orb glow-orb-2"></div>
+    <div class="glow-orb glow-orb-3"></div>
+  </div>
+
+  <!-- Top Live Ticker Alert Bar -->
+  <div class="top-ticker">
+    <div class="ticker-wrap">
+      <div class="ticker-badge">
+        <span class="pulse-dot"></span>
+        <span>LINIA ALARMOWA</span>
+      </div>
+      <div class="ticker-content">
+        <span>📞 NUMER BEZPOŚREDNI: 733 209 607 (lepiej kurwa nie dzwoń)</span>
+        <span>🕒 DYSPOZYCYJNOŚĆ: 24/7 od poniedziałku do niedzieli</span>
+        <span>✉️ ADRES POCZTOWY: nie mam (gołębie albo terminal)</span>
+        <span>🚨 STATUS BEZPIECZEŃSTWA: Federalni: 0 | Ksawery: 2</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="brand-logo">
+        <div class="brand-icon">⚡</div>
+        <div class="brand-meta">
+          <span class="brand-title">KSAWERY<span class="text-primary">.CRACK</span></span>
+          <span class="brand-sub">GRUDZIĄDZ LABS • EST. 2022</span>
+        </div>
+      </a>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html" class="nav-link">Strona Główna</a></li>
+        <li><a href="index.html#proces" class="nav-link">Proces (01-02)</a></li>
+        <li><a href="index.html#kalkulator" class="nav-link">Kalkulator Dywanu</a></li>
+        <li><a href="index.html#oferta" class="nav-link">Katalog</a></li>
+        <li><a href="index.html#opinie" class="nav-link">Opinie Kongo</a></li>
+        <li><a href="Contact.html" class="nav-link active">Kontakt</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button id="sound-toggle" class="btn btn-sm btn-secondary" title="Włącz/wyłącz efekty dźwiękowe">
+          🔊 Cyber Audio: ON
+        </button>
+
+        <button class="btn-panic trigger-panic" title="Skrót klawiszowy: ESC">
+          <span class="fbi-icon">🚨</span>
+          <span>TRYB FBI (PANIC)</span>
+        </button>
+
+        <button class="mobile-toggle" id="mobile-nav-toggle" aria-label="Menu mobilne">
+          <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main style="padding: 4rem 0 6rem;">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">BEZPOŚREDNI KONTAKT DO SZEFA</span>
+        <h1 class="section-title">Skontaktuj się ze mną</h1>
+        <p class="section-desc">
+          Masz problem z dywanem? Szukasz partii o certyfikowanej czystości? Przeczytaj uważnie instrukcję zanim wyciągniesz telefon.
+        </p>
+      </div>
+
+      <div class="contact-grid">
+        <!-- Official Contact Details Card -->
+        <div class="contact-card">
+          <div class="contact-header" style="margin-bottom: 2rem;">
+            <div style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--primary); margin-bottom: 0.4rem;">
+              ● KWATERA GŁÓWNA GRUDZIĄDZ
+            </div>
+            <h2 style="font-size: 1.8rem; font-weight: 800;">Oficjalne Dane Łączności</h2>
           </div>
-          <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="index.html" style="padding: 10px 20px;">Home</a>
-</li></ul>
-          </div>
-          <div class="u-custom-menu u-nav-container-collapse">
-            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
-              <div class="u-inner-container-layout u-sidenav-overflow">
-                <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html">Home</a>
-</li></ul>
+
+          <div class="contact-info-list">
+            <!-- Opening Hours -->
+            <div class="contact-item">
+              <div class="contact-icon-box">🕒</div>
+              <div class="contact-meta">
+                <h4>Godziny Otwarcia</h4>
+                <p style="font-size: 1.05rem; color: #fff; font-weight: 600;">
+                  Zawsze od poniedziałku do niedzieli, 24 godziny na dobę
+                </p>
+                <p style="font-size: 0.82rem; color: var(--text-dim); margin-top: 0.2rem;">
+                  Nawet w święta państwowe i podczas kontroli skarbowych.
+                </p>
               </div>
             </div>
-            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+
+            <!-- Phone Number -->
+            <div class="contact-item">
+              <div class="contact-icon-box">📞</div>
+              <div class="contact-meta">
+                <h4>Telefon</h4>
+                <p style="font-family: var(--font-heading); font-size: 1.6rem; font-weight: 900; color: var(--primary); letter-spacing: 0.05em;">
+                  733 209 607
+                </p>
+                <div class="contact-warning" style="font-size: 0.95rem; font-weight: 700;">
+                  ⚠️ (lepiej kurwa nie dzwoń)
+                </div>
+                <div style="margin-top: 0.8rem;">
+                  <button class="btn btn-danger btn-sm trigger-phone-call">
+                    🚨 Połącz na własne ryzyko
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Email Address -->
+            <div class="contact-item">
+              <div class="contact-icon-box">✉️</div>
+              <div class="contact-meta">
+                <h4>Email</h4>
+                <p style="font-size: 1.15rem; color: #ff527b; font-family: var(--font-mono); font-weight: 700;">
+                  nie mam
+                </p>
+                <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.2rem;">
+                  Serwery pocztowe logują IP. Jeśli masz sprawę, wpisz gryps do terminala po prawej.
+                </p>
+              </div>
+            </div>
+
+            <!-- Physical Location Advice -->
+            <div class="contact-item">
+              <div class="contact-icon-box">📍</div>
+              <div class="contact-meta">
+                <h4>Lokalizacja Fizyczna</h4>
+                <p style="color: #fff;">
+                  Dom Ksawerego, Grudziądz
+                </p>
+                <p style="font-size: 0.82rem; color: var(--text-dim);">
+                  Pukaj w okno piwnicy od strony podwórka (kod: 3 puknięcia, pauza, 1 puknięcie).
+                </p>
+              </div>
+            </div>
           </div>
-        </nav>
-      </div></header>
-    <section class="u-align-center u-clearfix u-image u-section-1" id="carousel_a4e8" data-image-width="1920" data-image-height="900">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="u-align-center u-container-style u-grey-90 u-group u-opacity u-opacity-85 u-shape-rectangle u-group-1">
-          <div class="u-container-layout u-container-layout-1">
-            <h2 class="u-align-center u-text u-text-palette-2-base u-text-1">Skontaktuj się ze mną</h2>
-            <p class="u-align-center u-text u-text-2"> Otwarte zawsze od poniedziałku do niedzieli 24 godziny na dobe<br>
-              <br>
-              <span style="font-weight: 700;">Phone:&nbsp;</span>733209607 (lepiej nie dzwoń)<br>
-              <span style="font-weight: 700;">Email: <span style="font-weight: 400;">nie mam</span>
+        </div>
+
+        <!-- Right Side: Interactive Terminal & Radar -->
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          <!-- Encrypted Terminal Card -->
+          <div class="terminal-card">
+            <div class="terminal-header">
+              <div class="terminal-dots">
+                <span class="dot-btn dot-red"></span>
+                <span class="dot-btn dot-yellow"></span>
+                <span class="dot-btn dot-green"></span>
+              </div>
+              <span class="terminal-title">szyfrowana-dyspozytornia-grudziadz.sh</span>
+              <span style="font-size: 0.7rem; color: var(--primary);">STATUS: LIVE</span>
+            </div>
+
+            <form class="terminal-body" id="terminal-form">
+              <div class="form-group">
+                <label class="form-label" for="term-nick">Twój Pseudonim / Ksywa:</label>
+                <input type="text" id="term-nick" class="form-input" placeholder="np. DobryKlient2026" required>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="term-msg">Treść Zgłoszenia (Gryps do Ksawerego):</label>
+                <textarea id="term-msg" class="form-textarea" placeholder="Napisz do Ksawerego... np. Potrzebuję próbki dla prezydenta Kongo albo trzepaczka się połamała." required></textarea>
+              </div>
+
+              <button type="submit" class="btn btn-primary" id="term-submit" style="width: 100%;">
+                Nadaj Szyfrowany Gryps
+              </button>
+
+              <div style="font-size: 0.72rem; color: var(--text-dim); text-align: center;">
+                🔒 Wiadomość automatycznie ulega samozniszczeniu po odczytaniu przez szefa.
+              </div>
+            </form>
+          </div>
+
+          <!-- Radar Status Box -->
+          <div class="contact-card" style="padding: 1.5rem; background: rgba(10, 14, 22, 0.9);">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+              <span style="font-family: var(--font-mono); font-size: 0.78rem; color: var(--primary); display: flex; align-items: center; gap: 0.5rem;">
+                <span class="pulse-dot" style="width:7px;height:7px;border-radius:50%;background:var(--primary);display:inline-block;"></span>
+                RADAR FEDERALNYCH: GRUDZIĄDZ
               </span>
-              <br>
+              <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--accent-cyan);">ZASIĘG: 20 KM</span>
+            </div>
+            <p style="font-size: 0.88rem; color: var(--text-muted); line-height: 1.5;">
+              Wszystkie jednostki patrolujące znajdują się poza perymetrem. Ostatnia próba przeszukania zakończona wynikiem 0:0. Możesz składać zamówienia w pełnym spokoju ducha.
             </p>
           </div>
         </div>
       </div>
-    </section>
-    
-    
-    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-5a41"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">©2023 ​Wykonane przez kolege z Indii oraz doktora hibilowanego tworzenia dobrych stron internetowych.</p>
-      </div></footer>
-	  
-</body></html>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="brand-logo">
+            <div class="brand-icon">⚡</div>
+            <span class="brand-title">KSAWERY<span class="text-primary">.CRACK</span></span>
+          </div>
+          <p>
+            Najwyższej próby rzemiosło z Grudziądza. Zawsze krok przed federalnymi, zawsze 10 kroków przed Twoją matką z trzepaczką.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h5>Nawigacja</h5>
+          <ul class="footer-links">
+            <li><a href="index.html">Strona Główna</a></li>
+            <li><a href="index.html#proces">Proces 01-02</a></li>
+            <li><a href="index.html#kalkulator">Kalkulator Dywanu</a></li>
+            <li><a href="index.html#oferta">Katalog 2026</a></li>
+            <li><a href="Contact.html">Kontakt Bezpośredni</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h5>Gwarancje & Certyfikaty</h5>
+          <ul class="footer-links">
+            <li><a href="javascript:void(0)" onclick="alert('Federalni byli 2 razy i nic nie znaleźli. Wynik meczu: 2:0.')">🛡️ Protokół FBI (2:0)</a></li>
+            <li><a href="javascript:void(0)" onclick="alert('Sanepid próbował wejść, ale klamka była posmarowana smarem.')">🧫 Atest Sanepidu (Nieważny)</a></li>
+            <li><a href="javascript:void(0)" onclick="alert('Samuel Schick osobiście podpisał dekret w Kinszasie.')">👑 Pieczęć Republiki Kongo</a></li>
+            <li><a href="javascript:void(0)" class="trigger-panic">🚨 Panic Button (ESC)</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2023 - 2026 ksawery.crack. Wszelkie prawa zastrzeżone w Grudziądzu.
+        </div>
+        <div class="footer-credits">
+          Wykonane przez kolegę z Indii oraz doktora habilitowanego tworzenia dobrych stron internetowych.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- FBI / Panic Mode Overlay -->
+  <div class="fbi-overlay" id="fbi-overlay">
+    <div class="excel-ribbon">
+      <div>
+        <strong>AutoSave: ON</strong> &nbsp;|&nbsp; 📊 Zestawienie_Upraw_Ziemniaka_Grudziądz_Q3_2024.xlsx - Excel
+      </div>
+      <div>
+        <button class="btn-fbi-exit" id="fbi-exit-btn">🚨 FEDERALNI ODJECHALI — WRÓĆ DO KSAWEREGO</button>
+      </div>
+    </div>
+
+    <div class="excel-tabs">
+      <span>Plik</span>
+      <span style="font-weight:bold; border-bottom: 2px solid #107c41;">Narzędzia główne</span>
+      <span>Wstawianie</span>
+      <span>Układ strony</span>
+      <span>Formuły</span>
+      <span>Dane</span>
+      <span>Recenzja</span>
+      <span>Widok</span>
+    </div>
+
+    <div class="excel-formula-bar">
+      <span style="color:#666;">fx</span>
+      <span style="border-right: 1px solid #ccc; padding-right: 10px;">B4</span>
+      <span>=SUMA(Atesty_Niewykrywalne!C2:C99) * 100%_CZYSTY_DYWAN</span>
+    </div>
+
+    <div class="excel-table-container">
+      <table class="excel-sheet-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>A: Uprawa / Rejon</th>
+            <th>B: Ilość worków (tona)</th>
+            <th>C: Kontrola Sanepid</th>
+            <th>D: Uwagi agronomiczne</th>
+            <th>E: Współczynnik wilgoci</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Ziemniaki Irys (Grudziądz Północ)</td>
+            <td>45.2</td>
+            <td>Zatwierdzono</td>
+            <td>Bulwy dorodne, brak szkodników</td>
+            <td>14.2%</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Buraki ćwikłowe odmiana Czerwona Kula</td>
+            <td>18.9</td>
+            <td>Zatwierdzono</td>
+            <td>Plon wysoki po opadach</td>
+            <td>18.0%</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Mąka krupczatka na pierogi Babci Haliny</td>
+            <td>120.0</td>
+            <td>BRAK UWAG (CZYSTO)</td>
+            <td>Federalni wąchali i nic nie wyczuli</td>
+            <td>0.0%</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Proszek do dywanów "Ksawery Standard"</td>
+            <td>99.8</td>
+            <td>Trzepie idealnie</td>
+            <td>Matka potwierdziła brak kurzu w salonie</td>
+            <td>0.1%</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Eksport dyplomatyczny (Kongo)</td>
+            <td>12.5</td>
+            <td>Certyfikat Samuela</td>
+            <td>Dostarczono drogą lotniczą bez uwag</td>
+            <td>0.0%</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div style="margin-top: 2rem; color: #777; font-size: 0.8rem; border-top: 1px solid #eee; padding-top: 1rem;">
+        Status arkusza: Kamuflaż aktywny. Federalni widzą tylko nudne zestawienie ziemniaków. Wciśnij zielony przycisk u góry, by wznowić.
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

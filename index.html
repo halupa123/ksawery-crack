@@ -1,143 +1,781 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;" lang="pl"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <title>ksawery.crack - Home</title>
-    <link rel="stylesheet" href="ksawery.css" media="screen">
-<link rel="stylesheet" href="Home.css" media="screen">
-<link rel="icon" type="images/favicon.ico" href="images/favicon.ico">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="ksawery.js" defer=""></script>
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Home">
-    <meta property="og:type" content="website">
-  </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-8065"><div class="u-clearfix u-sheet u-sheet-1">
-        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
-          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
-            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
-              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
-              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
-</g></svg>
-            </a>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ksawery.crack — Oficjalny Portal Grudziądz Labs</title>
+  <meta name="description" content="Oficjalna strona Ksawerego z Grudziądza. Najlepszy crack w okolicy, trzepie lepiej niż Twoja matka dywan. Federalni byli 2 razy i nic nie znaleźli.">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+  <!-- Google Fonts: Space Grotesk, Inter, JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600;800&family=Space+Grotesk:wght@500;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Ambient Cyber Backdrop -->
+  <div class="cyber-bg">
+    <div class="cyber-grid"></div>
+    <div class="glow-orb glow-orb-1"></div>
+    <div class="glow-orb glow-orb-2"></div>
+    <div class="glow-orb glow-orb-3"></div>
+  </div>
+
+  <!-- Top Live Ticker Alert Bar -->
+  <div class="top-ticker">
+    <div class="ticker-wrap">
+      <div class="ticker-badge">
+        <span class="pulse-dot"></span>
+        <span>PILNY KOMUNIKAT</span>
+      </div>
+      <div class="ticker-content">
+        <span>🚨 STAN POGOTOWIA: Federalni byli 2 razy i nic nie znaleźli (WYNIK 2:0 DLA KSAWEREGO)</span>
+        <span>⚡ SZEF MÓWI: „Trzepie lepiej niż Twoja matka dywan” — Zweryfikowane przez Dobry Klient 2022</span>
+        <span>📦 OSTATNIA DOSTAWA: 3 minuty temu do Grudziądza-Mniszek</span>
+        <span>👑 REKOMENDACJA DYPLOMATYCZNA: Samuel Schick, Prezydent DR Kongo: 5/5 gwiazdek</span>
+        <span>📞 TELEFON: 733 209 607 (lepiej kurwa nie dzwoń)</span>
+        <span>🕒 GODZINY OTWARCIA: 24/7 od poniedziałku do niedzieli</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="brand-logo">
+        <div class="brand-icon">⚡</div>
+        <div class="brand-meta">
+          <span class="brand-title">KSAWERY<span class="text-primary">.CRACK</span></span>
+          <span class="brand-sub">GRUDZIĄDZ LABS • EST. 2022</span>
+        </div>
+      </a>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#about" class="nav-link active">O Nas</a></li>
+        <li><a href="#proces" class="nav-link">Proces (01-02)</a></li>
+        <li><a href="#kalkulator" class="nav-link">Kalkulator Dywanu</a></li>
+        <li><a href="#oferta" class="nav-link">Oferta 2026</a></li>
+        <li><a href="#opinie" class="nav-link">Kongo & Opinie</a></li>
+        <li><a href="Contact.html" class="nav-link">Kontakt (24/7)</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button id="sound-toggle" class="btn btn-sm btn-secondary" title="Włącz/wyłącz efekty dźwiękowe">
+          🔊 Cyber Audio: ON
+        </button>
+
+        <button class="btn-panic trigger-panic" title="Skrót klawiszowy: ESC">
+          <span class="fbi-icon">🚨</span>
+          <span>TRYB FBI (PANIC)</span>
+        </button>
+
+        <button class="mobile-toggle" id="mobile-nav-toggle" aria-label="Menu mobilne">
+          <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero-section" id="about">
+      <div class="container hero-wrapper">
+        <div class="hero-content">
+          <div class="hero-pill">
+            <span class="dot"></span>
+            <span>DOMOWA PRODUKCJA • 100% CZYSTOŚCI Z GRUDZIĄDZA</span>
           </div>
-          <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="index.html" style="padding: 10px 20px;">Home</a>
-</li></ul>
-          </div>
-          <div class="u-custom-menu u-nav-container-collapse">
-            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
-              <div class="u-inner-container-layout u-sidenav-overflow">
-                <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html">Home</a>
-</li></ul>
-              </div>
-            </div>
-            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
-          </div>
-        </nav>
-      </div></header>
-    <section class="u-align-center u-clearfix u-image u-section-1" id="carousel_a69e" data-image-width="1920" data-image-height="900">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-border-20 u-border-white u-container-style u-group u-group-1">
-          <div class="u-container-layout u-container-layout-1">
-            <h4 class="u-align-center u-custom-font u-font-montserrat u-text u-text-body-alt-color u-text-1"> ksawerycrack</h4>
-            <p class="u-align-center u-text u-text-body-alt-color u-text-2">Moim zdaniem crack od ksawerego grudziądza jest top bo trzepie lepiej niż moja matka dywan<br>~Dobry klient - 2022
+
+          <h1 class="hero-title">
+            KSAWERY <span class="text-gradient">CRACK</span>
+          </h1>
+
+          <p class="hero-tagline">
+            Trzepie lepiej niż Twoja matka dywan.
+          </p>
+
+          <div class="hero-quote-box">
+            <p class="hero-quote-text">
+              „Moim zdaniem crack od ksawerego grudziądza jest top bo trzepie lepiej niż moja matka dywan”
             </p>
+            <div class="hero-quote-author">
+              ~ Dobry klient (Oryginalna opinia, 2022)
+            </div>
+          </div>
+
+          <div class="hero-cta">
+            <a href="#kalkulator" class="btn btn-primary">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="m10 15 5-3-5-3v6Z"></path>
+              </svg>
+              Wylicz Trzepanie Dywanu
+            </a>
+
+            <a href="Contact.html" class="btn btn-secondary">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+              </svg>
+              Kontakt (Nie dzwoń)
+            </a>
+
+            <button class="btn btn-danger btn-sm trigger-panic" title="Włącz tryb kamuflażu w ułamku sekundy">
+              🚨 JADĄ FEDERALNI!
+            </button>
+          </div>
+
+          <div class="hero-stats">
+            <div class="stat-item">
+              <span class="stat-number text-gradient" id="federal-stat-counter">2 : 0</span>
+              <span class="stat-label">Wynik z Federalnymi</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-number text-cyan">99.8%</span>
+              <span class="stat-label">Czystość Formuły</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-number text-purple">24 / 7</span>
+              <span class="stat-label">Godziny Pracy</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-number text-gold">1</span>
+              <span class="stat-label">Prezydent Kongo</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-card">
+            <div class="hero-card-header">
+              <span class="card-label">
+                <span class="pulse-dot" style="width:8px;height:8px;border-radius:50%;background:var(--primary);display:inline-block;"></span>
+                SPECYFIKACJA LABORATORYJNA
+              </span>
+              <span class="card-status-badge">ATEST PIWNICY</span>
+            </div>
+
+            <div class="hero-image-frame">
+              <img src="images/Untitled-11.jpg" alt="Ksawery Crack Receptura Grudziądz" loading="lazy">
+              <div class="image-overlay-tag">
+                📍 Grudziądz, Woj. Kujawsko-Pomorskie
+              </div>
+            </div>
+
+            <div class="card-metrics-grid">
+              <div class="metric-pill">
+                <div class="metric-name">Miejsce produkcji</div>
+                <div class="metric-val text-primary">Dom Ksawerego</div>
+              </div>
+              <div class="metric-pill">
+                <div class="metric-name">Status nalotów</div>
+                <div class="metric-val text-cyan">Nic nie znaleźli xD</div>
+              </div>
+              <div class="metric-pill">
+                <div class="metric-name">Wskaźnik trzepania</div>
+                <div class="metric-val text-gold">> Matka z trzepaczką</div>
+              </div>
+              <div class="metric-pill">
+                <div class="metric-name">Ocena klientów</div>
+                <div class="metric-val text-purple">Zajebista (10/10)</div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="u-align-center u-clearfix u-palette-2-base u-section-2" id="carousel_2228">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-list-1">
-          <div class="u-repeater u-repeater-1">
-            <div class="u-align-left u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
-              <div class="u-container-layout u-similar-container u-container-layout-1">
-                <h2 class="u-custom-font u-font-montserrat u-text u-text-palette-3-base u-text-1">0​1</h2>
-                <h5 class="u-custom-font u-font-montserrat u-text u-text-2">Produkcja</h5>
-                <p class="u-text u-text-3">Produkcja odbywa się w domu ksawerego. 2 razy byli u niego federalni ale nic nie znaleźli. xD</p>
-              </div>
-            </div>
-            <div class="u-align-left u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
-              <div class="u-container-layout u-similar-container u-container-layout-2">
-                <h2 class="u-custom-font u-font-montserrat u-text u-text-palette-3-base u-text-4">02</h2>
-                <h5 class="u-custom-font u-font-montserrat u-text u-text-5">Dystrybucja</h5>
-                <p class="u-text u-text-6">Ten proces jest najlepszy bo trafia to później do was - do zajebistych klientów.</p>
-              </div>
+
+    <!-- Process Section (01 & 02 & Równanie) -->
+    <section class="section" id="proces">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">ARCHITEKTURA PROCESU</span>
+          <h2 class="section-title">Jak powstaje najsłynniejszy crack w Polsce?</h2>
+          <p class="section-desc">
+            Bezkompromisowy proces inżynierii domowej, który dwukrotnie wytrzymał najbardziej wnikliwe kontrole federalnych.
+          </p>
+        </div>
+
+        <div class="process-grid">
+          <div class="process-card">
+            <div class="process-num">01</div>
+            <h3 class="process-title">Produkcja</h3>
+            <p class="process-desc">
+              „Produkcja odbywa się w domu ksawerego. 2 razy byli u niego federalni ale nic nie znaleźli. xD”
+            </p>
+            <div class="process-badge">
+              🛡️ Formuła Niewykrywalna dla Psów
             </div>
           </div>
-        </div>
-        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/5645.png" alt="" data-image-width="1000" data-image-height="878">
-      </div>
-    </section>
-    <section class="u-align-left u-clearfix u-palette-1-base u-section-3" id="carousel_da79">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-expanded-width-sm u-expanded-width-xs u-list u-list-1">
-          <div class="u-repeater u-repeater-1">
-            <div class="u-border-20 u-border-no-left u-border-no-right u-border-no-top u-border-white u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-palette-3-base u-text-1">Jakość</h3>
-              </div>
-            </div>
-            <div class="u-border-20 u-border-no-left u-border-no-right u-border-no-top u-border-white u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-palette-3-base u-text-2">Doskonałość</h3>
-              </div>
-            </div>
-            <div class="u-border-20 u-border-no-left u-border-no-right u-border-no-top u-border-white u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-palette-3-base u-text-3">= Crack Od Krawerego Grudziądza</h3>
-              </div>
+
+          <div class="process-card">
+            <div class="process-num">02</div>
+            <h3 class="process-title">Dystrybucja</h3>
+            <p class="process-desc">
+              „Ten proces jest najlepszy bo trafia to później do was - do zajebistych klientów.”
+            </p>
+            <div class="process-badge">
+              📦 Ekspresowa Poczta Grudziądzka
             </div>
           </div>
-        </div>
-        <img class="u-expanded-height-xl u-expanded-width-xs u-image u-image-default u-image-1" src="images/pexels-photo-733500.png" alt="" data-image-width="576" data-image-height="864">
-      </div>
-    </section>
-    <section class="u-align-center u-clearfix u-image u-section-4" id="carousel_1f04" data-image-width="1920" data-image-height="900">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="u-align-center u-border-20 u-border-white u-container-style u-group u-shape-rectangle u-group-1">
-          <div class="u-container-layout u-container-layout-1">
-            <h2 class="u-custom-font u-font-montserrat u-text u-text-body-alt-color u-text-1"> Jesteś smutny?<br>Zostawiła cię dziewczyna?<br> Skontaktuj się z nami
-            </h2>
-            <a href="Contact.html" class="u-active-palette-1-base u-border-active-black u-border-hover-black u-border-none u-btn u-btn-round u-button-style u-color-scheme-summer-time u-color-style-multicolor-1 u-hover-palette-1-base u-palette-3-base u-radius-50 u-text-active-white u-text-hover-white u-text-palette-2-base u-btn-1">Kontakt</a>
+
+          <div class="process-card">
+            <div class="process-num">03</div>
+            <h3 class="process-title">Równanie Sukcesu</h3>
+            <p class="process-desc">
+              <strong>Jakość + Doskonałość = Crack Od Ksawerego Grudziądza.</strong> Czysta matematyka zatwierdzona przez Sanepid i Radę Miasta.
+            </p>
+            <div class="process-badge">
+              💎 Złoty Standard Grudziądza
+            </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="u-align-left u-clearfix u-image u-section-5" id="carousel_cdc2" data-image-width="1920" data-image-height="900">
-      <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
-        <div id="carousel-5989" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width u-slider u-slider-1">
-          <div class="u-carousel-inner" role="listbox">
-            <div class="u-active u-align-center u-carousel-item u-container-style u-slide u-white u-carousel-item-1">
-              <div class="u-container-layout u-container-layout-1">
-                <div alt="" class="u-image u-image-circle u-image-1" data-image-width="1000" data-image-height="1500"></div>
-                <p class="u-large-text u-text u-text-variant u-text-1">"Nigdy nie miałem tak dobrego cracku. Najlepsze ceny i doskonała jakość"<br>
+
+    <!-- Carpet Beating Interactive Calculator -->
+    <section class="section" id="kalkulator" style="background: rgba(0,0,0,0.25);">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">TEST LABORATORYJNY</span>
+          <h2 class="section-title">Kalkulator: Trzepanie Dywanu</h2>
+          <p class="section-desc">
+            Sprawdź empirycznie, czy Twoja matka ma jakiekolwiek szanse w starciu z mikroskopijną mocą formuły Ksawerego.
+          </p>
+        </div>
+
+        <div class="calculator-box">
+          <div class="calc-grid">
+            <div class="calc-inputs">
+              <div class="input-group">
+                <label class="input-label" for="calc-area">
+                  <span>Powierzchnia Twojego Dywanu:</span>
+                  <span class="input-value-badge" id="calc-area-val">12 m²</span>
+                </label>
+                <input type="range" id="calc-area" class="range-slider" min="2" max="60" value="12" step="1">
+              </div>
+
+              <div class="input-group">
+                <label class="input-label" for="calc-type">Typ i pochodzenie dywanu:</label>
+                <select id="calc-type" class="select-custom">
+                  <option value="1">Tradycyjny Turecki po Babci (Wełna 100%)</option>
+                  <option value="1.3" selected>Puszysty Dywan Shaggy z Salonu</option>
+                  <option value="0.8">Chodnik Korytarzowy z czasów PRL</option>
+                  <option value="2">Dywan z plamami po komunii kuzyna (2008)</option>
+                </select>
+              </div>
+
+              <div class="input-group">
+                <label class="input-label" for="calc-dirt">Stopień zabrudzenia kurzem:</label>
+                <select id="calc-dirt" class="select-custom">
+                  <option value="1">Lekki kurz niedzielny</option>
+                  <option value="1.5" selected>Standardowy syf po zimie</option>
+                  <option value="2.5">Katastrofa ekologiczna (pies + błoto)</option>
+                </select>
+              </div>
+
+              <button class="btn btn-primary" id="btn-print-recipe" style="margin-top: 1rem;">
+                📜 Wystaw Oficjalną Receptę Ksawerego
+              </button>
+            </div>
+
+            <div class="calc-results">
+              <div class="comparison-table">
+                <div class="comp-row">
+                  <div>
+                    <div class="comp-col-label">Matka z trzepaczką</div>
+                    <div class="comp-col-val val-bad" id="time-mom">3.6 godz. + pot</div>
+                  </div>
+                  <div>
+                    <div class="comp-col-label">Ksawery Crack 2022</div>
+                    <div class="comp-col-val val-good" id="time-crack">0.35 sekundy!</div>
+                  </div>
+                </div>
+
+                <div class="comp-row">
+                  <div>
+                    <div class="comp-col-label">Poziom hałasu na osiedlu</div>
+                    <div class="comp-col-val val-bad" id="noise-mom">114 dB (Awantura)</div>
+                  </div>
+                  <div>
+                    <div class="comp-col-label">Czystość tkaniny</div>
+                    <div class="comp-col-val val-good" id="purity-crack">99.85% (Brak roztoczy)</div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="calc-verdict">
+                <p class="verdict-text" id="calc-verdict-text">
+                  Wyliczanie zaleceń Ksawerego...
                 </p>
-                <h4 class="u-text u-text-2">Samuel Schick<br>
-                </h4>
-                <h6 class="u-text u-text-3">Prezydent ​Demokratycznej Republiki Kongo</h6>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="u-align-center u-clearfix u-palette-1-base u-section-6" id="carousel_8c9e">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-border-20 u-border-white u-container-style u-group u-shape-rectangle u-group-1">
-          <div class="u-container-layout u-container-layout-1"><span class="u-icon u-icon-circle u-text-palette-3-base u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.294 409.294" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-ca89"></use></svg><svg class="u-svg-content" viewBox="0 0 409.294 409.294" id="svg-ca89"><path d="m233.882 29.235v175.412h116.941c0 64.48-52.461 116.941-116.941 116.941v58.471c96.728 0 175.412-78.684 175.412-175.412v-175.412z"></path><path d="m0 204.647h116.941c0 64.48-52.461 116.941-116.941 116.941v58.471c96.728 0 175.412-78.684 175.412-175.412v-175.412h-175.412z"></path></svg></span>
-            <h4 class="u-align-center u-custom-font u-font-montserrat u-text u-text-palette-3-base u-text-1"> Moim zdaniem mam najlepszy crack w tej okolicy jak nie w całym kraju.</h4>
-            <h5 class="u-custom-font u-font-montserrat u-text u-text-default u-text-2">- Ksawery Grudziądz -</h5>
+
+    <!-- Catalog Section / Special Offers -->
+    <section class="section" id="oferta">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">KATALOG ZIMA / WIOSNA 2026</span>
+          <h2 class="section-title">Wybierz Wariant dla Siebie</h2>
+          <p class="section-desc">
+            Bezpieczne partie prosto z piwnicy w Grudziądzu. Wszystkie produkty testowane z zachowaniem procedur BHP.
+          </p>
+        </div>
+
+        <div class="products-grid">
+          <!-- Product 1 -->
+          <div class="product-card">
+            <div class="product-header">
+              <div class="product-category">Klasyk z Grudziądza</div>
+              <h3 class="product-title">Ksawery Classic</h3>
+              <div class="product-price">
+                Vintage 2022 <span>/ do dogadania</span>
+              </div>
+            </div>
+            <p class="product-desc">
+              Oryginalna partia, od której zaczęła się legenda trzepania dywanu. Prosta, uczciwa formuła bez zbędnych wypełniaczy.
+            </p>
+            <ul class="product-features">
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Trzepie silniej niż cała klatka schodowa
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Pakowane w folię aluminiową spożywczą
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Rekomendowane przez Dobrego Klienta
+              </li>
+            </ul>
+            <a href="Contact.html" class="btn btn-secondary">Zamów w Piwnicy</a>
+          </div>
+
+          <!-- Product 2 (Featured) -->
+          <div class="product-card featured">
+            <div class="product-badge-top">BESTSELLER 2:0</div>
+            <div class="product-header">
+              <div class="product-category">Seria Niewykrywalna</div>
+              <h3 class="product-title">Federal Ghost Edition</h3>
+              <div class="product-price">
+                Bezcenny <span>/ 0 dowodów</span>
+              </div>
+            </div>
+            <p class="product-desc">
+              Receptura udoskonalona po wizytach służb. Odróżnia się tym, że federalni patrzyli na to z 10 centymetrów i nic nie znaleźli.
+            </p>
+            <ul class="product-features">
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                100% odporności na psy tropiące
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Pachnie jak proszek do pieczenia Babuni
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Darmowy skrót klawiszowy ESC w zestawie
+              </li>
+            </ul>
+            <a href="Contact.html" class="btn btn-primary">Biorę w Ciemno</a>
+          </div>
+
+          <!-- Product 3 -->
+          <div class="product-card">
+            <div class="product-header">
+              <div class="product-category">Rezerwa Dyplomatyczna</div>
+              <h3 class="product-title">Samuel Schick Reserve</h3>
+              <div class="product-price">
+                Klasa VIP <span>/ eksport</span>
+              </div>
+            </div>
+            <p class="product-desc">
+              Specjalna partia zamawiana bezpośrednio przez Pałac Prezydencki w Kinszasie. Czyste złoto Grudziądza.
+            </p>
+            <ul class="product-features">
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Pieczęć Prezydenta Demokratycznej Republiki Kongo
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Złote opakowanie dyplomatyczne
+              </li>
+              <li>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                Darmowa wysyłka gołębiem transkontynentalnym
+              </li>
+            </ul>
+            <a href="Contact.html" class="btn btn-secondary">Protokół Dyplomatyczny</a>
           </div>
         </div>
       </div>
     </section>
-    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-5a41"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">©2023 ​Wykonane przez kolege z Indii oraz doktora hibilowanego tworzenia dobrych stron internetowych.</p>
-      </div></footer>
-</body></html>
+
+    <!-- Crisis Section ("Jesteś smutny? Zostawiła cię dziewczyna?") -->
+    <section class="section" id="kryzys">
+      <div class="container">
+        <div class="crisis-box">
+          <h2 class="section-title text-gradient-purple">
+            Jesteś smutny? Zostawiła Cię dziewczyna?
+          </h2>
+          <p class="section-desc" style="max-width: 650px; margin: 0 auto;">
+            Spokojnie, Ksawery Grudziądz Labs oferuje bezpłatną konsultację egzystencjalną. Wybierz swój aktualny stan emocjonalny:
+          </p>
+
+          <div class="crisis-options">
+            <button class="crisis-tab-btn active" data-problem="girl">💔 Zostawiła mnie dziewczyna</button>
+            <button class="crisis-tab-btn" data-problem="carpet">🧹 Brudny dywan w pokoju</button>
+            <button class="crisis-tab-btn" data-problem="fbi">🚨 Koguty pod klatką</button>
+            <button class="crisis-tab-btn" data-problem="energy">😴 Brak chęci do życia</button>
+          </div>
+
+          <div class="crisis-advice-card">
+            <div class="advice-header" id="advice-title">
+              Kategoria: Serce pęknięte, dywan czysty
+            </div>
+            <div class="advice-content" id="advice-text">
+              Zostawiła Cię? Jej gigantyczna strata, mordeczko! Widocznie nie doceniała Twojego luksusowego gustu. Zamiast płakać w poduszkę, zamów paczkę z Grudziądza, odkurz chatę, zadbaj o siebie i pamiętaj: prawdziwa miłość może i przemija, ale crack od Ksawerego zawsze trzepie tak samo dobrze.
+            </div>
+            <a href="Contact.html" class="btn btn-sm btn-primary">Skonsultuj z Ksawerym</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials / Opinie (Samuel Schick Kongo, Dobry Klient, Ksawery) -->
+    <section class="section" id="opinie">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">ZAUFANIE PONAD GRANICAMI</span>
+          <h2 class="section-title">Co Mówią Nasi Klienci?</h2>
+          <p class="section-desc">
+            Od lokalnych mistrzów trzepania dywanów po głowy suwerennych państw afrykańskich.
+          </p>
+        </div>
+
+        <div class="testimonials-grid" style="grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));">
+          <!-- Testimonial 1: Samuel Schick -->
+          <div class="testimonial-card">
+            <div class="stars-row">★★★★★</div>
+            <p class="testimonial-text">
+              „Nigdy nie miałem tak dobrego cracku. Najlepsze ceny i doskonała jakość. Zamawiam transport do Kinszasy w każdy pierwszy wtorek miesiąca.”
+            </p>
+            <div class="testimonial-user">
+              <div class="user-avatar">
+                <img src="images/pexels-photo-8386597.jpeg" alt="Samuel Schick Prezydent Kongo">
+              </div>
+              <div class="user-info">
+                <h5>Samuel Schick</h5>
+                <p>Prezydent Demokratycznej Republiki Kongo</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Testimonial 2: Dobry Klient -->
+          <div class="testimonial-card">
+            <div class="stars-row">★★★★★</div>
+            <p class="testimonial-text">
+              „Moim zdaniem crack od ksawerego grudziądza jest top bo trzepie lepiej niż moja matka dywan. Matka próbowała pobić ten wynik, ale po godzinie zemdlała na balkonie.”
+            </p>
+            <div class="testimonial-user">
+              <div class="user-avatar">
+                <img src="images/pexels-photo-733500.png" alt="Dobry Klient 2022">
+              </div>
+              <div class="user-info">
+                <h5>Dobry Klient</h5>
+                <p>Koneser z Grudziądza (Zweryfikowany 2022)</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Testimonial 3: Pani Grażyna (Matka) -->
+          <div class="testimonial-card">
+            <div class="stars-row">★★★★★</div>
+            <p class="testimonial-text">
+              „Po 25 latach wyrzuciłam trzepaczkę z drutu do kosza. Szczypta formuły Ksawerego i perski dywan sam wypluł kurz z 2004 roku. Teraz mam czas na kawusię!”
+            </p>
+            <div class="testimonial-user">
+              <div class="user-avatar">
+                <img src="images/cheerful-business-woman-make-winner-gesture.jpg" alt="Pani Grażyna">
+              </div>
+              <div class="user-info">
+                <h5>Pani Grażyna</h5>
+                <p>Uratowana Matka (Grudziądz-Strzemięcin)</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Testimonial 4: Federalny Oficer -->
+          <div class="testimonial-card">
+            <div class="stars-row">★★★★★</div>
+            <p class="testimonial-text">
+              „Byliśmy u niego 2 razy z nakazem. Przeszukaliśmy tapczan, szafki, a nawet doniczki z paprotką. Nic nie znaleźliśmy. Szacun dla Ksawerego za porządek w piwnicy.”
+            </p>
+            <div class="testimonial-user">
+              <div class="user-avatar">
+                <img src="images/5645.png" alt="Oficer Śledczy">
+              </div>
+              <div class="user-info">
+                <h5>Anonimowy Federalny</h5>
+                <p>Wydział Kontroli Nieskutecznej (Wynik 0:2)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Boss Quote Banner -->
+    <section class="boss-quote-section">
+      <div class="container">
+        <div class="boss-card">
+          <div class="boss-icon">❝</div>
+          <div class="boss-quote">
+            „Moim zdaniem mam najlepszy crack w tej okolicy jak nie w całym kraju.”
+          </div>
+          <div class="boss-signature">
+            — Ksawery Grudziądz (CEO & Founder) —
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quick Terminal & Contact Preview -->
+    <section class="section" id="kontakt-preview" style="background: rgba(0,0,0,0.3);">
+      <div class="container">
+        <div class="contact-grid">
+          <div class="contact-card">
+            <span class="section-tag">CENTRALA OPERACYJNA</span>
+            <h3 class="section-title" style="font-size: 2rem;">Dane Kontaktowe</h3>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+              Chcesz porozmawiać o dywanie, złożyć zamówienie hurtowe, czy po prostu sprawdzić czy Ksawery nie śpi?
+            </p>
+
+            <div class="contact-info-list">
+              <div class="contact-item">
+                <div class="contact-icon-box">🕒</div>
+                <div class="contact-meta">
+                  <h4>Godziny Otwarcia</h4>
+                  <p>Otwarte zawsze: poniedziałek - niedziela, 24 godziny na dobę.</p>
+                </div>
+              </div>
+
+              <div class="contact-item">
+                <div class="contact-icon-box">📞</div>
+                <div class="contact-meta">
+                  <h4>Telefon Operacyjny</h4>
+                  <p style="font-weight: 700; color: #fff; font-size: 1.15rem;">
+                    733 209 607
+                  </p>
+                  <p class="contact-warning">
+                    ⚠️ (lepiej kurwa nie dzwoń)
+                  </p>
+                  <div style="margin-top: 0.6rem;">
+                    <button class="btn btn-sm btn-secondary trigger-phone-call">
+                      Zadzwoń na własne ryzyko
+                    </button>
+                  </div>
+                </div>
+              </div>
+
+              <div class="contact-item">
+                <div class="contact-icon-box">✉️</div>
+                <div class="contact-meta">
+                  <h4>Adres Email</h4>
+                  <p style="font-style: italic;">nie mam (serwery podsłuchują)</p>
+                  <p style="font-size: 0.8rem; color: var(--text-dim);">Użyj szyfrowanego terminala obok.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Encrypted Terminal -->
+          <div class="terminal-card">
+            <div class="terminal-header">
+              <div class="terminal-dots">
+                <span class="dot-btn dot-red"></span>
+                <span class="dot-btn dot-yellow"></span>
+                <span class="dot-btn dot-green"></span>
+              </div>
+              <span class="terminal-title">ksawery-sec-terminal v3.8 [ONLINE]</span>
+              <span style="font-size: 0.7rem; color: var(--primary);">256-BIT</span>
+            </div>
+
+            <form class="terminal-body" id="terminal-form">
+              <div class="form-group">
+                <label class="form-label" for="term-nick">Kryptonim Nadawcy / Ksywa:</label>
+                <input type="text" id="term-nick" class="form-input" placeholder="np. MistrzTrzepaczki2000" required>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="term-msg">Treść Szyfrowanego Grypsu:</label>
+                <textarea id="term-msg" class="form-textarea" placeholder="Wpisz treść... np. Ksawery, dywan w korytarzu czeka na cud." required></textarea>
+              </div>
+
+              <button type="submit" class="btn btn-primary" id="term-submit" style="width: 100%;">
+                Wyślij Szyfrowany Gryps Gołębiem
+              </button>
+
+              <div style="font-size: 0.75rem; color: var(--text-dim); text-align: center;">
+                🔒 Wiadomość omija bilingi i trafia prosto do pieca w piwnicy.
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="brand-logo">
+            <div class="brand-icon">⚡</div>
+            <span class="brand-title">KSAWERY<span class="text-primary">.CRACK</span></span>
+          </div>
+          <p>
+            Najwyższej próby rzemiosło z Grudziądza. Zawsze krok przed federalnymi, zawsze 10 kroków przed Twoją matką z trzepaczką.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h5>Nawigacja</h5>
+          <ul class="footer-links">
+            <li><a href="#about">Strona Główna</a></li>
+            <li><a href="#proces">Proces 01-02</a></li>
+            <li><a href="#kalkulator">Kalkulator Dywanu</a></li>
+            <li><a href="#oferta">Katalog 2026</a></li>
+            <li><a href="Contact.html">Kontakt Bezpośredni</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h5>Gwarancje & Certyfikaty</h5>
+          <ul class="footer-links">
+            <li><a href="javascript:void(0)" onclick="alert('Federalni byli 2 razy i nic nie znaleźli. Wynik meczu: 2:0.')">🛡️ Protokół FBI (2:0)</a></li>
+            <li><a href="javascript:void(0)" onclick="alert('Sanepid próbował wejść, ale klamka była posmarowana smarem.')">🧫 Atest Sanepidu (Nieważny)</a></li>
+            <li><a href="javascript:void(0)" onclick="alert('Samuel Schick osobiście podpisał dekret w Kinszasie.')">👑 Pieczęć Republiki Kongo</a></li>
+            <li><a href="javascript:void(0)" class="trigger-panic">🚨 Panic Button (ESC)</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2023 - 2026 ksawery.crack. Wszelkie prawa zastrzeżone w Grudziądzu.
+        </div>
+        <div class="footer-credits">
+          Wykonane przez kolegę z Indii oraz doktora habilitowanego tworzenia dobrych stron internetowych.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==========================================================================
+       FBI OVERLAY — THE PANIC BUTTON (MICROSOFT EXCEL CAMOUFLAGE)
+       ========================================================================== -->
+  <div class="fbi-overlay" id="fbi-overlay">
+    <div class="excel-ribbon">
+      <div>
+        <strong>AutoSave: ON</strong> &nbsp;|&nbsp; 📊 Zestawienie_Upraw_Ziemniaka_Grudziądz_Q3_2024.xlsx - Excel
+      </div>
+      <div>
+        <button class="btn-fbi-exit" id="fbi-exit-btn">🚨 FEDERALNI ODJECHALI — WRÓĆ DO KSAWEREGO</button>
+      </div>
+    </div>
+
+    <div class="excel-tabs">
+      <span>Plik</span>
+      <span style="font-weight:bold; border-bottom: 2px solid #107c41;">Narzędzia główne</span>
+      <span>Wstawianie</span>
+      <span>Układ strony</span>
+      <span>Formuły</span>
+      <span>Dane</span>
+      <span>Recenzja</span>
+      <span>Widok</span>
+    </div>
+
+    <div class="excel-formula-bar">
+      <span style="color:#666;">fx</span>
+      <span style="border-right: 1px solid #ccc; padding-right: 10px;">B4</span>
+      <span>=SUMA(Atesty_Niewykrywalne!C2:C99) * 100%_CZYSTY_DYWAN</span>
+    </div>
+
+    <div class="excel-table-container">
+      <table class="excel-sheet-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>A: Uprawa / Rejon</th>
+            <th>B: Ilość worków (tona)</th>
+            <th>C: Kontrola Sanepid</th>
+            <th>D: Uwagi agronomiczne</th>
+            <th>E: Współczynnik wilgoci</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Ziemniaki Irys (Grudziądz Północ)</td>
+            <td>45.2</td>
+            <td>Zatwierdzono</td>
+            <td>Bulwy dorodne, brak szkodników</td>
+            <td>14.2%</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Buraki ćwikłowe odmiana Czerwona Kula</td>
+            <td>18.9</td>
+            <td>Zatwierdzono</td>
+            <td>Plon wysoki po opadach</td>
+            <td>18.0%</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Mąka krupczatka na pierogi Babci Haliny</td>
+            <td>120.0</td>
+            <td>BRAK UWAG (CZYSTO)</td>
+            <td>Federalni wąchali i nic nie wyczuli</td>
+            <td>0.0%</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Proszek do dywanów "Ksawery Standard"</td>
+            <td>99.8</td>
+            <td>Trzepie idealnie</td>
+            <td>Matka potwierdziła brak kurzu w salonie</td>
+            <td>0.1%</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Eksport dyplomatyczny (Kongo)</td>
+            <td>12.5</td>
+            <td>Certyfikat Samuela</td>
+            <td>Dostarczono drogą lotniczą bez uwag</td>
+            <td>0.0%</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div style="margin-top: 2rem; color: #777; font-size: 0.8rem; border-top: 1px solid #eee; padding-top: 1rem;">
+        Status arkusza: Kamuflaż aktywny. Federalni widzą tylko nudne zestawienie ziemniaków. Wciśnij zielony przycisk u góry, by wznowić.
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
